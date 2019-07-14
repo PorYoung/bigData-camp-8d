@@ -1,0 +1,111 @@
+主讲人 : 赵月枝
+作为一个从英美等西方国家引进的学术取向，文化研究往往聚焦现代社会的城市文化和流行文化。与此同时，主流传播学因其“现代化”范式把乡村传播研究的问题意识局限于技术扩散，而批判政治经济学者则因其西方马克思主义的盲点而对乡村发展问题缺乏建设性关照。这意味着，“互联网+”时代中国乡村社会丰富多面的文化现象往往被置于大部分文化研究者和传播学者的视野之外。在城乡一体化发展不断深入和乡土文化复兴已然成为新时代重要主题的今天，文化研究和传播政治经济学如何在各自领域的“中国化”过程中关照乡村中国，并在城乡关系视野下更好地结合起来，且在乡村文化建设方面有所作为？本演讲以对乡村春晚现象的跨文化传播政治经济分析切入，探讨走文化研究与传播政治经济学相结合研究道路以及这两个领域与乡村中国的文化生产实践相链接的新可能性。
+
+
+主讲人简介：
+加拿大西蒙菲莎大学国家特聘教授、清华大学新闻与传播学院特聘教授、浙江省“千人计划”专家。研究领域涵盖传播理论和社会理论、传播政治经济学、国际传播与全球媒体治理、城乡关系视野下的文化、传播与社会变迁等，主要著作有 《维系民主？》、《传播与社会》和Communication in China等。先后获达拉斯·思迈斯奖（Dallas Smythe Award）和埃德温·贝克奖（C. Edwin Baker Award），是国际传播学界第二位拥有这两项终身学术成就奖的学者。
+======
+Shale Gas Stimulation Using Foam Based Fluids
+主讲人 : Prof. Ranjith P. G
+1. Properties of foams
+2. Field scale studies: Advantage of foam fracturing
+3. Experimental studies with foam and water as fracturing fluids
+4. Numerical studies
+主讲人简介：
+Ranjith P. G.教授为澳大利亚莫纳什大学土木工程系科研主管兼深部地球能源实验室主任，澳洲研究理事会（ARC Future Fellow）成员。主要研究领域为：地下工程灾害防治、能源与废弃物地下处置、提高油气采收率、石油工程岩石力学等。出版专著1部，发表SCI论文150多篇。仅从2006年起，获得澳洲研究理事会资助的研究基金总额超过1720万澳元，是澳洲土木工程、岩石力学、地下工程、地质环境等十几个专业学会的会员或理事，多次包括澳洲科学院科学奖等奖励。
+======
+BOF Steelmaking – Advanced Understanding and Dynamic Modelling
+主讲人 : ZuShu Li
+Basic Oxygen Furnace (BOF) Steelmaking is currently a dominant steelmaking process, accounting for over 70% of world crude steel production. The steel community has been conducting significant research and development to increase the productivity, improve the process control and reduce the environmental impact of the BOF steelmaking process. The speaker will introduce his research experience in last 10 years, in collaboration with world leaders, on BOF steelmaking – fluxing behaviour, in-situ neutron observation of BOF slags at steelmaking temperatures, emulsification phenomena, dynamic modelling, and energy and materials recovery in steelmaking slags.
+
+
+主讲人简介：
+Dr Zushu Li is a Principal Research Fellow and an EPSRC Fellow in Manufacturing at WMG, the University of Warwick, UK. He leads the research in sustainable steel manufacturing, focusing on alternative ironmaking processes, clean steel technologies, and energy and materials recovery and recycling. He has extensive industrial experience in process innovation for product development and in-depth understanding of the industry. Prior to joining the Advanced Steel Research Centre at WMG in April 2016, he was a Principal Scientist at Tata Steel R&D (UK), where he worked for nearly 10 years. Previously he worked at Imperial College London (UK), Kyushu Institute of Technology (Japan) and Chongqing University (China). He received his PhD degree in Metallurgy from Chongqing University, China.
+======
+Phase diagrams - the Beginning of Wisdom
+主讲人 : Rainer Schmid-Fetzer
+This work presents a primer on "How to Read and Apply Phase Diagrams" in the current environment of powerful thermodynamic software packages. Advanced aspects in that context are also covered. It is a brief guide into using this cornerstone of knowledge in materials science and engineering and offers assistance in the proper interpretation of results obtained from state-of-the-art Calphad-type thermodynamic calculations. Starting from the very basics it explains the reading of unary, binary and ternary phase diagrams, including liquidus projections, isothermal and vertical phase diagram sections. Application examples are directly derived from these phase diagrams of Fe, Cu-Ni, Mg-Al, and Mg-Al-Zn. The use of stable and metastable phase diagrams and appropriate choices of state variables are explained for the relevant Fe-C and Fe-C-Si systems. Thermodynamic solidification simulation using the Scheil approximation in comparison to the equilibrium case is covered in context of multicomponent multiphase solidification and exemplified for Mg-Al-Zn alloys. The generic approach is directly applicable for all inorganic materials, but exemplified in this concise work for a small selection of metallic systems to highlight the interdependences among the phase diagrams. The embedded application examples for real material systems and various materials processes also emphasize the use of phase diagrams for the path from initial off-equilibrium state towards equilibrium.
+主讲人简介：
+Rainer Schmid-Fetzer 教授，博士毕业于克劳斯塔尔工业大学。1982年至1984年期间，在美国威斯康星大学麦迪逊分校担任访问学者和访问副教授，主攻功能材料方向。1985-2015年期间，就职于克劳斯塔尔工业大学并担任“热化学和微观动力学”组负责人。
+他的研究方向主要为于多组元材料的结构和热力学；合金凝固和微观组织演化； Mg-，Al-，Ti-，Zn-和Li基材料；大块材料和薄膜材料中的界面反应等。 目前已发表了350多篇学术论文，其中250多篇在发表在出现在Acta Mater., Scr. Mater., Progr. Mater. Sci., Mater.Sci.Eng. A+B, Adv. Eng. Mater., Calphad, J.Alloys Comp., Metall. Mater. Trans. A+B, J. Cryst. Growth 和 Thermochim. Acta,等高水平期刊上。由于他的杰出贡献，他被授予德国材料学会（DGM）Tammann奖； ASM国际会员；中科院金属所李勋讲座奖；英国伦敦材料矿物研究所Hume-Rothery奖；美国矿物，金属和材料学会William Hume-Rothery奖。
+Schmid-Fetzer教授担任Journal of Phase Equilibria; Advisory Board Member, Int. Journal Materials Research (Z. Metallkunde)等期刊的副主编。国际相图委员会主席；德国材料学会热力学与相图平衡委员会的主席。Schmid-Fetzer教授在相图领域有很高的国际影响力。
+======
+Inovation in engineering approach is key to commercialise CSG（Coal Seam Gad） Development
+主讲人 : 王星锦 教授
+1. Permeability changes during production, due to cleat collapse or shrinkage of matrix caused by desorption or stress change;
+2. The failure of permeability test may mislead in reservoir characterisation;
+3. Optimisation of well completion  d on de ion of reservoir nature;
+4. Reservoir protection is critical in prouduction management
+
+
+主讲人简介：
+王星锦，国际知名非常规天然气专家。现任澳大利亚昆士兰大学煤层气研究中心教授、博士生导师、SPE（美国石油工程协会）讲习教授、中国地质大学（武汉）特聘教授、湖北省楚天学者、Gazprom（俄罗斯天然气公司）非常天然气顾问。王星锦在澳大利亚、美国、中国、俄罗斯、印度尼西亚的主要含油气盆地有丰富的工作经验。王星锦曾担任澳大利亚最大煤层气公司Arrow能源公司的总经理（2006-2010），发明了著名的V型井，现已在世界范围内广泛采用。王星锦参与了澳大利亚、美国、俄罗斯页岩气、致密砂岩气的开采， 发表论文120篇。获澳大利亚石油协会多项奖励。研究领域包括煤层气、页岩气、致密砂岩气储层保护；页岩气完井技术优化；致密砂岩井间干扰分析；地层水对页岩气产能的影响等。王星锦参与鄂尔多斯盆地非常规天然气的开发，曾担任中石化华东局顾问、2012年被神华地质勘查公司聘为非常规天然气首席专家。 现担任中澳合作项目“二氧化碳捕获和储集联合研究项目”召集人，澳大利亚科学和创新部提供科研经费1500万澳元。王星锦拥有澳大利亚新南威尔士大学地质学博士学位。
+======
+Two drilling technologies to enhance gas/oil flow from tight formations
+主讲人 : Prof. Michael Hood
+1. Zero radius drillings
+2. Tight radius drillings
+3. Advantages and disadvantages-ZRD
+4. Advantages and disadvantages -TRD
+
+
+主讲人简介：
+Professor Michael Hood is an internationally-recognised leader in developing and commercialising new technologies for the mining and drilling industries. After graduating in the UK with degrees in both mechanical and mining engineering, he gained his doctorate working on a project in the deep-level South African gold mines where he developed a breakthrough technique for rock excavation.
+He spent 15 years as an academic at the University of California, Berkeley before moving to Australia to take up the position as inaugural CEO of the Cooperative Research Centre, CMTE. This not-for-profit research company spun-off eight companies to commercialise a range of new technologies developed by the Centre during his 20 years of leadership. Michael served as director of all of these companies and chairman of most during their formative years, helping them cross the “valley of death” experienced by many new companies.
+Prof Hood was elected as a Fellow of the Australian Academy of Technology and Engineering (ATSE) in 2002. He is currently the chairman of the Queensland Division of this Academy.
+======
+主讲人 : 罗和安
+主讲人简介：
+罗和安，男，1954年生，博士，教授，博士生导师，化学工程与技术博士点负责人，原湘潭大学校长，化工过程模拟与强化国家地方联合工程研究中心主任，化工过程模拟与优化教育部暨湖南省工程研究中心主任，十一届全国人大代表，《Chinese J. of Chem. Eng.》杂志编委，湖南省科协常委，中国化学学会理事，湖南省化学化工学会和湖南省石油学会副理事长，享受国务院政府特殊津贴专家，湖南省科技领军人才。1993年挪威理工大学化学工程系博士毕业，曾在法国图卢慈国立工业大学、挪威国家石油公司研究院、日本鹿儿岛大学等进行合作科研及讲学。 先后主持完成国家科技重大专项、国家“863”项目、国家自科基金重点及面上项目、教育部青年骨干教师项目和湖南省重大专项等纵向项目20项；主持完成国内大中型化工企业横向科研项目22项。获国家科技进步二等奖2项，教育部高校科学技术奖自然科学一等奖1项，获湖南省光召科技奖，省部级科技进步一等奖2项，三等奖2项，获国家授权发明专利22项，公开国际发明专利1项，获湖南省教学成果一等奖和二等奖各1项。通过省部级鉴定8项，近5年成果转化产生的经济效益平均3亿多元/年；在AIChE J、 Chem Eng Sci、Canadian J of Chem Eng、Chinese J of Chem Eng、《化工学报》等国内外重要学术刊物发表研究论文150余篇，其中SCI、EI 收录80 余篇，他引总数600多次，其中SCI他引250多次，单篇最高SCI他引150多次；建立的两个模型被国外学者称作Luo ＆ Svendsen’s和Luo’s模型，为流体颗粒破裂动力学的研究提出了理论框架，解决了定量描述湍流分散体系中流体颗粒破裂的动力学行为的难题。
+======
+主讲人 : 李永旺教授
+主讲人简介：
+Dr. Yong-Wang Li obtained his BS in Chemical Engineering from Technical University of Inner Mongolia in 1984; and PhD in Physical Chemistry from Institute of Coal Chemistry, Chinese Academy of Sciences in 1994.
+He then carried out postdoctoral research at the Institute of Petroleum Research, Gent University, in 1995; and at the Institute of Catalysis, Louvain University, in 1996, in Belgium.
+He was the Alexander von Humboldt Fellow at the Institute of Chemical Engineering and the Institute of Fluid Mechanics, University of Erlangen-Nürnberg, in 1999, Germany.
+Now, Prof. Li is the Founding Manger of Synfuels China Technology Company Ltd (Beijing, China) and the Chairman of Synfuels Americas Corporation (Sterling, WA, US).
+Prof. Li is the Director in the National Engineering Laboratory of Indirect Coal Liquefaction as well as the Director of National Research Centre for Clean Fuels
+Prof. Li is also a Guest Professor at the West Virginia University, US.
+His research interests are fundamental studies in the fields of molecular modelling in catalysis and kinetics, chemical engineering as well as process simulation related to the coal conversion processes, process development of coal/gas to liquids and related unit operation and application of new technologies in process engineering.
+After more than twenty year’s efforts, the high temperature slurry-bed Coal-to-Oil technology was developed.
+In 2009, the technology has been successfully used in two 160,000 tons/year demo plants in Yitai Group, Inner Mongolia and Luan Group, Shanxi, and has perfectly passed the long-term operation and technical verification (more than 7 years).
+In 2016, in the world's largest single set of Shenhua Ningmei 4 million tons/year commercial plant, the integrated technology achieved industrial applications and met remarkable success.
+The current use of the technology is being implemented on the total scale of 13 million tons/year laying the road map for the development of China's Coal-to-Oil industry.
+Prof. Li has published over 550 scientific papers and obtained 108 authorized patents and one software copyright for Fischer-Tropsch synthesis process analysis.
+He has been honored with many awards including the Science and Technology Innovation Award, National Award in Technology Advances and Innovation, Outstanding Science and Technology Achievement Award.
+======
+主讲人 : 邢巍
+氢气作为一种清洁能源，可以通过可逆的氧化还原反应实现化学能-电能之间的相互转换，构建清洁的能量循环体系。对于缓解能源危机以及日渐严重的温室效应具有积极作用。不论是燃料电池阴极的氧的电还原反应（氧析出反应），还是发生在电解池中氧的电氧化反应以及氢的电还原反应（氢析出反应）均是动力学慢反应，需要高效催化剂催化其反应快速进行。贵金属，如铂，钌，铱，是目前氧还原，氢、氧析出反应的高效催化剂。但是受制于较低的储量，高昂的成本以及较差的稳定性，阻碍了氢能循环体系的进一步发展。因此,开发更高活性的催化剂以减少铂用量,或开发非贵金属催化剂替代贵金属成为了目前该领域研究的重点及难点。
+1.燃料电池阴极催化剂
+
+阴极氧还原反应（ORR）是燃料电池反应的决速步，因此，目前研究主要集中在高效，低铂/非铂ORR催化剂开发。近十年来人们通过各种努力来降低阴极Pt载量，提高Pt微粒的利用率和内在比活性，已经取得了卓有成效的研究成果。如制备表层富Pt的核壳结构，PtM合金（M=Ti,V,Fe,Co,Ni,Y,Au,Pd）1-6我们组通过葡萄糖胺诱导效应，调控还原电势，控制Pt的晶面去向生长，制备了一种二十面体Pt3Ni（111）催化剂。由于大量暴露的高活性（111）晶面，该催化剂具有较高的质量比活性，相比于商业Pt,内在比活性提高了31倍。7此外，我们通过对载体进行修饰，制备了一种杂原子掺杂的石墨烯负载Pt纳米管催化剂。掺杂的杂原子与Pt具有相互作用，有效改善了Pt的溶解，使该催化剂表现出了远优于商业催化剂的稳定性。8最近，徐维林课题组通过直接热解铂盐，活性炭以及尿素的混合物制备了一种载量仅为0.4%的单原子分散的Pt-N@BP催化剂。该催化剂表现出非常高的Pt金属利用率，其催化活性与商业20% Pt/C相近。在实际电池测试中，当电流密度小于0.6Acm-2时，该单原子催化剂作为阴极的电池性能与商业20%Pt/C几乎相同。但是随着电流密度逐渐升高，由于载量过低导致的活性位点密度不足以及传质问题逐渐凸显，电池性能明显降低9。如何在保证Pt原子或其团簇高度分散的情况下提高低Pt催化剂Pt载量来改善高电流工作状态下催化剂的性能表达将是今后低铂催化剂发展所面临的一项重要挑战。此外，在较高电压下碳载体的腐蚀以及催化剂的溶解，聚集引起的性能降低也是该类电催化剂今后所要解决的一个重要问题。
+另一方面，非贵金属催化剂具有良好的抗CO毒化能力，作为燃料电池阴极催化剂不仅能够降低电池成本，还能够有效克服氢气中的杂质对阴极催化剂的毒化作用。目前，非贵金属催化剂性能已经可以达到230 A cm-3@0.80 V12。国内中科院大化所、化学所、应化所、中科大、厦大、清华、复旦、重大、武大等单位分别在非Pt催化剂设计、制备与机理研究上取得了良好进展11-15。我们通过热解包覆乙酰丙酮铁的ZIF材料制备了一种具有高活性，单分散Fe-N-C活性位点的非铂催化剂材料。并深入研究了乙酰丙酮铁包覆量对其活性的影响。结果表明该系列材料活性随乙酰丙酮铁包覆量程火山型分布。16,17此外，我们以Zn,Co双金属中心ZIF材料为前驱体，通过调节Zn,Co比例，有效调控了活性位点类型，并进一步发现了新型Co2N5双核活性位点。通过计算发现，该双核活性位点内在活性是单原子Co-N-C活性位点活性的12倍。18该发现为后续非铂催化剂活性位点的探索具有一定的指导作用。虽然M-N-C类材料取得了较快的发展，但是该类材料仍然存在以下几点问题亟待解决：（1）活性位点仍存争议，（2）本征催化活性低：目前最好的非Pt 催化剂半波电位也与Pt 相差60 mV 以上。（3）活性位点密度低：为了避免在制备过程中金属聚集，通常情况下该类材料的金属含量都很低（小于2 wt%），（4）电极传质问题：较低的活性位点需要加大载量才能接近Pt/C的催化性能，但是过厚的催化层导致传质阻力和欧姆降19。此问题需通过增加活性位点密度及调控催化剂孔结构两种方式协同解决。（5）稳定性差：非Pt催化剂目前最长稳定运行时间仅为700 h，与DOE 的2000小时目标尚存较大差距。催化过程中生成的过氧化中间产物以及较高的工作电位是导致催化剂被氧化，腐蚀，性能降低的主要原因。
+2．水电解析氢催化剂
+低铂催化剂方面，我们利用部分被碳载体包覆的Ru纳米粒子与痕量的Pt制备了PtRu合金氢析出催化剂。当Pt含量仅为0.2wt%时，该催化剂就表现出优于商业20wt% Pt/C(JM)的催化活性以及稳定性，极大的降低了Pt载量，提高了Pt的利用率。如此高的催化活性主要是由于Pt的高度分散形成了更多的活性位点以及Pt-Ru，Pt-C相互作用引发Pt电子云结构的变化，降低了Pt-H的键能，从而促进H2的离去所导致的。同时半包覆结构也能很好的避免催化过程中金属粒子的迁移与聚集，从而提高了催化剂的稳定性。20此外，我们通过化学氧化还原法将百分之一的Pd掺杂到MoS2晶格中。Pd的引入，能够诱导MoS2晶相由2H转变为具有较高导电性以及催化活性的1T结构以及具有催化活性的硫缺陷的生成，同时能够影响其临近的硫原子的电子结构，诱导其临近的硫原子表现出更高的析氢催化活性。在上述多种因素的协同作用下，1%Pd-MoS2材料表现出与商业20wt% Pt/C（JM）相近的催化活性。21
+非铂催化剂方面我们制备了一系列金属磷化物催化剂。其中单晶Ni12P5空心球具有超高比表面积（222.5m2g-1）。在强酸电解质中，电流密度为10mAcm-2时过电势为144mV， 经过3000圈加速老化试验和12小时计时点位测试，该催化剂仍然呈现出极高的催化活性与稳定性。
+3. 水电解氧析出催化剂
+商业IrO2，以及RuO2是目前常用的氧析出催化剂。其中IrO2具有良好的稳定性，但是活性稍差；RuO2具有很高的催化活性，但是稳定性很差。因此，改善IrO2的催化活性以及提高RuO2的稳定性是目前该方向研究的重点。我们通过理性设计，制备了一系列多孔IrO2，IrO2-RuO2，RuO2-TiO2催化剂。通过提高催化剂的比表面积，调节电子层结构等方式，有效提高的上述催化剂的催化活性及稳定性。其中RuO2-TiO2表现出了远高于RuO2的电化学稳定性。
+(左)多孔IrO2(IrO2(1:100)-450)表现出优于单分散IrO2的催化活性；（右） RuO2/TiO2稳定性远高于RuO2
+
+
+主讲人简介：
+邢巍，理学博士，中国科学院长春应用化学研究所，研究员，博士生导师，中国科学技术大学教授，国家二级教授，先进化学电源实验室主任。中国化学会电化学专业委员会副主任委员、国际电化学会会员。曾以“优秀人才输入计划”特聘雇员在香港生产力促进局工作，作为访问学者先后在日本大阪工业研究所、丹麦技术大学、加拿大NRC燃料电池研究所进行研究。研究兴趣为可再生资源制备氢能与燃料电池，包括质子交换膜燃料电池(PEMFC，含直接醇类燃料电池，DMFC)、PEM电解水及小分子催化分解制氢，主持过数十项国家及省部级科研项目，如：“十二五”863主题项目“先进燃料电池发电技术”首席专家；主持基金委重点基金项目“直接甲醇燃料电池基础研究”（2004-2008）、“多组分协同团簇基新型PEMFC催化剂研究”（2017-2021）；吉林省重大科技项目研发人才团队带头人等。
+作为通讯作者已在包括Nature Commun.，Angew. Chem. Int. Edit.，Adv. Mater.，Energy. Environ. Sci., Nano Energy, ASC Catalysis等学术刊物发表SCI论文近300篇，他引>8000次，H-index为48，多篇被选为高被引论文，专利50余项。多个著名杂志审稿人，如Nature Commun.，JACS，Angew.Chem.Int.Edit., Adv. Mater.，Nano Energy, EES等,主编和参与出版了多部专著，如：主编由Elsevier 出版的专著“Rotating Electrode Method and Reduction Electrocatalysts”, Editors：Wei Xing, Geping Yin and Jiujun Zhang, 2014。多次在全国电化学大会做大会报告及国际电化学年会特邀报告。获省部级科技奖三次，如2017年“基于有机小分子氢能/电能转化的高效催化剂基础研究”获吉林省自然科学一等奖，培养的毕业生中多人已成为万人计划领军人才、国家青年千人、基金委优秀青年基金获得者、中国科学院百人计划入选者及省级特聘教授，2015年获科学院“朱李月华优秀教师奖”。
+======
+主讲人 : 刘中民院士
+主讲人简介：
+刘中民，中国工程院院士，全国政协委员，大连市政协副主席，民盟大连市主委，中国科学院大连化学物理研究所和青岛生物能源与过程研究所所长。
+刘中民长期从事应用催化研究。作为技术总负责人合作完成了多项创新成果并实现产业化。完成了世界首次甲醇制烯烃（DMTO）技术工业性试验及首次工业化，DMTO技术已实现技术实施许可1400万吨烯烃/年，已投产700多万吨烯烃/年；完成了世界首套10万吨/年煤基乙醇工业示范项目，促进了我国新兴煤制大宗化学品和清洁燃料产业的发展。
+刘中民发表论文200多篇，申请发明专利200多件。荣获国家技术发明一等奖等十余项省部级以上科技奖励，何梁何利基金科学与技术创新奖等多项个人奖励。
+======
+Fracture flow simulation with Lattice Boltzmann Method (LBM) for coalbed methane recovery
+主讲人 : Prof. Geoff Wang
+This seminar will present a lattice Boltzmann method (LBM)  d fracture model which was developed to compute permeability of coal at the microscopic level. Factors that influence permeability of coal will also be investigated using this model. Two methods to be discussed to generate the fracture structure of coal for modelling. For method one, a multi-parameter random generation-growth method will be introduced to construct the complex microstructure of coal. The other method uses non-destructive measurements such as scanning electron microscopy (SEM) or micro-computed tomography (µCT) scanning to describe the interior structure of coal. With this LBM model the fluid flows in the coal fracture can be simulated. As a result, the velocity and pressure distributions of the flow through the pores or fractures in coal rock at the different stages can be obtained accurately. The simulation results also provide the numerical information for investigating the permeability of porous materials, both locally and in the overall, which could not be measured even by costly experiments otherwise.
+主讲人简介：
+王国雄，澳大利亚昆士兰大学化工学院教授，宝钢-澳大利亚联合研发中心执行主任。1989 年毕业于东北大学获博士学位后就职于武汉科技大学讲师、副教授，曾任中国金属学会炼铁学会理事。1996 年12月加入昆士兰大学。主要从事化工冶金能源及环境方面的开发与研究工作，包括煤(气)转化和煤层气开发与利用、二氧化碳减排、冶金新技术开发、及相关的数值模拟和模型、软件开发。已出版专著（高炉煤粉喷吹技术）一部，在各类国际期刊杂志发表论文120余篇，会议论文近100篇，以及2项专利技术。他还长期与中国矿业大学(徐州)/西安交通大学/河南理工大学在煤和煤层气开发利用及二氧化碳减排与存储科学研究领域建立了广泛的合作， 被聘为中国矿业大学客座教授和河南理工大学兼职教授。最近几年，王国雄教授通过宝钢-澳大利亚联合研发中心成功地与中国大型工业企业开展了约50个项目的合作，获得工业企业直接的研发投资超过2,500万澳元，以及澳洲联邦政府和昆士兰地方政府配套的研发基金近1,000万澳元。
+======
+主讲人 : 郭柏灵 院士（北京应用物理与计算数学研究所）
+报告主要有下面五个部分展开： ①欧拉生平；②不可压缩欧拉方程的四大特征；③Onsager猜想；④三维欧拉方程弱解的不唯一性；⑤存在的几个重要的公开问题。具体来说将详细介绍Euler方程，不可压缩流中的Euler方程是许多数学分支的源泉。线性PDE、动力系统、非线性PDE、几何PDE，调和分析和完全可积系统等数学分支皆可追根溯源到Euler方程，近到天气预报，远到超新星爆炸爆炸学说，Euler方程的影响已遍及数学之外的各个学说。
+主讲人简介：
+郭柏灵，中国科学院院士，现任北京应用物理与计算数学研究所研究员，博士生导师，国家自然科学基金委员会数学专家组评委。曾获得国家自然科学一等奖和三等奖，两次获国防科工委科技进步一等奖，并担任《偏微分方程》、《计算数学》、《数学研究》等杂志编委、副主编等职。
+======

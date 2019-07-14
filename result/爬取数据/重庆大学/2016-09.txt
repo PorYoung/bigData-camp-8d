@@ -1,0 +1,88 @@
+主讲人 : 陈少英 朱大旗 熊伟
+主讲人简介：
+主讲人：陈少英  华东政法大学经济法学院教授、博士生导师，中国财税法学研究会副会长
+朱大旗  中国人民大学法学院教授、博士生导师，中国财税法学研究会副会长
+熊  伟  武汉大学法学院教授、博士生导师，中国财税法学研究会副会长
+主持人：胡光志  重庆大学法学院教授、博士生导师，重庆大学法学院经济法学科学术带头人
+======
+主讲人 : 赵鼎新教授
+主讲人简介：
+赵鼎新教授：1982年毕业于复旦大学生物学系，1984年就读于中国科学院上海昆虫研究所，获昆虫生态学硕士学位。1990年在加拿大麦基尔大学获取昆虫生态学博士学位之后改攻社会学，并于1995年在麦基尔大学获取社会学博士学位。自1996年起执教于美国芝加哥大学社会学系。目前为芝加哥大学Max Palevsky教授，浙江大学千人计划教授，浙江大学人文高等研究院院长。曾任中国人民大学吴玉章特聘讲座教授。研究领域包括政治社会学、社会运动和历史社会学。在社会学方面的研究成果主要发表在《美国社会学杂志》、《美国社会学评论》、《社会力量》、《社会学视角》、《动员》、《中国研究季刊》以及国内出版的《中国社会科学》、《社会学研究》、《学术季刊》等刊物上。中文专著有《社会与政治运动讲义》、《东周战争和儒法国家的形成》、《民主的限制》与《国家、战争和历史发展》。
+======
+Growth of Epitaxial III-V Semiconductor Nanowires
+主讲人 : Prof. Jin Zou
+III-V semiconductor nanowires and their heterostructures have been paid extraordinary attention in the recent decade due to their unique structural and chemical characteristics and in turn potential properties in optoelectronic, nanoelectronic, and sensing developments. In general, semiconductor nanowires are induced by catalysts, which mediates the one-dimensional growth. However, since the complications of catalysts in inducing the nanowire growth, many nanowires induced by the catalysts have their own structural characteristics. In this presentation, I shall summarize our discoveries of impact of catalysts in the growth of epitaxial III-V semiconductor nanowires for the past decade.
+主讲人简介：
+Professor Jin Zou is the Chair of Nanoscience in the University of Queensland. He gained his BSc (1982) and MEng (1985) from the University of Science and Technology, Beijing. Under supervision by Professor K H Kuo and F. H. Li (both were academia of Chinese Academy of Sciences), he entered the field of electron microscopy. From 1985, Professor Zou helped to establish the Beijing Laboratory of Electron Microscopy, which has been the flagship electron microscopy laboratory in China. In 1989, Professor Zou went to Sydney University to earn his PhD under the supervision of Professor D. J. H. Cockayne (a world leader in electron microscopy and was a FRS fellow). From then, Professor Zou has been engaged his research in understanding the semiconductor nanostructures using electron microscopy. He gained a PhD with Materials Physics Major in 1993 from Sydney University and worked there for 10 years with various prestigious fellowships, including Australian Research Council’s Postdoctoral Fellowship and Queen Elizabeth Second Fellowship. In the second half of 2003, Professor Zou moved to the University of Queensland and continued his research in the field of semiconductor nanostructures, where advanced electron microscopy is an essential tool. In 2009, he has been awarded an Australian Research Council’s Future Fellowship.
+Over the year, Professor Zou managed nearly 30 projects funded by the Australian Federal Government or Queensland Government. His current research is focused on the understanding of formation mechanisms the semiconductor nanostructures (quantum dots, nanowires, nanobelts, and ultra-thin nanosheets) and their demonstrated properties by correlating their growth and demonstrated properties with their morphological, structural and chemical characteristics (determined by electron microscopy); formation of high-performance functional nanomaterials and their advanced applications, particular in the fields of Energy, Environmental Protection, and Medical Diagnosis. So far, Professor Zou published over 570 SCI papers with most of them published in leading international journals, which have attracted over 13000 citations and led to an H-index of 57.
+Professor Zou was the Secretary of the Australian Microscopy and Microanalysis Society (2010-2104). He is now a Vice President of The Federation of Chinese Scholars in Australia, and the Council Chair of Queensland Chinese Association of Scientists and Engineers. For many years, Professor Zou has been engaged in developing research collaborations between Australia and leading Chinese universities.
+======
+Passive, Active and Integrated Safety
+主讲人 : 周启峰 教授
+Passive safety played a major role in automobile occupant protection by providing advanced restraint systems that have been proved to be effective countermeasures in saving lives for more than 30 years.
+In the meantime, with advent of electronic sensors, active safety technologies also advanced in the past two decades to offer added capabilities of safety features for better vehicle performance, thus reducing motor vehicle accidents on public roads. Combined passive and active safety systems lead to integrated safety that possesses even greater potential in reducing fatalities to hopefully bring the “Zero Vision” into realization.
+This presentation will (1) focus on briefly refreshing passive safety, reviewing some active safety features currently implemented in production, and providing few examples of design concepts of integrated safety, and (2) discuss future trends of self-driving and/or autonomous vehicles pertaining to regulatory, liability, etc. issues.
+
+
+主讲人简介：
+Dr. Chou joined Ford in 1976 and retired in January 2007 as a Technical Leader in the Passive Safety R&D Department, Research and Advanced Engineering. Prior to 1976, he worked at the Biomechanics Research Center, Wayne State University from 1970 to 1976.   He specialized in occupant kinematics simulation, vehicle impact testing and analysis, computational algorithm development, foam/trim/rubber material characterization/modeling, structural foam applications, and FEA methodologies for head-to-interior impact analysis and other crash analyses. He also worked on instrumentation development/evaluation for determining occupant kinematics, vehicle structural performance, developments of rollover CAE and test methodologies and algorithm, front impact CAE sensor methodologies, side impact algorithm, and new sensor technologies.  Currently, he is an Adjunct Professor in the Department of Bio-Medical Engineering of Wayne State University (WSU).  He has taught ME8020- Crashworthiness and Occupant Protection in Transportation system in the Mechanical Engineering Department, WSU since Sept. 2007.
+Dr. Chou has more than 150 journal and SAE publications to his credit. He received the NHTSA Safety Award for Engineering Excellence in 1981, the Henry Ford Technology Award in 1995 and 2000, SAE Forest R. McFarland Award in 2000 and 2007, two 2006 Arch T. Colwell Merit Awards, and various Technical Achievement Awards, Innovation Awards, and Customer-Driven Quality Awards at Ford.  In addition, he holds 22 U.S. patents for vehicle impact method, side impact door trim system, energy absorbing pillar structures, and rollover detection method and sensor waveform assessor.  He has been organizing Safety Test Methodology Session and Integrated Safety Systems for SAE Congress since 1997 and 2011, respectively.  He was a member of International Body Engineering Conference Safety and Environmental System Planning Committee from 1998-2002.  He gave numerous automotive safety related lectures to various universities and testing institutions in the US, Taiwan, and China. Currently, he serves as US regional editor of the International Journal of Vehicle Safety. He was elected to a prestigious SAE Fellow in 2002 and ASME Fellow in 2005.
+He attended the National Taiwan University where he received a B. S. in Civil Engineering and an M. S. in Engineering Mechanics. He also holds a Ph.D. in Applied Mechanics from Michigan State University. He served as an industrial advisor to Ph.D. candidates at the University of Michigan (1996-1999), Michigan Technological University (1997-2000), and Wayne State University (2005-2007 and 2007-2009).  He also served as an external Ph.D. thesis reviewer for Indian Institute of Science (2013).
+======
+Development of Total Solution for Mold Flux Design in Steelmaking General Oxide Database Development Including Ti and V Oxides
+主讲人 : In-Ho Jung 教授
+
+
+主讲人简介：
+In-Ho Jung教授，Associate Professor, William Dawson Scholar，Co-developer of FactSage thermodynamic software。In-Ho Jung教授2003年在加拿大蒙特利尔理工大学获得博士学位，在韩国浦项RIST工作四年后，于2007年加入加拿大麦吉尔大学。他的专长是合金、陶瓷、熔渣等材料的热力学计算及相图优化，以及冶金工艺流程的模拟优化。In-Ho Jung教授年轻有为，是大型热力学软件FACTSage的主要研发人之一，屡获奖项及荣誉，发表期刊论文170余篇以及会议论文100余篇。
+======
+中国的探月工程
+主讲人 : 叶培建
+主要介绍嫦娥1号、2号、3号等取得的主要技术成就及研制过程中生动的故事和将来火星探测的难点、热点等问题。
+主讲人简介：
+叶培建，中共党员，中国空间技术研究院研究员，中科院院士，瑞士科学博士学位。曾任我国第一代传输型侦察卫星系列总设计师兼总指挥，为我国第一代长寿命传输型对地观测卫星的研制，做出了系统的、创造性的成就和贡献，并任太阳同步轨道平台首席专家；任嫦娥一号卫星总设计师兼总指挥，为首次绕月探测工程的成功研制做出了重大贡献，现任嫦娥系列各型号总指挥、总设计师顾问，嫦娥三号首席科学家；总装国防973和探索项目顾问专家组成员，清华等高校兼职教授。荣获国家科技进步奖特等奖、一等奖等多项奖励和全国“五•一”劳动奖章。2014年作为团队带头人获得国家科技进步创新团队奖。
+======
+主讲人 : 景镇子教授
+主讲人简介：
+景镇子，同济大学教授，博士生导师。1993年留学日本，1998年在日本东北大学取得工学博士，随后在日本研究工作了10年。2008年回同济大学材料科学与工程学院工作。回国后获得上海浦江人才计划资助。现为上海市硅酸盐学会理事会理事。
+研究方向：1．智能空调建筑材料；2．生物亲和污水净化材料；3. 核废料铯的低温水热固化；4. 水热合成无机废弃物为人造岩石；5. 城市棕地的水热修复；6. CO2的资源化再利用；7. HDR地热发电等。
+======
+主讲人 : Professor Fangming Jin
+主讲人简介：
+Prof. Jin is a distinguished professor at Shanghai Jiao Tong University and Chair professor sponsored by Chang Jiang Scholar Program (administered by Ministry of Education of the People’s Repubic of China), as well as “Recruitment Program of Global Experts” Talents. She is also a fellow of the Graduate School of Environmental Studies at Tohoku University (Japan), and a visiting professor ofTohoku University of Japan and Riken of Japan. Prof. Jin received her Ph.D. fromTohoku University (Japan). She was a professor at Tohoku University (Japan) before she returned to Shanghai Jiao Tong University (2011). Her research centerson the application of hydrothermal reactions for the conversion of biomass and CO2 into fuels and chemicals to mimic nature. She has authored about 200scientiﬁc publications, patents and book chapters.
+======
+主讲人 : 郭正晓
+Mitigating climate change and ensuring energy security demand cost-effective energy solutions, particularly for large-scale integration of renewable energy sources (RES) to the electricity grid and the removal of CO2 from fossil-fuel power plants. Nanostructures hold the key to such solutions. Clear understanding of “energy-carrier” interactions with host structures is essential to design efficient energy storage systems (hydrogen and batteries), CO2 sorbents in carbon capture and photo-catalysts in solar harvesting. Fundamental simulations are important in probing the specific mechanisms of binding, activation and sorption of gaseous molecules in representative host structures for the design of efficient hydrogen/charge storage systems, as well as sorbents for CO2. Particular attention is focused on the simulation-guided design, synthesis and characterization of graphene/carbon- d nanostructures, with controlled hierarchical porosities, for the storage of energy carriers and capture of CO2, where surface chemistry, texture, defects, dopants and ligand molecules play important roles in carrier sorption, storage, and transport. Different design and synthesis routes will be comparatively assessed for the effective development of practical systems. Important avenues for further study are discussed to speed up the development of clean energy technologies.
+
+
+主讲人简介：
+Zheng-Xiao Guo is a Professor of Materials Chemistry at UCL. His group focuses on integrated theoretical and experimental approaches for the design and development of highly functional atomic clusters, nanostructures and materials, as well as their synthesis processes. He has contributed over 220 high-quality journal publications and over 300 conference papers/presentations for aerospace, biomedical, energy and environmental applications, e.g. in Energy & Environmental Sciences (x4), Advanced Materials (x3), Nano Letters (x2), Angew. Chemie Inter Ed, Chemical Science, Chemistry of Materials, and invited reviews in Progress in Materials Science (x2) and Chem. Soc. Review.
+UCL is one of top 20 universities in the world. Zheng-Xiao Guo has been a Pro-(Vice) Provost at UCL (2008-2015) and now UCL-China Ambassador. Professor Guo has also made strong contributions to international engagement. He was the “Focal-Point” for UK-China collaborations in Nanotechnology & Materials Science (2009-2012), appointed by the UK Department of Business, Innovation and Skills (BIS) and the Foreign Commonwealth Office; and has been an overseas expert advisor to the Overseas Chinese Office of the State Council, China, and the Chinese Academy of Sciences. He is a Fellow of RSC, a Member of the RSC Publishing Board.
+======
+中国双边投资协议的走势——国内国际视角
+主讲人 : 沈伟
+讲座内容：梳理中国双边投资协定的主要条款，审视和讨论中国双边投资协定变迁和演进的趋势，以及国内国际决定性因素。
+1.国际金融危机之后的国际投资活动图景
+2.国际投资协定的性质和变化
+3.中国双边投资协定程序条款变化
+4.中国双边投资协定实质保护条款变化
+5.中国双边投资协定演进趋势
+
+
+主讲人简介：
+山东大学法学院院长、教授、博士生导师；英国伦敦政治经济学院博士，英国剑桥大学法学硕士，美国密歇根大学法学硕士，华东政法学院法学硕士及法学学士；美国纽约州执业律师。曾授课于美国杜克大学法学院和香港城市大学法律学院。现任《中国国际法期刊》（SSCI期刊，牛津大学出版社）、《东亚和国际法期刊》（SSCI期刊，韩国Yujin出版社）《欧洲商业法律评论》（荷兰威科集团）、《中国与WTO评论》（韩国Yujin出版社）、《中国法学》（英文版）、《法律语义学国际期刊》（德国De Gruyter Mouton）编辑或编委。
+======
+公众公用物的治理模式
+主讲人 : 蔡守秋
+主讲人简介：
+教授、博士生导师，中国环境资源法学研究会会长。曾参加《中华人民共和国环境保护法》等１０多部环境法律法规的立法起草调研工作。先后主持和承担"六五"、"八五"、"九五"规划国家社会科学法学重点科研课题等１０余项研究项目。已在《中国社会科学》、《法学研究》等刊物发表论文１００余篇，出版１０余部法学著作。
+======
+In Search Of Novel Power -Split Hybrid Electric Vehicles
+主讲人 : Dongsuk Kum 韩国科学技术院
+Fuel economy of hybrid electric vehicles has been steadily improving over the last couple of decades, and it seems to be reaching its limits. In fact, any OEMs can reduce HEVs that can achieve fuel economy close to the limit regardless of powertrain topologies if constraints on cost (e.g. motor size) and/or acceleration performance are relaxed. Therefore, both drivability and cost must be considered when searching for novel HEV architecture.
+Among others, power-split hybrids are known for their high potentials because split hybrids provide a large number of different configurations; twenty four ways of connecting four components (two electric machines, an engine, and a vehicle wheel) with a planetary gear (PG), and more than thousand ways with two PGs. Despite high potentials, finding the best split hybrid was practically impossible due to the large design space. For instance, each compound -split hybrid configuration has three design variables; PG1, PG2, and final drive gear ratios. Recently, the research team at Korea Advanced Institute of Science & Technology (KAIST) evaluated both fuel economy and acceleration performance for all compound -split hybrid configurations and found a few novel compound-split HEV powertrain architecture. Simulation results confirm that the new architecture outperforms all the hybrids on the market from both fuel economy and acceleration performance perspectives.
+The focus of this talk will be on how KAIST team was able to find the novel compound-split hybrid architecture, namely the comprehensive design methodology.
+主讲人简介：
+Dongsuk Kum received his Ph. D. degree in mechanical engineering from the University of Michigan, Ann Arbor, in 2010. He is currently an Assistant Professor at the Graduate School for Green Transportation in Korea Advanced Institute of Science & Technology (KAIST), and the Director of the Vehicle Dynamics and Controls (VDC) Laboratory. His research centers on the modeling, control, and design of advanced vehicular systems with particular interests in hybrid electric vehicles and autonomous vehicles.
+Prior to joining KAIST, Professor Kum had worked for the General Motors R&D Propulsion Systems Research Laboratory in Warren, MI as a visiting research scientist. His works at General Motors focused on advanced propulsion system technologies including hybrid electric vehicles, flywheel hybrid, and waste heat recovery systems.
+======

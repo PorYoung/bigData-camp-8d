@@ -1,0 +1,422 @@
+Conformal Wide-Band End-Fire Antennas of Low Profile 共形端射式低剖面宽带天线
+主讲人 : Zhongxiang Shen 新加坡南洋理工大学教授
+In this talk, I will share our recent experience in designing several end-fire antennas of extremely low profile. These end-fire antennas should be mounted on a conformal conducting surface and can operate over a wide frequency band (at least 100% fractional bandwidth). After some basic considerations about end-fire antennas, I shall review existing designs of wide-band and end-fire antennas. After that, three novel wide-band end-fire antennas will be introduced in details: narrow H-plane horn antenna, surface-wave antenna, and log-periodic monopole antenna. In the end, I shall also mention a few end-fire antennas that are worthy investigation in the future.
+主讲人简介：
+Zhongxiang Shen received the B. Eng. degree from the University of Electronic Science and Technology of China, Chengdu,China, in 1987, the M. S. degree from Southeast University, Nanjing, China, in 1990, and the PhD degree from the University of Waterloo, Waterloo, Ontario, Canada, in 1997, all in electrical engineering.
+From 1990 to 1994, he was with Nanjing University of Aeronautics and Astronautics,China. He was with Com Dev Ltd., Cambridge, Canada, as an Advanced Member of Technical Staff in 1997. He spent six months each in 1998, first with the Gordon McKay Laboratory, Harvard University, Cambridge, MA, and then with the Radiation Laboratory, the University of Michigan, Ann Arbor, MI, as a Postdoctoral Fellow. In Jan. 1999, he joined Nanyang Technological University, Singapore, as an assistant professor. He has been an associate professor in the School of Electrical and Electronic Engineering, NTU, since Jan. 2004. Dr. Shen served as Chair of the IEEE MTT/AP Singapore Chapter in 2009. He was the Chair of IEEE AP-S Chapter Activities Committee from Jan. 2010 to July 2014. He is currently the Secretary of the IEEE AP-S.
+His research interests include design of small and planar antennas for various wireless communication systems, analysis and design of frequency-selective structures, hybrid numerical techniques for modeling RF/microwave components and antennas. He has authored or co-authored more than 150 journal papers (among them 90 were published in IEEE Journals) and presented more than 140 conference papers.
+======
+主讲人 : 胡劲松 中国科学院化学研究所研究员
+氢能是高效的可再生、清洁二次能源，由于其储量极为丰富（占宇宙质量的75%），因此也被认为人类的终极能源之一。但氢在地球上主要以化合态存在，开发大规模、廉价、清洁、高效的制氢技术是氢能有效利用的关键。本报告将围绕氢能清洁获取的两种主要途径---光解水产氢与电解水产氢，结合研究组在高效半导体可见光产氢纳米催化剂与低成本电解水产氢催化剂方面的相关研究工作，介绍光、电化学产氢催化剂的研究现状与我们在高效产氢纳米催化剂的设计与制备方面的一些认识与思考。
+主讲人简介：
+中国科学院化学研究所研究员，博士生导师。2005年于中国科学院化学研究所获博士学位。2005年至2008年在中国科学院化学研究所先后任助理研究员和副研究员。2007年至2008年在香港城市大学短期访问。2008年至2011年在美国哈佛大学从事研究工作。2011年3月入选中国科学院化学研究所“引进国外杰出青年人才计划”,加入中国科学院化学研究所中科院分子纳米结构与纳米技术院重点实验室。主要从事清洁能源转换纳米材料与器件的研究。已在包括Nature Commun.、PNAS、JACS、Angew. Chem.、Nano Lett.、Adv. Mater.等国际学术期刊上发表论文80余篇。文章已被他人引用8000余次。曾获中国化学会青年化学奖等奖励。
+======
+从AlphaGo战胜人类展望机器学习的新趋势 ： 超限学习机(ELM)和深度学习(DL)的有机结合及ELMGo探讨
+主讲人 : Guang-Bin Huang(黄广斌) 新加坡南洋理工大学副教授 (tenured) IEEE Senior Member
+近几年人工智能和机器学习的研究和应用开始变得火热起来，AlphaGo战胜人类顶尖高手更起到推波助澜的作用。本报告从技术和工业需求角度分析人工智能和机器学习复兴的原因，指出真正的机器学习时代已经来到，亟需重新思考人工智能和机器学习的研究、定位和角色。首先，本报告指出超限学习机(ELM))和深度学习(DL)的有机结合是个新的机器学习趋势。超限学习机和广泛流行的学习技术（比如传统的人工神经网络，支持向量机）相比，速度快（可以达到几百到几万倍）并且准确率高。初步研究显示在某些应用中(比如手写体识别，手语识别，交通路牌识别，3D图形分析等)，ELM与DL相比可进一步提高准确率, 并且大幅度降低训练时间（相比较深度学习基于GPU的1-2天训练时间，ELM在普通计算机上的训练时间缩短到几分钟或更少）。部分ELM理论已经得到了生物学的直接验证，也许能解释为什么生物脑总体有序又局部无序（比如同种动物的每个大脑并不一样),因此，ELM理论可以给深度学习中广泛应用的局部吸收(Local Receptive Fields)提供理论支持。其次，本报告展望未来机器学习的发展趋势和影响: 1）从机器学习工程到机器学习科学的转折点; 2）机器学习和生物学习机制的汇合趋势; 3）从人（和其他生命体）的智能到机器智能; 4）从物联网（IoT）到智能物的联网（Internet of Intelligent Things）以及有别于人类社会的智能体社会（Society of Intelligent Things）; 5) 在智能制造的应用 (比如3D快速打印上的开拓性应用) 。最后，本报告探讨AlphaGo产生的深远影响：1）为什么AlphaGo战胜人类是一定的，为什么人类智能在地球的总体智能中的权重会减弱但地球的总体智能在提高；2）基于超限学习机的ELMGo和AlphaGo的区别与联系。
+主讲人简介：
+黄广斌(Guang-Bin Huang): 新加坡南洋理工大学电子电气工程学院副教授 (tenured)，IEEE Senior Member。IEEE Transactions on Cybernetics, Neurocomputing，Cognitive Computation和Neural Networks副主编。他被Thomson Reuters 评为“Highly Cited Researcher（高引用研究者）”，以及“2014, 2015 The World's Most Influential Scientific Minds(2014，2015年世界最有影响力的科学精英)”。其论文据谷歌引用统计16000余次。研究方向包括：大数据处理分析，脑机交互，人机交互，图像处理，机器学习理论和技术。主要学术贡献是提出一套全新的学习理论和方法：Extreme Learning Machines （ELM，超限学习机）。ELM突破了前30年流行的前馈神经网络以及近20年广泛应用的支撑向量机（SVM）的理论和技术瓶颈。和ELM相比，支撑向量机及其演伸方法只是提供次优学习方案。ELM和SVM/LS-SVM， Deep Learning（深度学习）相比，准确率高，简单易用，学习速度可以快几千到几万倍。ELM理论最近也得到了生物和脑神经学的直接生物验证，弥补了机器学习和脑学习机制之间的空白，解决了计算机之父冯·诺依曼（John Von Neumann）60年前的关于人脑和计算机结构和能力的困惑。
+======
+损伤煤层瓦斯运移过程的热固耦合模型及其应用
+主讲人 : 朱万成
+主讲人简介：
+朱万成，1974年2月生，新疆呼图壁县人，博士，国家杰出青年科学基金获得者，东北大学教授，博士生导师，德国洪堡学者。
+
+1995年毕业于东北大学采矿工程专业并推荐攻读硕士学位，1998年3月和2001年3月在东北大学分别获得矿山工程力学专业硕士学位和采矿工程专业博士学位。朱万成教授曾四次应邀赴香港理工大学土木与结构工程系进行合作研究，2004年-2006年赴澳大利亚西澳大学进行博士后访问和合作研究。2006年10月-2007年11月在德国波鸿大学作洪堡学者。
+主要从事岩石损伤与破坏过程的研究，主持国家自然科学基金等纵向课题20项。出版学术专著1部、译著1部，发表论文150余篇(其中有35篇被SCI收录，102篇被EI收录，31篇被ISTP收录)，发表的论文被他引1800余篇次，其中被SCI收录的他引64篇次。获得国家科技进步奖二等奖一项(排名第二)，省部级二等奖以上科技奖励5项(排名分别为第一、第三或第四)，获批国家发明专利两项(为第三和第五发明人)。
+2006年入选教育部"新世纪优秀人才支持计划"，2007年获得了辽宁青年科技奖，2008年获得中国岩石力学与工程学会青年科技奖(金奖)，2009年入选"新世纪百千万人才工程"国家级人选和辽宁省百千万人才计划(百人层次)，同年获得霍英东教育基金会青年教师奖(二等奖)和应用类项目资助，2010年被评选为第七届辽宁省先进科技工作者，2011年获得沈阳市五四奖章，2012年获得国家自然科学基金优秀青年科学基金资助，2013年获得第十三届中国青年科技奖。
+======
+石油工程水射流钻井完井增产技术研究与应用
+主讲人 : 李根生
+主讲人简介：
+李根生，男，1961年9月生，安徽石台人，中国工程院院士，博士，中国石油大学（北京）教授，美国犹他大学能源与地质研究院高级客座科学家、国家973项目首席科学家。
+
+1983年毕业于华东石油学院钻井工程专业，1986年获华东石油学院北京研究生部油气田开发工程硕士学位，1998年获石油大学油气井工程博士学位，1991年2月至8月在日本东北大学做访问学者。1986年至1991年任华东石油学院开发系讲师，1991年和1994年先后被石油大学（华东）破格晋升为副教授和教授。2003年至今任中国石油大学（北京）石油工程学院教授，曾担任油气井工程系主任、石油工程学院学术分委员会主任、油气资源与探测国家重点实验室副主任。他是国家杰出青年科学基金获得者（2001）和“973计划”项目首席科学家（2010-2014），先后获“孙越崎能源大奖”、“中国青年科技奖”、“百千万人才”国家级人选、“首都劳动奖章”等奖励和称号，享受国务院政府特殊津贴，2015年被聘为美国Utah大学能源地质研究院（EGI）高级客座科学家
+近30年来一直从事油气钻井和完井工程理论与技术研究，是我国油气钻井与完井工程领域的技术专家。他率领团队发展了围压下自振空化射流基础理论，创新研发了深井空化射流钻井系列技术，为解决深井提速重大难题提供了有力的技术支撑；开拓水射流完井增产理论与技术研究领域，发明了水力喷砂射孔与分段压裂联作技术，为低渗透油气田开发提供了一项有效技术；首创了空化射流处理地层解堵技术，取得了物理法处理地层解堵技术的突破。在石油工程中初步形成空化射流钻井、完井、压裂的应用技术体系。研究成果在全国陆上和海上20多个主要油气田试验和示范，生产效益显著，对推动我国油气钻完井工程（特别是深井钻井和低渗完井增产）的理论发展和技术进步做出了重要贡献。
+李根生以第一作者发表学术论文75篇（被SCI/EI收录45篇次），合作出版专著2部，主编教材1部；已获授权国家发明专利18件、美国专利1件，登记国家计算机软件著作权10项；获国家技术发明二等奖1项、三等奖1项，国家科技进步二等奖2项，省部级科技进步一等奖7项、技术发明一等奖1项，中国专利优秀奖1项。以他为学术带头人之一的科研团队，获2015年中国石油和化学工业联合会创新团队奖。培养博士、博士后30名（其中1人的博士论文被评为全国优秀博士学位论文），硕士60名。
+======
+面向健康医疗的可延展柔性光子电子集成器件
+主讲人 : 冯雪
+世界卫生组织在《21世纪的挑战》报告中强调：“21世纪的医学，不应该继续以疾病为主要领域，应当以人的健康作为医学的主要发展方向。”通过这种模式的转变，人们需要可与人体及其组织集成的器件，动态实时监测生理信息，并通过无线网络发送至医疗专家获得相应的指导与帮助。这对器件提出了严格的要求：（1）人体及其组织大多是非可展曲面，实现器件与人体的紧密贴合及不影响日常活动，则器件必须具备可延展柔性特点；（2）生命体征信号一般比较微弱，实现高效、实时动态地感知、处理和无线传输生理信息等功能，则器件必须具备高性能。
+通过力学设计实现无机器件的可延展柔性，可与生物组织集成。基于界面断裂与粘附发展无机器件的转印与集成方法，器件可拉伸变形50%以上。将器件与人体贴合测量温度、脉搏、呼吸等参数；将器件与心血管系统贴合，测量心脏生理参数等；发展柔性呼吸监测系统，可无线传输测量数据，用于监测呼吸暂停综合症以及评估睡眠质量。
+主讲人简介：
+冯雪，男，1977年出生，清华大学教授、博导，973首席科学家。现任应用力学教育部重点实验室主任，美国机械工程师协会（ASME）会刊Journal of Applied Mechanics副主编，英国物理学会Flexible and Printed Electronics编辑，《中国科学－技术科学》特邀青年编辑等。冯雪致力于研究针对高温／超高温、可延展／超柔性等超常规环境的新型试验方法、技术与微器件，发展超柔性环境下可与人体／曲面贴合的可延展柔性光子／电子集成器件，以及高温／超高温环境下试验方法与仪器，并进一步研究超常规环境下材料／结构的失效。至今已发表SCI论文100多篇，英文书章1篇；目前已授权国家发明专利15项、国防专利2项、自主软件著作权4项。先后主持了973项目、国家科技重大专项、军口863项目、基金委国际重大合作项目、基金委重大研究计划项目、教育部优秀博士论文基金项目等。
+======
+有了这几招，好工作来找你！
+主讲人 : 吴勇
+各学院：
+为了加强就业指导，提高毕业生的求职能力，提升学生的就业竞争力，学生就业指导与服务中心开展生涯规划及求职类专题讲座职通讲坛第45期。具体通知如下：
+一、时间
+2016年5月26日（周四下午18:45-21:00）
+二、地点
+A区国际会议厅306（马寅初像对面楼里）
+三、主题
+有了这几招，好工作来找你！
+四、主题活动内容
+主题讲座：有了这几招，好工作来找你！
+2.ICT行业最值得期待的毕业生精英计划：
+中兴通讯2017校园招聘“蓝剑计划”及“中兴捧月蓝剑之路”挑战赛赛事介绍答疑
+五、主办及承办
+主办：学生就业指导与服务中心
+社团支持：研就协、职通社、校企俱乐部、创业者协会
+六、主讲嘉宾
+吴勇（2004年毕业于重庆大学通信工程学院）
+中兴通讯股份有限公司重庆办事处副总经理
+曾任国军标GJB编制小组组长
+曾获得总参通信部科技进步奖
+中兴通讯卓越人才奖（市场总监）
+七、报名参加
+1、本次讲座实行预约制，总名额限200人，欲报从速，先到先得。报名截止时间为5月25日中午12点。
+2、唯一报名方式：
+关注学生就业指导与服务中心官方微信“重庆大学学生就业”，微信号cquxsjy，点击下方栏目#预约报名-职通讲坛45期中兴#进入报名通道；
+请报名同学保持手机邮箱畅通，密切关注公众号信息推送。未做其他通知视为自动报名成功。报名成功学生务必按照指定时间、地点准时参与,18点30分开始签到入场；
+3、现场将有大量精美礼品赠送。
+八、联系方式
+联系人：尹同学 13399858049
+王老师 023-65106715
+参与同学可加入就业指导QQ群163529181，职业规划及就业指导活动不断，更有求职信息推送。
+九、往期回顾：
+面对未来，理性决策—西南大学严怡老师来校指导学生职业决策
+重庆市就业创业指导专家刘景刚来校指导学生就业
+一汽丰田娄崇来校指导学生就业
+重庆大学举办职通讲坛第42期之“万达商业分享会”
+学生就业指导与服务中心
+2016年5月18日
+主讲人简介：
+吴勇（2004年毕业于重庆大学通信工程学院）
+中兴通讯股份有限公司重庆办事处副总经理
+曾任国军标GJB编制小组组长
+曾获得总参通信部科技进步奖
+中兴通讯卓越人才奖（市场总监）
+======
+现代分析化学和精准医学
+主讲人 : 许国旺 研究员 中国科学院大连化学物理研究所
+主讲人简介：
+许国旺: 1991年在中国科学院大连化物所获理学博士学位，并留所在国家色谱研究分析中心工作。1995.10-1997.9获得马普(Max-Planck-Institut)研究基金在德国Tuebingen大学医学院工作。1997年9月底回国在大连化物所继续担任题目组长，97年11月提升为研究员。99年5月被聘为博士生导师。2004年获国家自然科学基金委杰出青年基金资助，2005年起担任代谢组学研究中心主任，2008年起担任中国科学院分离分析化学重点实验室副主任，2016年起担任大连化物所生物技术部常务副主任。现为中国化学会色谱专业委员会副主任、中国质谱学会常务理事。正在担任 bolomics, Anal. Chim. Acta, Anal. Bioanal. Chem.，J. Chromatogr. B，J. Pharmaceut. Biomed. Anal.，J. Sep. Sci., Chromatographia等10多个国内外杂志编委，国际高效液相色谱会议科学委员会常委，也是多届国际毛细管色谱会议的科学委员会成员、国际代谢组学会议的组织者和科学委员会成员。至今为止，已发表SCI文章300多篇，申请发明专利80多件（其中已授权30多项）。
+许国旺研究员一直从事色谱及其联用技术的基础理论及应用研究。从1996年开始开展“健康和代谢的关系”研究，并逐步进入代谢组学领域，将研究方向集中到代谢组学的技术平台和其在重大疾病的分子分型和生物标志物发现、中药疗效毒性和作用机理研究等。许国旺是我国最早进行代谢组学研究的学者之一。
+现在的主要研究方向：复杂样品分离分析方法的创新性研究；代谢组学分析技术平台及其在疾病、中药、植物表型、食品安全等方面应用的研究。
+代表性文章:
+1．Rui Wu, Zeming Wu, Xianhui Wang, Pengcheng Yang, Dan Yu, Chunxia Zhao, Guowang Xu*, Le Kang* (2012) bolomic analysis reveals that carnitines are key regulatory bolites in phase transition of the locusts, PNAS, 109(9): 3259-63
+2．Peiyuan Yin, Andreas Peter, Holger Franken, Xinjie Zhao, Sabine S. Neukamm,Lars Rosenbaum, Marianna Lucio, Andreas Zell, Hans-Ulrich Häring, Guowang Xu*,Rainer Lehmann* (2013) Pre-analytical aspects and sample quality assessment in bolomicsstudies of human blood, Clin. Chem. 59(5):833–845
+3．Qiang Huang, Yexiong Tan, Peiyuan Yin, Lina Zhou, Guozhu Ye, Xin Lu, Hongyang Wang* and Guowang Xu* (2013) bolic characterization of hepatocellular carcinoma using non-targeted tissue bolomics.Cancer Res. 73(16): 4992–5002.
+4．J. Hansen, X. Zhao, M. Irmler, X. Liu, M. Hoene, M. Scheler, Y. Li, J. Beckers,M. Hrabe de Angelis, H. U. Häring, B. K. Pedersen, R. Lehmann, G. Xu*, P.Plomgaard*, C. Weigert*(2015) Effect of type 2 diabetes on bolic and tran ional signatures during exercise andrecovery, Diabetologia, 58:1845–1854
+5．Yifei Zhang, Chunxiu Hu, Jie Hong, Jin Zeng, Ankang Lv, Qing Su, Yan Dong, Zhiguang Zhou, Weili Tang, Jiajun Zhao, Lianqun Cui, Dajin Zou, Dawang Wang, Hong Li, Chao Liu, Guoting Wu, Jie Shen, Dalong Zhu, Weiqing Wang, Weifeng Shen, Guang Ning*, Guowang Xu*(2014) Lipid profiling reveals different therapeutic effects of metformin and glipizide on patients with type 2 diabetes and coronary artery disease. Diabetes Care. 37(10):2804-12.
+======
+Cybercrime Deterrence and International Legislation: Evidence from Distributed Denial of Service Attack
+主讲人 : Kai-Lung Hui 教授
+本次报告主要介绍针对网络犯罪预防与国际立法之间关系的研究。研究重点评估了网络犯罪立法对预防分布式拒绝服务攻击的影响。通过收集2004-2008年期间共177天在106个国家有记录的预防分布式拒绝服务攻击记录，研究发现网络犯罪立法至少可以降低10.8%的预防分布式拒绝服务攻击。然而，如果立法的国家在国际合作上有所保留，那么，相应的预防效应将不会出现。此外，研究还证实了网络犯罪立法存在网络效应和替代效应。上述研究发现表明网络上的攻击者是理性的，同时是由经济利益驱动的，同时会策略性地选择攻击目标。
+主讲人简介：
+Kai-Lung Hui博士是香港科技大学商学院信息系统、商业统计与运作管理系教授。他的研究兴趣包括信息隐私与安全、信息技术政策和电子商务等。Kai-Lung Hui教授的工作已经发表在《Management Science》,《Information Systems Research》,《MIS Quarterly》、《Journal of Management Information Systems》等国际权威学术期刊上。同时，Kai-Lung Hui教授还为很多政府部门以及非政府组织做咨询服务，比如香港特别行政区的知识产权部门，世界知识产权组织以及新加坡法务部等。
+======
+Magnetic Iron Oxide Nanostructures and Their Biomedical Applications
+主讲人 : 丁军
+Magnetic nanostructures have been fabricated by wet-chemical routes, such as thermal decomposition and hydrothermal process. For magnetic nanoparticles, we have fabricated spherical Fe3O4 nanoparticles. We have also synhtesized Fe3O4 naorings and nanodiscs.Because of their vortex domain structure, magnetic nanorings and nanodiscs can be relatively well suspended with suitable surfactant, even if their sizes are much larger than the critical size for superparamagnetism. These nanorings and nanodiscs possess relatively large magnetic hysteresis loss, which could result in excellent performance for magnetic hyperthermia. We have performed in-vivo hyperthermia. The results have demonstrated that magnetic nanorings are promising hyperthermia agent for cancer treatment. Fe3O4 nanodiscs could be aligned under magnetic field. This has resulted in a great enhancement of magnetic hyperthermia performance. In addition, these magnetic nanoparticles have shown excellent results for MRI contrast enhancement.
+主讲人简介：
+丁军，新加坡国立大学教授，材料科学与工程系副系(院)主任，中科院宁波材料技术与工程研究所客座教授。已经在磁学和磁性材料方面从事研究工作二十多年，研究工作主要集中在以下两个方向：（1）缺陷引起的铁磁，铁电和光学方面的效应；（2）纳米磁性材料在生物医学、环境和储能方面的应用。已发表文章超过400篇，被引用次数超过12000多次，H-Index影响因子61。参加过各类型会议超过200次，其中邀请报告80余次。他至今已指导40多名研究生，30多名博士和访问学者。
+======
+燃烧室大涡模拟研究
+主讲人 : 孔文俊 研究员
+燃气轮机燃烧室中流动和燃烧相互耦合，研究燃烧室湍流-燃烧相互作用，对于发展湍流混合和燃烧模型，提高燃烧室反应流场预测精度有重要作用。报告在介绍湍流燃烧数值模拟和工程应用现状的基础上，阐述了通过考虑小尺度混合，我们提出的适用于燃烧室大涡模拟的改进代数二阶矩模型及其在燃烧室大涡模拟中的应用。
+主讲人简介：
+孔文俊，中国科学院工程热物理研究所研究员，博士生导师，中国科学院大学岗位教授。1996年获华中理工大学博士学位。先后在香港科技大学和美国普林斯顿大学从事研究工作。主要研究方向为微重力燃烧研究、燃气轮机燃烧室研究和微型能源动力系统研究。
+目前的学术任职是中国工程热物理学会理事，中国航空动力学会燃烧与传热专委会委员、中国工程热物理学会燃烧学专委会委员、中国空间科学学会微重力科学与应用专委会委员、中国科学院工程热物理研究所学位评定委员会委员。
+======
+中国火电厂技术现状与目前关注热点问题
+主讲人 : 聂剑平 研究员
+主要介绍我国火电厂锅炉环保和大型锅炉技术方面的发展状况，以及目前技术研究的热点问题。分为两部分：第一部分关于烟气污染物治理方面，从降低NOx，SOx和粉尘方面总结目前的技术状况和存在的问题，结合存在的问题，介绍了目前研究的热点项目情况。第二部分关于我国发展超超临界机组锅炉情况，介绍我国目前发展的超超临界二次再热机组状况与700℃机组研发状况。可为火力发电研究方向确定及提高毕业生就业选择提供参考。
+主讲人简介：
+聂剑平，研究员。西安热工研究院有限公司煤粉锅炉技术部主任、电站锅炉煤清洁燃烧国家工程研究中心常务副主任、国家能源清洁高效火力发电技术研发中心常务副主任、陕西省工程热物理学会常务理事。硕士研究生导师，博士后工作站合作导师。
+自1982年1月从重庆大学热能工程系毕业后，一直在西安热工研究院从事火电站相关技术研究工作。主要从事电站锅炉燃烧技术、调试、启动、节能技术与技术改造工作。擅长锅炉燃烧器改造和受热面改造领域工作。熟悉锅炉环保和节能技术。先后主持、参与国家863计划、国家科技支撑项目等，煤清洁煤高效燃烧技术、NOx-SO2-Hg一体化脱除技术、燃煤电厂超净排放技术、二次再热机组技术研究开发、300MW液态排渣锅炉研发等重大科技项目等5项国家及省部级重大课题的研究。长期从事燃煤电站污染物排放控制应用技术研究工作，发明专利5项，参与编写行业标准2项。发表文章10余篇。获国家电力科技进步奖一项，二等奖2项。
+======
+大学英语拓展课程创新理念与实践：课程设置设计与评价
+主讲人 : 夏纪梅
+本研讨以“输出驱动成果导向模式”的早期与实时实践者和推动者以及教师专业培训师身份，依据生本论，学本论，实践论，课程论，方法论（教学法，评价法），外语教育创新观（学习能力，思维能力，表述能力，交流能力），倡导大学英语基础后续课程的人文性liberal learning, 教育性EEP, 人本发展性EPP, 高等教育性EHP, 学术性 EAP, 专业性ESP,在教学方法和评价方法上实现人才核心素养培育，最终目的在于打开全新多元的深度学习闸口，释放学生的青春智慧、信息优势和创新能力；与此同时，教师高水平的过程指导和即场评价不但对学生具有激励和导向作用，而且对教师自身核心素养专业发展具有不可估量的作用。研讨会通过展示主讲教师指导的多门课程学生作品抛砖引玉，引发思考研讨和行动。
+主讲人简介：
+夏纪梅，中山大学外国应用语言学英语教育方向教授，教育部教师网培地培国培培训师，湖北省“楚天学者”华中农业大学主讲教授，发表外语教育论文70多篇，出版著作和教材20多部，主持教学研究项目40多项，1998年以来应邀讲学和培训教师以及学术会议主题发言200多场次，专题近百个。
+======
+The Four Imperatives of Energy and Future Energy Options
+主讲人 : 张东柯 教授
+This talk will introduce and discuss the concept of four imperatives of energy and articulate their implications in sustainable energy development. The four imperatives are, in the order of importance, Power Intensity, Energy Density, Cost, and Scale.
+Some newest figures of the four imperatives will be shared in order to illustrate that it is imperative to place a balanced approach to coal, oil, natural gas, nuclear, and renewable energy resources and their development. As an example for discussion, a priority list of strategies for technological developments in coal, natural gas and nuclear power as China’s top national energy policy, followed by a set of strategies for renewable energy developments in niche areas, is discussed.
+主讲人简介：
+Professor Dongke Zhang FTSE obtained his BE and ME degrees from Nanjing Institute of Technology (now Southeast University), Nanjing, China in 1984 and 1987 respectively, and PhD in Chemical Engineering from the University of Newcastle, NSW in 1993. He is the Foundation Professor of Chemical Engineering and Inaugural Director of the Centre for Energy at The University of Western Australia. He was elected to the Fellowship of Australian Academy of Technological Sciences and Engineering (ATSE), serving as Deputy Chair of ATSE Energy Forum, and was named John Curtin Distinguished Professor in 2007 and the Top 100 Most Influential Engineers of Australia by Engineers Australia in 2011.
+His research interests spread over combustion science and fuel technology; ignition and flames; coal and biomass pyrolysis, combustion and gasification; natural gas combustion and reforming; gas to liquid, coal to liquid and biomass to liquid (XtL); conversion and utilisation of biomass and organic wastes; bioenergy; homogeneous combustion catalysts for internal combustion engines; applied catalysis and surface science; mining and minerals processing; industrial explosives; spontaneous combustion; CO2 capture technologies and abatement strategies, including integrated biofuel production and carbon biosequentration; and energy options and sustainable energy development. Over his 23 year academic career, he has successfully raised and managed more than A$48 million in research funding from the Commonwealth and States Governments and Australian and overseas industries.
+A contemporary scientist and a “can-do” engineer, Professor Zhang  has conceptualised, trialled and successfully developed a modern university - industry relationship. He believes the true value of academic research is best measured by its practical use. Knowledge belongs to the society and technology belongs to the industry. He works closely with the industry to rapidly disseminate his knowledge to the society and industry. He has repeatedly demonstrated his ability and the “dare to push the limits” attitude in successfully transforming his scientific ideas into commercial realities through persistent strategic fundamental research, tactical applied research and technological innovations.
+======
+我的创业分享
+主讲人 : 冯俊阳
+主讲人简介：
+冯俊阳，人力资源资深从业者、连续创业者，擅长公司运营及战略管控，十余年外资企业及大型多元化控股集团人力资源副总裁任职经历；之后创立人力资源公司仕派诺，任职总经理，经历行业巨变且大多同行无法破局被淘汰的行业困境中，顺利实现逆境生存及业绩稳步增长的创业先例。现任拉米科技CEO，旗下主打产品为全国一站式大数据校招求职社区----开频校招。
+======
+Nuclear Materials Research at NC State University
+主讲人 : Prof. K. Linga. Murty
+A brief outline of the research activities during the past 3 decades in the Nuclear Materials Research group at NC State University will be summarized that comprise of creep mechanisms in materials, reliability of solders in electronic packaging, radiation embrittlement of ferritic steels, anisotropic biaxial creep of hcp ls with emphasis on Zircaloy cladding, condition monitoring of structural materials using automated ball indentation, NMR study of dynamical behavior of point and line defects during deformation and radiation effects in nanocrystalline materials. The talk will highlight the current and past collaborative research programs in USA and abroad ending with the current research programs on transitions in creep mechanisms of low c/a-ratio hcp ls, creep and creep-fatigue of alloy 709 and SCC of stainless steel welds in canisters for dry storage of spent nuclear fuel.
+主讲人简介：
+Dr. Murty is the Professor in the Department of Nuclear Engineering and Department of Materials Science and Engineering, has extensive experience in Mechanical llurgy and is the author of more than 125 technical papers on creep, fatigue, and fracture of ls. He received his M.S. and Ph.D. degrees from the Cornell University, Ithaca, NY in 1967 and 1970.
+His experience and interests include failure analysis, corrosion and SCC, structure-property relation, effect of aggressive environment and neutron exposure on the mechanical properties and fracture characteristics of ls, embrittlement of nuclear pressure vessel steels, formability of ls, superplasticity, development of crystallographic texture and the resulting anisotropy, etc. The materials studied include aluminum alloys (Al-Mg, Al-Zn), pressure vessel steels, zirconium alloys (Zircaloy), stainless steels, turbine materials (Ni superalloys), lead alloys (Pb-Sn), copper-gold alloys, alkali halides, high purity iron and molybdenum, hcp ls (Zr, Ti, Mg, Zn and their alloys), ferritic steels, WC-Co tool materials and alkali halides. NDE and NDT for life assessment (and condition monitoring) of structural materials in nuclear reactors (PV steels, piping, SSs, superalloys, micro-electronic solders, etc.) using automated ball indentation (ABI); in-situ NMR investigation of the dynamical behavior of point and line defects; reliability of solders in electronic packaging, and processing (ball milling and SPD) and characterization of ultrafine grain ls. He has published more than 340 technical papers.
+His work has earned him numerous honors, including the American Nuclear Society’s (ANS) ‘Mishima’ Award and NC State’s Alcoa Foundation Research Achievement Award. He is a Fellow of ANS and ASM International. In honor of his outstanding contribution, a mini-symposium on ‘Creep, Deformation, Texture, Nano and Nuclear Materials (radiation effects and modeling)’ was organized at the Plasticity conference in Big Island, Hawaii in Jan, 2016.
+Dr. K. Linga. Murty：北卡罗来纳州立大学（the North Carolina State University, NCSU）核工程系和材料系知名教授，研究生项目主任。曾在Babcock & Wilcox和美国西屋公司担任高级工程师。曾获美国核学会（American Nuclear Society, ANS）“Mishima Award”、北卡罗莱纳州的美铝基金会研究成就奖（NC State’s Alcoa Foundation Research Achievement Award），为了纪念他在核材料领域的突出贡献，2016年在夏威夷举行的塑性研讨会专门设立了“核材料蠕变、变形及织构”分会。他是全球“金属材料变形、腐蚀、结构-性能关系以及核材料”研究领域知名专家，已发表高水平论文320余篇。
+======
+思维导图导航英语教师专业发展工作坊
+主讲人 : 夏纪梅
+本工作坊主要内容包括全面介绍思维导图的工具性科学性与评价标准，在此基础上将思维导图应用于教师反思，旨在引领教师在绘制与外语教育相关的主题导图中有所发现和产生内省，找到个性化专业发展的方向；进而再将思维导图应用于教学创新，特别是关注课文教学的思维品质培育目的与方法；最后，将思维导图与思维模式进行梳理分类，以便在今后教学实践中的应用。工作坊全程分享、交流参与者的反思、感悟、教学创新设计等。
+
+
+主讲人简介：
+夏纪梅，中山大学外国应用语言学英语教育方向教授，教育部教师网培地培国培培训师，湖北省“楚天学者”华中农业大学主讲教授，发表外语教育论文70多篇，出版著作和教材20多部，主持教学研究项目40多项，1998年以来应邀讲学和培训教师以及学术会议主题发言200多场次，专题近百个。
+======
+如何成为一名汽车造型设计师
+主讲人 : 岩田正史
+讲座将围绕汽车设计开发基本流程以及汽车外饰设计及内饰设计进行介绍，其中将分享岩田正史先生40年的汽车设计经验和经历。
+主讲人简介：
+岩田正史先生1974年毕业于日本大学艺术系美术学科工业设计，1974年4月入职三菱汽车工业股份有限公司，乘用车技术中心（爱知县/冈崎）设计课。从业40年期间研发了多款车型，包括：初代Galant A、初代Pajero、SSW（Show Car）、三菱重工建设机械、第2代Galant A、Galant Station Wagon、第2代Mirage、初代Pajero、Lancer Turbo、第二代Pajero、HSRIII（Show Car）、Proton汽车 SAGA（Malaysia），现代汽车第2代Granger（韩国）/第3代Derabonea、Space Liner（Show Car）、CZ3（Show Car）、面向台湾生产Galant、MPV、Mini Van，面向印度尼西亚生产Mini Van、小型Track等。2010年赴任重庆长安汽车研究总院设计中心对长安汽车自主研发车的CTF进行研发指导，先行研发及Brand DNA构建；2012年赴任北京汽车汽车研究院Design部对北汽自主研发车的Interior/Coloring Design进行研发指导。
+======
+人类移民火星之路
+主讲人 : 郑永春
+从长远看，当未来航天技术高度发达，行星际运输成本大幅下降的时候，现在的月球、火星、木卫二、土卫六将成为太阳系中人类定居的一个个“岛屿”，而地球是这些岛民共同的故乡。火星的自然环境与地球最相似，是太阳系中唯一经改造后适合人类长期居住的天体。20世纪，我们实现了载人登陆月球，人类第一次有能力登陆另一个天体；21世纪的上半叶，我们将实现载人登陆火星的梦想，这是人类航天史上最重要、最复杂的太空计划，将对人类的未来产生深远影响。本讲座一方面将系统介绍地球和人类在宇宙中的真实处境、太阳系探测特别是火星探测的最新成果、人类走向深空面临的挑战；另一方面，讲具体讨论载人登陆火星面临的科技问题，包括：人类在火星上如何就地取材开展就位资源利用，如何解决吃穿住行，如何生命保障等生命科学问题。
+主讲人简介：
+郑永春，博士，中国科学院国家天文台副研究员。2000年起参与探月工程、深空探测等国家重大科技任务。主要研究领域为太阳系探测、月球与行星科学。首届香江学者，中国科学院青年创新促进会首批会员。中国天文学会青年天文论坛创始人、《科学青年》微信公众号创始人、《知识分子》微信公众号独家签约作家，科学网知名博主、中国科普博览、新华社中国特稿专栏作家。
+2005年获中国科学院院长奖；2008年获中国首次月球探测工程圆满成功有功人员（突出贡献个人）奖； 2010年获探月工程嫦娥二号任务突出贡献者奖；2011年获中国博士后科学基金第四批特别资助；2012年获香江学者奖。
+2009年，《中国探月》系列节目获国家广播电影电视总局2008年度科技创新奖一等奖；2010年，《蟾宫览胜——人类认识的月球世界》获中国科普作家协会优秀科普作品奖（图书类）提名奖。
+======
+主讲人 : 重庆川鼎股权投资有限公司 投资总监 严加盛；重庆大学 田逢春教授 李正周教授；创新创业大赛组委会
+活动介绍：
+本活动以“创新引领·共享发展”为主题，结合“智能与生物感知”的相关科学技术，旨在普及该领域的科普知识、宣传科学思想，重点向活动参与者介绍生物感知与智能信息处理领域的发展状况以及本实验室近年来在生物感知与智能信息处理领域的研究及所取得的主要成果。活动的主要方式包括专家讲座/现场展示/讲解/实际体验(互动)，使活动参与者切实感受到“智能和生物感知”之美。
+
+本活动的主要内容具体包括：
+（1）  细菌感染检测医用智能电子鼻系统；
+（2）  基于云终端的空气质量监测系统；
+（3）  3D及裸眼3D技术；
+（4）  无人机航拍图像处理与显示技术；
+（5）  室内空气质量监测系统；
+（6）  基于嗅觉与视觉的智能控制系统；
+（7）  智能肺音诊断系统；
+（8）  无线传能系统；
+（9）  专家讲座：
+① 创业起跑ABC;
+② 创新创业大赛宣讲；
+③ 生物感知与智能信息处理技术;
+④ 智能信号处理在弱小目标信号检测与跟踪中的应用。
+
+
+活动日程：
+时间
+地点
+活动
+
+5月16日
+主教学楼2408
+参观，体验及交流
+5月17日
+主教学楼2408
+参观，体验及交流
+5月18日
+主教学楼2408
+参观，体验及交流
+5月18日
+主教学楼1012
+专家讲座及现场抽奖（详情见下表）
+5月19日
+主教学楼2408
+互动参观
+5月19日
+主教学楼1012
+专家讲座（详情见下表）
+5月20日
+主教学楼2408
+互动参观
+
+
+讲座安排：
+时间
+地点
+讲座题目
+主讲人
+5月18日上午10:00
+主教学楼1012
+创业起跑ABC
+重庆川鼎股权投资有限公司 投资总监 严加盛
+
+
+主教学楼1012
+创新创业大赛宣讲
+大赛组委会/招商银行重庆分行
+5月19日上午10:00
+主教学楼1012
+生物感知与智能信息处理技术
+重庆大学
+田逢春教授
+
+
+主教学楼1012
+智能信号处理在弱小目标信号检测与跟踪中的应用
+重庆大学
+李正周教授
+======
+主讲人 : 于化忠 加拿大西蒙弗雷泽大学化学系教授
+Current  guidelines for healthcare emphasize rapid testing and reporting, which can be  better satisfied by point-of-care (POC) diagnostic tools rather than centralized  medical laboratories using automated multi-analyte  analyzers by trained professionals. With POC testing, the turn-around time is  significantly reduced, leading to earlier decision making and more efficient  medical treatment. At present, POC protocols are predominantly  d on  rapid-test immunoassay strips/cassettes that combine gold nanoparticles for  colorimetric (mostly qualitative) detection and flow-through systems for sample  delivery. Optical disc technology provides a promising alternative to today’s  POC testing protocol; we have established both the surface chemistry and signal  reading methodology for running bioassays of various molecular analytes on  bona  fide  optical discs (CD, DVD, and Blu-ray discs); these bioDiscs can be read  quantitatively with standard computer drives or stand-alone disc p s, i.e.,  without any modifications to the hardware and software  driver.
+主讲人简介：
+于化忠，现任加拿大温哥华市西蒙弗雷泽大学（Simon  Fraser University：SFU）化学系教授，同时兼任4D先进材料实验中心专任研究员和分子生物学及生物化学系教授。于教授1991年毕业于山东大学化学系；1994年获山东大学和中科院大连化物所联合培养硕士学位；  1997年获北京大学理学博士学位（刘忠范院士的首届博士生；北京大学优秀博士论文世顺奖）。同年赴美国加州理工学院(Caltech)开展博士后工作，师从诺贝尔奖获得者激光化学家兹维尔教授(Ahmed  Zewail)和著名电化学家安森教授(Fred  Anson)。2000年工作于加拿大国家科学院；2001年受聘于SFU，在2005  和2009年分别破格晋升为副教授和教授（生物分析化学和材料化学）。先后获加拿大化学会Fred  Beamish 奖(2004)，电化学会加拿大分会W.  Lash Miller 奖  (2011)，国际电化学学会Tajima  奖(2012)，以及最近的加拿大化学会W.A.E.McBryde 奖章。于教授发表论文120余篇，多数刊登在美国化学会(ACS)的核心期刊上。
+======
+我的课堂我的场—教你如何HOLD住课堂
+主讲人 : 陈圆
+教师不仅是课堂的宣讲者、规划者，更是课堂的观察者、示范者、启发者、指挥者和引导者。教师需要良好地掌控课堂，需要营造强大的气场。本次工作坊将从树立科学的课堂管理观念、精心设计组织教学、激发学生自我管理、建立良好的师生关系、运用机智巧妙的教学手段等方面，教你如何营造权威、自信、亲和却不迁就、不苟同的教学气场。
+主讲人简介：
+陈圆，博士，重庆大学教师教学发展中心副教授，美国佐治亚理工学院访问学者，主讲《有效教学策略》、《课堂管理策略》、《工程项目管理》等课程，主编住建部“十二五”规划教材，曾获国家级教学成果二等奖，重庆市教学成果一等奖，；两次获评“重庆大学网上教学评价优秀教师”。
+======
+主讲人 : 廖波
+各学院：
+为了加强就业指导，提高毕业生的求职能力，提升学生的就业竞争力，学生就业指导与服务中心（简称“就业中心”）开展生涯规划及求职类专题讲座职通讲坛第43期。具体通知如下：
+一、时间
+2016年5月12日（周四下午18:45-21:00）
+二、地点
+A区国际会议厅306
+三、主题
+面试，你做好准备了吗？
+四、主题活动内容
+（一）上半场讲座分享
+1.面试前期准备工作；
+2.面试过程中注意事项；
+3.面试中如何与HR进行交流；
+（二）下半场招聘人才，现场收取简历
+招聘管理培训生、实习生等岗位。
+五、主办及承办
+主办：学生就业指导与服务中心
+社团支持：职通社、研就协、校企俱乐部
+六、主讲嘉宾
+廖波，人力资源管理专业，现任重庆龙湖商业HR总监。
+七、报名参加
+1、本次讲座实行预约制，总名额限200人，欲报从速，先到先得。报名截止时间为5月11日中午12点。
+2、唯一报名方式：
+1）关注就业中心官方微信“重庆大学学生就业”，微信号cquxsjy，点击下方栏目#预约报名-职通讲坛43期龙湖#进入报名通道；
+请报名同学保持手机邮箱畅通，密切关注公众号信息推送。未做其他通知视为自动报名成功。报名成功学生务必按照指定时间、地点准时参与,18点45分开始签到入场；
+3、现场将有精美礼品赠送。
+八、联系方式
+联系人：糜同学 15683423468
+王老师 023-65106715
+参与同学可加入就业指导QQ群163529181，职业规划及就业指导活动不断，更有求职信息推送。
+九、往期回顾：
+面对未来，理性决策—西南大学严怡老师来校指导学生职业决策
+重庆市就业创业指导专家刘景刚来校指导学生就业
+一汽丰田娄崇来校指导学生就业
+学生就业指导与服务中心
+2016年4月19日
+
+
+主讲人简介：
+廖波，人力资源管理专业，现任重庆龙湖商业HR总监。
+======
+翻转课堂教学设计与实践
+主讲人 : 何聚厚
+（1）“互联网+”学习对教师教学的挑战与机遇。
+（2）深度理解翻转课堂教学：为什么现代信息化环境需要教学模式的变革。
+（3）教师实施翻转课堂教学时面临的三个主要问题：
+A.如何基于“教学重构”设计翻转课堂教学（包括教学目标、教学内容和课堂教学活动设计）；
+B.如何基于学科特点选择合适的翻转课堂教学策略；
+C.个人如何自主制作教学微视频。
+（4）我们的经验分享。
+主讲人简介：
+
+
+何聚厚，博士，副教授，陕西师范大学教师专业能力发展中心副主任，中国计算机学会高级会员。主要研究方向为计算机网络安全技术与信息对抗，教育信息化技术等。现作为技术负责人负责“国家985教师教育创新平台”建设项目：教师专业能力发展中心的建设工作。
+======
+主讲人 : 袁若 西南大学化学化工学院院长
+主讲人简介：
+袁若，男，教授，博士生导师，西南大学化学化工学院院长，中国化学会理事、中国化学会分析化学委员会委员，发光与实时分析教育部重点实验室副主任，Nature集团《Scientific Reports》编委。1994年获湖南大学化学化工学院分析化学专业博士学位，此后在湖南大学化学生物传感与计量学国家重点实验室工作，主要从事生物和化学传感器的研究；先后在香港浸会大学、日本大阪大学和香港城市大学做访问学者，从事电化学生物传感器及DNA芯片的研究；1999年至今在西南大学化学化工学院工作。近年来，作为项目负责人主持完成及在研的国家及部省级科研课题20余项，在国际重要刊物（如《Anal. Chem.》、《Chem.-Eur. J》、《Chem. Commun.》、《J. Org. Chem.》、《Andv. Funct. Mater.》、《Biomaterials》、《Small》、《J. Mater. Chem. A》、《Nanoscale》、《ACS Appl. Mater. Interfaces》、《Biosens. Bioelectron.》等）上发表了SCI 收录论文430余篇，其中影响因子大于5.0的文章170余篇，个人H因子44。指导一名博士研究生获全国优秀博士论文提名奖，研究成果获重庆市2012年自然科学一等奖（排名第一），重庆市2013年科技进步一等奖（排名第二），入选Elsevier发布的2015中国高被引学者（Most Cited Chinese Researchers）榜单。
+======
+界面电化学基础及应用
+主讲人 : 牛利 中科院长春应用化学研究所研究员
+主讲人简介：
+牛利，1988-1992 吉林大学化学系学士，1992-1995 吉林大学化学系硕士，1995-1998 中科院长春应化所博士，中科院长春应用化学研究所研究员，现代分析技术工程实验室主任，日本北海道大学催化研究中心JSPS访问教授、吉林大学兼职教授、芬兰Åbo Akademi大学Docentship、日本国立材料研究所NIMS访问教授、丹麦技术大学客座教授、临沂大学泰山学者兼职教授 中国化学会理事，英国皇家化学会会士，吉林省高级专家，国家杰出青年科学基金获得者，国家科技部“中青年科技创新领军人才”，近年来已在国内外核心刊物发表科研论文200余篇，他人引用6000余次，申请国家发明专利50余项，在国内外学术会议上做大会报告和邀请报告50余次，主持及参加国家、省/部级项目40余项。
+======
+学术研究如何与国际接轨？
+主讲人 : 吴联生
+主题一：主题发言
+题目：学术研究如何与国际接轨？
+主讲人：吴联生 教授
+
+
+主题二：工作论文分享
+题目一：土地引资、税收争夺与企业税负
+报告人：重庆大学经济与工商管理学院博士生 胡菁芯
+题目二：融资融券与股权质押——基于双重差分模型的检验
+报告人：重庆大学经济与工商管理学院博士生 杨茵
+
+
+时间：2016年5月9日 下午2：30
+地点：重庆大学B区一综合楼103教室
+
+
+欢迎各位老师、同学前来参加！
+
+
+主讲人简介：
+吴联生教授:会计学博士、工商管理博士后、长江学者特聘教授、国家杰出青年基金获得者，享受国务院特殊政府津贴；现为北京大学光华管理学院教授、副院长、博士生导师、博士后合作导师；目前主要研究会计规则与盈余管理、公司治理与公司财务行为；已在The Accounting Review、Information Systems Research、Journal of Banking and Finance、Journal of Accounting and Public Policy等国际权威期刊和《中国社会科学》《经济研究》《管理世界》《会计研究》《审计研究》等国内权威期刊上发表论文数十篇，出版专著3部，主持国家社会科学基金项目、国家自然科学基金项目、教育部人文社会科学项目等共6项；著作曾获得北京市第九届哲学社会科学优秀成果一等奖，学术论文曾获美国管理学年会(AOM)最佳论文奖、中国中青年财务成本研究会第四届“天健杯”优秀科研成果论文类特等奖、中国会计学会年度优秀论文奖以及中国会计学会财务成本分会“学术创新奖”等；获得霍英东教育基金会第十届高等院校青年教师奖，入选教育部“新世纪优秀人才支持计划”；在教学方面，先后获北京大学教学优秀奖和北京大学树仁奖教金。
+======
+总整课程的规划
+主讲人 : 萧德瑛
+总整课程（Capstone）是评估专业能力的重要手段，故此部分将是本课程之重点。首先会介绍总整课程的定义，再介绍如何针对工程专业来规划总整课程，总整课程如何执行，如何做成果展示及评量方法。最后将以台湾六个系的执行过程为案例，分别说明不同专业领域及不同学校的做法。
+
+
+主讲人简介：
+萧德瑛，美国佐治亚理工学院工程科学与力学博士，台湾新竹清华大学动力机械系教授、台湾白强工业科学基金会执行长。主要研究专业为计算机外设产品机构设计、结构设计、CAD/CAM、TFT背光板光路设计。
+======
+学术不端与现代性
+主讲人 : 张德昭
+论文抄袭、研究成果造假、伪造文献……近年来,国内大学、科研机构一些学者的造假新闻不绝于耳，屡见报端。特别是随着论文查重手段的进度，这种学术不端行为越来越难于隐藏。学术不端成为了高校的阴影面，人人避之唯恐不及。学术不端不仅败坏学术风气，更严重阻碍了我国科学事业的进步。
+学术不端出现的原因是什么？学术不端和学术环境、学术管理的变化有什么联系？如何从制度上治理学术不端？重庆大学马克思主义理论教研部教授张德昭老师与我们一起相约周五，深入分析学术不端滋生的土壤，从根本上剖析学术不端，防范学术不端于未然。
+主讲人简介：
+张德昭，男，重庆大学马克思主义理论教研部教授。先后毕业于四川大学和复旦大学，获四川大学哲学学士/硕士学位、复旦大学哲学博士学位，在重庆大学工业工程博士后科研流动站从事过研究工作。曾在家乡南充及军队工作多年。现任中国自然辩证法研究会青年委员，国家社会科学基金通讯评委，重庆大学科学技术协会常委，重庆大学公共管理学院教授。担任科学技术哲学、马克思主义理论、马克思主义哲学专业硕士研究生导师。
+======
+主讲人 : 罗志田
+五四学生运动后，原本少为人知的梁漱溟因其《东西文化及其哲学》一书而“暴得大名”，社会反响相当热烈。这是因为梁漱溟提出了一个从晚清开始一直围困住中国读书人的问题，即在西方文化实际成为“世界文化”的现实下，东方或中国文化是否可能“复兴”或“翻身”，以及怎样“翻身”。其实也就是从文化层面思考怎样“解决”中国在世界上的地位问题。对梁漱溟而言，问题的核心不是什么“东西文化的优劣”，而是关涉到东方文化的生死。这个在当年具有时代性的问题，到现在也仍然围困住很多中国人。多年来这个问题一直引人关注，今人论及此事仍在使用类似“生死博弈”这样的词语，表明我们还没解决文化的“生死”问题，可知“梁漱溟之问”的意义今天依然存在。讲座讨论的是当时人怎样思考和因应这个问题。
+主讲人简介：
+罗志田，著名历史学家，现任四川大学杰出教授，北京大学历史学系教授。1952年生，1977年考入四川大学历史系。 1987年留美，在美国新墨西哥州立大学攻读硕士学位。1989-1993年在美国普林斯顿大学攻读博士学位。1994年至2003年任四川大学历史文化学院教授、博士生导师。 2003年至今任北京大学历史学系教授。其研究方向主要为中国近代文化史、中外关系史，发表论文上百篇，专著十余本，是当前中国近现代史领域最具影响力的历史学家之一。近著有《权势转移：近代中国的思想与社会》、《道出于二：过渡时代的新旧之争》等。
+======
+工程教育专业认证的程序
+主讲人 : 萧德瑛
+介绍工程教育专业认证的程序及每个程序所需要的工作。在每个程序中将介绍作法并说明《华盛顿协议》的精神，如何从培养目标展开完成目标所需专业能力，再由课程规划来满足专业能力需求。并由教学评估的角度来看课程的成效，评估它是否能满足专业能力的需求。各种评估的方式也在此介绍，并说明如何依评估的结果如何做课程改进。在案例介绍中会以不同台湾高校的作法来说明各阶段的对应方法。
+
+
+主讲人简介：
+萧德瑛，美国佐治亚理工学院工程科学与力学博士，台湾新竹清华大学动力机械系教授、台湾白强工业科学基金会执行长。主要研究专业为计算机外设产品机构设计、结构设计、CAD/CAM、TFT背光板光路设计。
+======
+大数据时代的系统结构与创新技术论坛及研讨会
+主讲人 : Ahmed Louri，IEEEFellow，Edwin Sha ，李涛，邵子立
+报告一：Power-Efficient and Reliable Network-on-Chips for Scalable Multicore Architectures
+主讲人：Ahmed Louri，IEEEFellow，美国乔治华盛顿大学讲习教授，电子计算机工程系主任
+报告摘要：
+Today’s microprocessor designers have resorted to increasing the number of cores per die as a power-efficient approach to performance improvement, leading to the Chip Multiprocessors (CMPs) or the multicore era. Both industrial and academic roadmaps project that hundreds to thousands of general-purpose tera-op CMPs will be needed within a decade in order to satisfy future needs for high-performance computing.
+The proliferation of multiple cores on the same die heralded the advent of a communication-centric, rather than computation-centric systems, to the forefront of computing design wherein the design of the on-chip interconnect fabric connecting various modules, namely the processing cores, cache banks, and memory units, has become extremely important. Further, the continuing scaling of technology has accentuated the on-chip interconnect problem since global wire delays do not scale down as fast as gate delays. To address the growing wire delay problems and improve the performance, a growing number of multicore designs have adopted a more flexible and scalable packet-switched architecture called Network-on-Chip (NoC) architectures. As the number of cores on the chip keeps growing to satisfy power and performance scaling, the NoC design has become the most critical element to achieving the performance potential of future CMPs. Among the challenges facing current NoC design, power dissipation and reliability have been identified as the most critical ones.
+In this talk, I will first discuss several research challenges facing multicore architectures and NoC design. Next I will present some of our ongoing efforts to address these issues using architectural innovations as well as a synergistic mix of emerging interconnect technologies. The talk will conclude with pointers to some future research directions in this area
+报告二：The  work to Design the Most Efficient In-Memory Storage System
+主讲人：Edwin Sha （沙行勉)，重庆大学计算机学院院长
+报告摘要：
+This talk will discuss, from the perspective of system software, how to design the most efficient in-memory storage system, in particular files system and data  system. As the emerging technologies of persistent memory, like PCM, MRAM, provide opportunities for preserving data in memory, traditional storage system structures may need re-studying and re-designing. The talk will present a  work  d on a new concept that each file has its own ``Virtual Address Space." A file system, Sustainable In-Memory File System (SIMFS), is then designed and fully implemented. The experiments show that SIMFS is the fastest in-memory file system. This  work has lots of potential to explore; some new optimization techniques are further designed. We also briefly present the most efficient index structures we recently developed for NVM- d relational data . All of the results give the best known ones in literatures.
+报告三：Innovating Next Generation Computer Architecture in Big Data Era: Think Big, See Small
+主讲人：李涛，美国佛罗里达大学教授，海外杰青
+报告摘要：
+Computer architecture forms the foundation of society’s information technology. This foundation, which was laid several decades ago, is facing grand challenges today as power limits and reduced semiconductor reliability make it increasingly more difficult to leverage CMOS scaling, and the shift towards data centers, big data and cloud computing will include sustainability requirements for traditional architectures. At the same time, there are emerging technologies such as green and clean energy computing, scalable memory devices, advanced integration and interconnect methodologies that can be game-changers in the future. A new plethora of computer architectures can be built by exploiting innovative concepts, mechanisms and implementations that take advantages of these emerging technologies while addressing new design challenges in big data era.
+In this talk, I will address the opportunities and challenges of integrating renewable energy technologies that enable high-performance and sustainable computer and data center architectures. Designing renewable energy driven computer systems poses various challenges in terms of intelligent control strategies for better energy utilization, optimizations for reducing overhead, and improving reliability. I will discuss new mechanisms for data centers that can achieve high efficiency and dependability in utilizing renewable energy. Moreover, I will address the challenges and opportunities of fully exploiting the potential of emerging phase-change memory technologies to improve computer system memory performance, power-efficiency and reliability for big data applications. Although technology scaling and advanced material engineering provide smaller and denser devices, they make achieving these design goals increasingly challenging. I will introduce holistic and cross-  design approaches that leverage nano-scale CMOS fabrication technologies, emerging integration methodologies and advanced material engineering.
+报告四：Bridging Semantic Gaps in Key-Value Storage Systems with Software-Defined SSDs
+主讲人：邵子立，香港理工大学副教授，电子计算学系副主任
+报告摘要：
+Key-value (KV) stores become critical as they are one of the most important building blocks in modern web infrastructures and high-performance data-intensive applications. For example, KV storage systems such as Memcached and Redis have been widely adopted as web   cache in data -driven web systems, and KV stores are also the backbone technique in large-scale distributed NoSQL data s such as LevelDB at Google, Dynamo at Amazon, and Cassandra at Apache. In KV stores, fast, predictable KV access latency is the key performance indicator. However, grand challenges are posted for KV stores to achieve this, particularly when handling real-time applications such as high-frequency trading, online advertising, and online TVs/gaming.
+In this talk, I will present our recent work in optimizing flash- d key-value cache systems. In particular, I will discuss how to bridge the semantic gap between hardware/software by directly opening device-level details to key-value cache systems. In this way, we can leverage the domain knowledge of key-value caches and the unique device-level properties, so as to maximize the efficiency of a key-value cache system on flash devices while minimizing its weakness.
+欢迎各位老师、同学参加，并针对有关问题现场提问!
+
+
+主讲人简介：
+Dr. Ahmed Louri is the David and Marilyn Karlgaard Professor and the Chairman of the Department of Electrical and Computer Engineering in the School of Engineering and Applied Sciences at The George Washington University. Dr. Ahmed Louri received the M.S and Ph.D. degrees in Computer Engineering from the University of Southern California, Los Angeles in 1984 and 1988 respectively. Prior to joining GWU in August 2015, he was a Professor of Electrical and Computer Engineering and the Director of the High-Performance Computing Architectures and Technologies Laboratory at the University of Arizona from 1988 to 2015. Dr. Louri chaired the Computer Engineering Program of the Electrical and Computer Engineering Department at the University of Arizona from 2000 to 2006.
+From 2010 to 2013, he served as a Program Director in the Directorate for Computer and Information Science and Engineering (CISE) of the National Science Foundation with an annual research portfolio of $800 million. He managed the core computer architecture program and was on the management team of several cross-cutting programs including cyber-physical systems (CPS), Expeditions in Computing (EIC), Computing Research Infrastructure (CRI), Trustworthy Computing (SaTC), and Failure-Resistant Systems (FRS).
+He previously held visiting scientist positions at the Communications Research Laboratory (Tokyo, Japan), Laboratoire d'Informatique du Parallelism (LIP) (Lyon France), University of Tsukuba (Tsukuba, Japan), Universite de Paul Sabatier (Toulouse, France), and the National Center for Scientific Research (Centre Nationale de Recherche Scientifique (CNRS)) Toulouse, France.
+His primary research interests include computer architecture, parallel and distributed computing, interconnection networks, optical interconnects for parallel computing systems, reconfigurable computing systems, scalable and power-efficient architectures, fault-tolerant multiprocessors, Network on chips (NoCs) for multi-core and many-core architectures, fault-tolerant and self-healing NoCs, emerging interconnect technologies (photonic, wireless, RF, hybrid) for multi-core architectures and Chip Multiprocessors (CMPs),  ded and SoC systems. He has published more than 125 journal articles and conference papers in these areas, and holds several US patents. His research has been sponsored by NSF, DOE, AFOSR, and a number of industrial organizations.
+Dr. Louri is the recipient of the National Science Foundation Research Initiation Award (1989), the Best article Award from IEEE Micro, the Advanced Telecommunications Organization of Japan Fellowship, the Centre Nationale de Recherche Scientifique (CNRS), France, Fellowship, and the Japan Society for the Promotion of Science Fellowship, and several teaching awards. Dr. Louri was instrumental in bringing optical interconnects into mainstream research in interconnection networks and bridging the gap between computer architecture and optics research communities. He served as a General Chair for the 13th Annual Symposium of the High Performance Computer Architecture (HPCA-13), Phoenix, Arizona, 2007, the general Co-Chair of the Second Workshop on Optics in Communications and Computer Sciences (WOCCS-99), Toulouse France, 1999, and the General Chair for the Workshop on Optics in High-Performance Computing Systems, Lyon France 1996. He has served as a technical committee member for numerous international conferences including, Optical Society of America, meetings on Optics in Computing, the IEEE/OSA conference on Massively Parallel Processing using Optical Interconnects (MPPOI), the IEEE Symposium on High Performance Computer Architecture (HPCA), the International Symposium on Computer Architecture (ISCA). The International Parallel & Distributed processing Symposium (IPDPS), International conference on Parallel and Distributed computing and Systems (PDCS), the International Conference on Parallel Processing (ICPP), the ACM/IEEE Symposium on Architectures for Networking and Communication Systems (ANCS), the IEEE/ACM International Symposium on Microarchitecture (IEEE Micro), the International Conference on Parallel Architectures and Compilation Techniques (PACT), the ACM/IEEE International Symposium on Networks-on-Chip (NOCS), among several others. He has served as guest editor for Journal of Parallel and Distributed Computing (JPDC), and is currently serving as an associate editor of IEEE Transactions on Computers, and associate editor of IEEE Transactions on Emerging Topics in Computing.
+Dr. Louri is a Fellow of IEEE, member of the IEEE Society Technical Committee on Computer Architecture and member of the IEEE Technical Committee on Parallel Processing.
+Edwin Hsing-Mean Sha received Ph.D. degree from the Departmentof Computer Science, Princeton University, USA in 1992.From August 1992 to August 2000, he was with the Department of Computer Science and Engineeringat University of Notre Dame, USA.Since 2000, he has been a tenured full professor at the University of Texas at Dallas. Since 2012, he has been serving as the Dean of College of Computer Science at Chongqing University, China.He has published more than 370 research papers inrefereed international conferences and premier journals including over 50 IEEE/ACM Transactions articles. His work has been cited over 3000 times. He served as program committee members and chairs of numerous international conferences and editors of many journals. He receivedmany awards including Teaching Award, Microsoft Trustworthy Computing Curriculum Award, NSF CAREER Award, and NSFC Overseas Distinguished Young Scholar Award, Chang-Jiang Honorary Chair Professorship, China Thousand-Talent Chair Professorship, etc. He received the ACM TODAES Best Paper Award from ACM Transactions on Design Automation of Electronic Systems in 2011, and many other best paper awards.
+Dr. Tao Li is a full professor in the Department of Electrical and Computer Engineering at the University of Florida, and currently serves as a Program Director in the CCF division of the National Science Foundation.
+He received a Ph.D. in Computer Engineering from the University of Texas at Austin. His research interests include computer architecture, high-performance, energy-efficient, dependable and sustainable computer systems, the impact of emerging technologies and applications on hardware and operating/run-time systems, and evaluation of computer systems. Dr. Tao Li received 2009 National Science Foundation Faculty Early CAREER Award, 2008, 2007, 2006 IBM Faculty Awards, 2008 Microsoft Research Safe and Scalable Multi-core Computing Award and 2006 Microsoft Research Trustworthy Computing Curriculum Award. Dr. Tao Li co-authored a paper that won the Best Paper Award in HPCA 2011 and three papers that were nominated for the Best Paper Awards in ICPP 2015, DSN 2011, MICRO 2008 and MASCOTS 2006. Dr. Tao Li is one of the College of Engineering winners, University of Florida Doctor Dissertation Advisor/Mentoring Award for 2013-2014 and 2011-2012. Dr. Tao Li served as the General Chair of 2014 International Symposium on High Performance Computer Architecture.
+邵子立，香港理工大学电子计算学系终身制副教授，副系主任。2005 年在美国德州大学获得博士学位（博士论文获得美国德州大学达拉斯分校Erik Jonsson 工程与计算机学院2004-2005 年度计算机科学最佳博士论文奖），研究方向是嵌入式系统、实时与嵌入式软件。多年来对实时调度、嵌入式系统优化、NAND 闪存、相变存储器做了广泛的研究。在和本项目研究内容密切相关的课题上已经取得了多项研究成果。在国际重要学术期刊和会议上发表超过100 篇学术论文，包括近20篇IEEE Transactions 和ACM Transactions 论文，以及多篇实时系统与嵌入式系统的重要会议论文。
+邵子立教授曾担任IEEE/ACM绿色计算与通信国际会议（GreenCOM 2011）会议主席，IEEE 嵌入式和实时计算系统及应用国际会议（RTCSA 2009）会议主席，嵌入式多核片上系统国际研讨会（MCSoC 2007/2009）会议主席，IEEE 嵌入式计算国际研讨会（SEC 2008）会议主席，嵌入式软件和系统国际会议（ICESS 2008）会议主席，嵌入式软件优化国际研讨会2006年会议主席。担任嵌入式领域多个重要国际会议RTSS、RTAS、DATE、ICCAD、EMSOFT、CODES+ISSS、LCTES、ASP-DAC 的程序委员。
+邵子立教授是多个国际期刊的副主编，包括IEEE Transactions on Computers (TOC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), ACM Transactions on Design Automation of Electronic Systems (TODAES)，ACM Transactions on Cyber-Physical Systems, Journal of Systems Architecture:  ded Software Design (Elsevier), 和IEEE  ded Systems Letter
+======

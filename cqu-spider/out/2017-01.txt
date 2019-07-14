@@ -1,0 +1,17 @@
+热工参数测量的反问题方法
+主讲人 : 刘石教授
+复杂情况下（例如复杂物质浓度分布）、极端条件下（例如超高温）、复杂物理量场分布、以及需要避免对被测介质产生干扰等的测量通常十分困难。而近代发展较快的非侵入可视化测量方法，为上述问题提供了解决的新方法。这类测量方法常常需要应用反问题方法，以测量场之外的传感器信息重建测量场内部的分布。本讲座即对此类方法做一个基本的介绍。
+主讲人简介：
+刘石教授，重庆大学动力系学士、硕士、剑桥大学工程博士、中科院百人计划研究员。 现在为华北电力大学控制与计算机工程学院教授，兼能源动力与机械工程学院教授，博导。
+Memberships of Professional Bodies and Learned Societies，国际工业过程层析成像学会（International Society of Industrial Process Tomography）创会委员，工程热物理学会多相流分会理事，北京工程热物理学会常务理事。英国Kent大学客座教授，英国Bath大学客座教授，国际期刊IET Renewable Power Generation的助理编辑，工程热物理学报编委，燃烧科学与技术编委。6th World congress on industrial process tomography大会主席，RPG™ 2013: 2nd IET International Conference on Renewable Power Generation大会主席。
+======
+Exploring the effects of specific alloying elements on the production, extrusion and properties of 6xxx series aluminium alloys
+主讲人 : Prof. Malcolm James COUPER
+The optimisation of 6xxx series aluminium alloy compositions has evolved via empirical studies of heat-treated properties, followed by investigations into the effect of homogenisation on extrudability and properties. This optimisation has also been influenced by the imperatives of cost, market competition and certification. To illustrate the inherent trade-off between productivity and properties, some examples will be selected from the major elements Mg, Si and Cu, minor elements Fe, Mn and Cr and trace elements Na, Ti, etc in 6xxx series alloys. The development of advanced microscopy and modelling techniques has led to resurgence in attempts to further improve aluminium alloys. Some comments will be made on the future development of 6xxx alloys.
+
+
+主讲人简介：
+Prof. Couper is currently based in Materials Science & Engineering at Monash University in Australia. After completing a Ph.D. at Monash, he worked within industry R&D with Asea Brown Boveri (ABB) and Rio Tinto Aluminium (formerly Comalco), covering many aspects of aluminium production processes, products and manufacturing. Other activities during this time included Technical Advisor to the Collaborative Research Centre, CAST (1993-2012); Adjunct Professor at the University of Queensland (2001-12) and past-director and president of the Institute of Materials Engineering Australasia. He returned to Monash as research coordinator for the Centre of Excellence in Design of Light Metals, Australia (2010-11) and undertakes some teaching at Monash and CSU. Research interests have included rapid solidification and powder metallurgy; fatigue properties; metal matrix composites; foundry castings processes and heat-treatment; wrought alloy development; microstructural characterization, properties and alloy design.
+
+Malcolm James Couper教授是高性能铝合金领域的国际知名专家，在世界500强企业力拓集团加拿大铝业分公司工作20年，担任研究总监、首席顾问（材料）、首席技术专家等职务，具有领导团队、主持多项大型科研项目的经验，在高性能铝合金研发及科技成果的工业化转化方面拥有丰富经验。此外，他还曾任澳大利亚材料协会会长、澳大利亚国家轻合金中心高级研究主管，并在澳大利亚莫纳什大学及中国中南大学等多所国内外知名高校授课。
+======

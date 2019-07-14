@@ -1,0 +1,225 @@
+Design in Asia
+主讲人 : Erik Amir（LWK & Partners）
+主讲人简介：
+Erik Amir曾就读于意大利米兰理工大学、巴黎国家高等拉维莱特建筑学院及美国佐治亚理工学院，获得建筑硕士及科学硕士学位。
+Erik Amir曾与麦克尔·阿拉德（Michael Arad）共同设计美国9-11世贸中心纪念馆，并在OMA（大都会建筑事务所）的紐約及北京办公室与库哈斯 (Rem Koolhaas)工作，参与多个国际知名项目。同时，他还担任香港大学建筑系的助理教授及北京清华大学的设计客座教师。
+ErikAmir加入LWK&Partners(香港梁黄顾建筑师事务所）后，进一步检视现时全球设计和科技的发展趋势，以提升应对市场需要的能力。除参与实践设计之外，Erik积极投身研究工作，举办建筑师工作坊，激发建筑师重新想象设计的可能性。
+代表性设计
+
+马来西亚吉隆坡万科商住发展项目概念设计
+保加利亚瓦尔纳地区图书馆
+法国巴黎EMANUEL UNGARO展示厅
+新加坡The Interlace项目
+美国纽约世界贸易中心纪念馆
+美国肯塔基州博物馆广场
+中国重庆万科蔡家项目
+中国深圳国际生物谷居住区文化中心概念设计
+中国香港元朗凹头地段第1928号商业项目
+中国成都人北中央商务区产业发展规划及概念城市设计
+中国珠海横琴国际交易广场
+中国北京生態脊椎大厦
+中国深圳宝安文化艺术中心
+中国沈阳水上运动学校
+中国哈尔滨哈西双塔
+中国台湾台中盐之华
+中国台湾台中光盒
+中国台湾高雄骑楼
+中国台湾高雄澄清湖大厦
+中国台湾台中台湾塔
+中国台湾高雄One More大厦
+中国台湾台北表演艺术中心
+艺术装置：香港光之树项目Glowing Tree、日本德岛靛藍瀑布等
+======
+CO2 conversion using fuel cell as reactor for co-generating electricity and useful product
+主讲人 : 骆静利 院士
+Fuel cells convert chemical energy into electrical energy far more efficiently than combustion processes and therefore, have attracted research efforts worldwide. In recent years, my group has devoted efforts to developing new reaction processes of solid oxide fuel cells (SOFC) and advanced in the areas of energy materials development and electrode catalysts innovation. The unique feature of our new SOFC reaction processes is the ability to co-generate electricity and useful products energy-independently. This concept has been applied to the CO2 conversion via SOFC, which will be introduced in this presentation. As commonly known, the ever increasing global consumption of fossil fuels has resulted in the record level atmospheric CO2, which adversely and uncontrollably impacts our ecosystem. Global warming, e.g., has caused abnormal weather conditions and natural disasters in various regions. Therefore, the worldwide battle against the negative greenhouse effects is gaining momentum and the search for clean energy sources has intensified. In response to the challenges, we have developed a novel energy-independent process using SOFC as a reactor to convert CO2 and simultaneously generate electricity and produce syngas (CO + H2), a valuable fuel. Due to its energy-independent nature, this “one stone hitting three birds” approach appears to be a promising strategy to close the anthropogenic carbon cycle. The work presented herein reflects our efforts and share of the responsibility for advancing the current green energy technology and for protecting our environment by reducing CO2 emission.
+
+
+主讲人简介：
+骆静利，加拿大阿尔伯塔大学教授，加拿大工程院院士。1982年本科毕业于北京科技大学（原北京钢铁学院）理化系，后留校任教。1992年在加拿大麦克马斯特大学获得材料科学与工程博士学位，师从著名的Ives教授，随后从事博士后研究。1995年进入加拿大阿尔伯塔大学 （University of Alberta）工作至今，任化工及材料工程系教授、国际腐蚀理事会委员、2004-2015年任加拿大替代燃料电池首席科学家。她长期从事电化学、燃料电池、能源材料和腐蚀控制等诸领域的研究，并应用电化学理论开发了新型燃料电池过程，应用电催化理论研制了多种新能源材料，研究和优化了能源转换和存储材料，在清洁能源和二氧化碳回收利用领域也正在取得显著的成果。同时她针对核电材料腐蚀问题，开展过大量有关局部腐蚀机理、系统微量元素对应力腐蚀开裂的诱导作用等研究，对油田管道冲刷腐蚀机理与防护进行过系统研究并建立了可进行预测的理论模型。迄今已在相关刊物上发表论文300多篇， 发布6个美国专利，并于2014年获得加拿大材料化学奖，2002年加拿大冶金学会颁发的Morris Cohen奖等奖项以表彰她所作的贡献。
+======
+主讲人 : 伍晓勇
+核能作为不可或缺的高效率能源，在军、民用领域均得到越来越广泛的应用。反应堆是核电站或核动力装置的核心，是一个综合性的复杂能源系统，由燃料元件及多种材料部件组成。与常规材料相比，最大的不同之处就是核燃料及材料长期处于强辐射场的服役环境下；所表现出来的行为决定了反应堆的经济性、安全可靠性及使用寿命，这也就是辐照效应研究的核心问题。而辐照效应评价与表征技术是开展核燃料及材料辐照效应研究的基础和前提。本讲座将讲述辐照效应评价与表征技术发展所面临的机遇和挑战，涉及的主要内容包括：什么是核燃料及材料的辐照效应？辐照效应研究的主要任务是什么？辐照效应评价与表征技术的关键特点有哪些？技术体系如何分类？未来的发展趋势如何？
+主讲人简介：
+伍晓勇，男，现年47岁，研究员，中国核学会核材料分会委员，曾任反应堆燃料及材料国家重点实验室副主任、以及亚洲最大热室群的辐照效应研究室主任，现任中国“堆谷”——中国核动力研究设计院反应堆运行与应用研究所党委书记兼副所长。主持和主研国防973关键基础研究项目、总装备部预先研究项目、总装备部预研基金、国家重大专项、国家重点研发计划项目等国家级重大项目20余项。获国防科学技术一等奖1项，三等奖2项，获省部级科技进步成果二等奖3项，三等奖3项。近五年来发表GF报告、论文50余篇。研究领域为核燃料及材料的辐照效应，主要是反应堆结构材料的辐照脆化表征与评价。曾多次受邀参加国际会议作大会邀请报告。
+======
+巴山烟雨 重庆往事
+主讲人 : 章玉玲
+• 民国时期历史上的往事、名人故事
+• 重庆当地文学、金融、画报、大学校刊等
+• 寻找民国时期的景点、建筑：历史景点、著名高校、民国街等
+• 吃货眼里的民国渝城
+• 《全国报刊索引》近代报刊数字资源介绍
+主讲人简介：
+章玉玲，上海图书馆馆员，文学硕士,2014年毕业于华东师范大学，专业方向为文学传媒。
+曾作过的代表性讲座：鹏城往事（深圳图书馆）、近代史上的天津城（天津图书馆）、梦回金陵（南京大学、南京师范大学图书馆）、摩登与传奇——服饰的近现代演义（北京服装学院）、秋风新京觚棱残照——溥仪文献研究（伪满皇宫博物院）。
+======
+请铭记，雾重庆——与朗诵者、演讲者的对话
+主讲人 : 马欣
+马欣老师作为『艺术开讲了』系列讲座的第二期开讲嘉宾，以“请铭记，雾重庆”为主题开讲，它不仅关于朗读，关于重庆，也是关于历史的铭记，更是关于未来的期翼。“感人心者莫乎于情，情在前，声音在后。”马老师将带领大家聆听文字的美妙，品味朗读的意境，学习演讲的奥妙。让我们，用声音重温那些记忆。
+主讲人简介：
+马欣，毕业于中国传媒大学播音主持艺术学院，现为重庆大学美视电影学院播音主持系主任、副教授、硕士生研究生导师、学术委员会委员。同时担任了国家语委语言文字督导专家、中国广播电视社会组织联合会播音主持委员会理事等。
+马欣多次指导学生在齐越朗诵艺术节——近年一直备受关注的全国朗诵界盛会中荣获重要奖项，例如在2015年第十七届齐越节中，重大学子凭借作品《请铭记，雾重庆》荣获了赛事一等奖。
+======
+海外民族志研究中的第三方视角：以泰国研究经验为例
+主讲人 : 龚浩群
+近十五年来，随着海外民族志研究的开展和深入，学者们开始进行方法论层面的反思和探讨。其中，对于中国人类学者的主体意识的强调，对自我与他者的文化间性的论述，对于海外研究当中如何跨越文化与社会边界的讨论，都从不同角度丰富了当代海外社会文化研究的方法论视角。但是，仅仅从自我与他者的二元关系中讨论海外民族志研究的方法论，将可能遮蔽世界历史进程中多主体参与的动态格局，将自我与他者所承受的社会力量简单化，从而限制海外民族志研究的想象力和解释力。基于对自身的泰国研究经验的再反思以及对近年来国内学界涌现的海外民族志研究案例的分析，演讲人试图在倡导海外民族志研究者与对象国的本土学者之间的文化间性的基础上，构建文化三角的方法论模型，即在自我与他者的关系视角中引入第三方，通过对多元的关系性力量的解析，为实现微观研究的超越性提供方法论参考。
+主讲人简介：
+龚浩群是二十一世纪以来中国人类学海外民族志研究的先行者之一。她在泰国社会文化研究等方面有较深的积累，并在向美国研究方面拓展。她于2005年从北京大学获得人类学博士学位，曾在中山大学人类学系、中国社会科学院亚洲太平洋研究所工作，2012年至今任职于中央民族大学世界民族学人类学研究中心。她曾访问泰国朱拉隆功大学政治学院（2003-2004）、哈佛大学人类学系（2010-2011）、荷兰莱顿国际亚洲研究所（2015-2016）。
+她的研究方向为宗教人类学、政治人类学和海外民族志方法，目前的研究兴趣为美国地方社会的公共性、泰国中产阶层的禅修实践、中国游客在泰国的文化体验以及汉语教学志愿者的海外经历。代表作包括《信徒与公民：泰国曲乡的政治民族志》（北京大学出版社，2009），以及期刊论文“清教的流变：美国东镇一位神教会的约定、政体及其现代转型”（《中央民族大学学报》），“社会变动之林：当代泰国公民身份的重构”（《开放时代》），“文化间性与学科认同：基于人类学泰国研究经验的方法论反思”（《广西民族大学学报》）等。
+======
+设计实践与教学实践之间---两个案例：5.12汶川特大地震纪念馆•陆家嘴再城市化改造
+主讲人 : 蔡永洁 教授 再城市化改造
+两个案例：5.12汶川特大地震纪念馆•陆家嘴再城市化改造
+
+
+主讲人简介：
+蔡永洁教授是同济大学建筑与城市规划学院建筑系主任，博士生导师。毕业于同济大学和德国多特蒙德大学。主要从事建筑与城市空间相结合的教学与研究，关注欧洲及中国城市空间特征与空间文化，重点聚焦城市公共空间、城市形态。
+======
+装配式建筑在国内的发展及润泰预制工艺的特点
+主讲人 : 詹耀裕
+======
+扎根本土 心向世界
+主讲人 : 邵 菱 Linda Shao
+主讲人简介：
+邵 菱 Linda Shao，西安冶金建筑学院建筑学学士，广州美术学院研究生，香港大学商学硕士，首届羊城杯广州十大新锐设计师，《羊城晚报》创意版特约撰稿人，《生活元素》建筑艺术版特约撰稿人，曾于时代地产、中信地产任职设计总监。代表作品：广东时代美术馆，岭南圣母冼太夫人墓地遗址规划，庐山武宁扎哈小学，桂林水印长廊酒店等。
+======
+社会生态空间
+主讲人 : Iñaki Alday
+主讲人简介：
+Iñaki Alday,弗吉尼亚大学——亚穆纳河项目的主任，美国弗吉尼亚大学的建筑教授。
+Iñaki Alday, founder and principal with Margarita Jover of 'aldayjover arquitectura y paisaje', is the Elwood R. Quesada Professor of Architecture since August 1, 2011. Iñaki has been the Chair of the Department of Architecture from 2011 to 2016. Since 2016, he is the Director of the Yamuna River Project, the first pan-university grand challenge project at the University of Virginia. The University of Virginia’s Yamuna River Project is a long-term, inter-disciplinary research program whose  ive is to revitalize the ecology of the Yamuna River in the Delhi area.  Iñaki Alday and Pankaj Vir Gupta -- Professor of Architecture and Principal, Vir Mueller Architects/Delhi -- initiated the project with a series of research studios beginning in 2013-14.  The outcome was Re-Centering Delhi, an award-winning vision of Delhi’s Yamuna that rejuvenates the local environment, improves local infrastructure, and reorients patterns of urban settlement in order to ameliorate the lives of local residents and enhance public access to Delhi’s culturally and ecologically vital Yamuna River.  Currently, phase two of the Yamuna River Project involves an interdisciplinary team from the University of Virginia with expertise in architecture, land planning, civil engineering, environmental science, public-private partnerships, anthropology, political science, history, and cultural studies.  The team’s  ive is to engage the efforts of government agencies, experts and activists in an ongoing program to address the multidimensional challenges posed by the vision of Re-Centering Delhi. The signing of a memorandum of understanding with the Delhi Jal Board on July 12, 2016 makes revitalizing the ecology of the Najafgarh drain, the source of 60% of Yamuna’s pollution in the Delhi area, an important focus of phase two.  Over the longer term, the Yamuna Project’s  ive is to build a publicly accessible body of information and expertise that will catalyze efforts to reinvigorate the Yamuna’s ecological system in Delhi.
+======
+超高周疲劳－关键问题与挑战
+主讲人 : 洪友士
+在低于传统疲劳极限的循环应力下，高强合金仍可能发生疲劳损伤和断裂，相应的疲劳断裂周次在107以上，这即是超高周疲劳。金属疲劳研究虽已久经一个半世纪，而萌发于上世纪80年代的超高周疲劳研究成为了疲劳研究的新兴领域。一方面，超高周疲劳裂纹萌生和初始扩展机制与高周、低周疲劳范畴的情形不同，新的疲劳机制有待于揭示；另一方面，众多重要的工程结构和部件，如飞机、高铁、桥梁等，需承受107以上乃至1010载荷周次的安全服役寿命。本讲座将讲述超高周疲劳的关键问题和面临的挑战，涉及的主要内容有：什么是超高周疲劳？为什么要研究超高周疲劳？超高周疲劳的主要特点是什么？超高周疲劳的关键问题是什么？超高周疲劳尚不清楚的问题和挑战是什么？
+
+
+主讲人简介：
+洪友士，博士，中科院力学所研究员，博士生导师。曾任中科力学所所长、副所长。现任国际期刊“Fatigue & Fracture of Engineering Materials & Structures” 主编；“Science China – Physics Mechanics & Astronomy” 副主编；《中国科学：物理学力学天文学》副主编。国务院学位委员会学科评议组力学组成员。曾任中国力学学会副理事长、秘书长。
+研究领域为材料力学性能，断裂力学与结构力学。发表论文300余篇；获授权专利13项。获1996年度中科院自然科学一等奖（第二获奖人）；获2013年度国家自然科学二等奖（第三获奖人）。曾获1995年度国家杰出青年科学基金；是全国（首批）“百千万人才工程”1995/1996年度第一、二层次入选者；1998年被评为中科院有突出贡献的中青年专家。获1999年度中科院“华为奖教金”，获2011年度中科院“朱李月华优秀教师奖”，获2016年度中科院教育教学成果二等奖。2017年当选亚太材料科学院院士。
+近年，关于超高周疲劳的研究成果促进了该领域的新进展。2016年在第21届欧洲断裂学术大会作首场大会邀请报告，2017年在第7届国际超高周疲劳学术大会作首场大会邀请报告；并已受邀将在2018年的第12届国际疲劳学术大会和第22届欧洲断裂学术大会作大会邀请报告。
+======
+航空发动机结构动力学预测性设计与现代测试技术
+主讲人 : 臧朝平
+概述航空发动机振动问题，介绍航空发动机结构动力学预测性设计的要求，重点介绍航空发动机结构动力学预测性设计的方法，包括在设计初期无样机情况下的结构动力学设计的超模型理论，以及基于试验测试数据的结构动力学设计改进；发动机动力学模型确认的框架结构及模型相关、修正与确认的过程；最后，介绍航空发动机结构动力学预测性设计在工程中的应用。
+主讲人简介：
+臧朝平，南京航空航天大学特聘教授/博导，《振动工程学报》编委，航空发动机振动技术航空科技重点实验室学术委员会委员，中国振动工程学会模态分析专业委员会委员，江苏省高层次创新创业引进人才、“六大高峰”人才，中航工业西安航空发动机有限公司-南京航空航天大学发动机振动疲劳联合实验室首席科学家，中英结构材料动力学与控制联合实验室中方负责人。毕业于东南大学机械工程系机械学专业获博士学位，英国帝国学院（Imperial College London）博士后。1997年11月-2008年1月在英国帝国学院罗-罗振动大学技术中心，布里斯托大学航空工程系，斯旺西大学，桑德兰大学工作。主要从事航空发动机整机动力学建模与模型确认、振动模态测试技术及非接触激光振动测量、转子动力学及故障诊断等方面的研究。发表论文140 余篇，SCI引用近400余次，单篇SCI他引131次，编著书一本。曾获国家“八五”科技攻关重大成果奖，国家科技进步三等奖，及江苏省科技进步一等奖，并获得江苏省第五届青年科技奖。
+======
+Experiments in the New European Wind Atlas
+主讲人 : Jakob Mann 教授
+======
+“Boosting Complete-Code Tool for Partial Program Analysis”
+主讲人 : 钟浩
+报告摘要：To improve software quality, researchers and practitioners have proposed static analysis tools for various purposes (e.g., detecting bugs, anomalies, and vulnerabilities). Although many such tools are powerful, they typically need complete programs where all the code names (e.g., class names, method names) are resolved. In many scenarios, researchers have to analyze partial programs in bug fixes (the revised source files can be viewed as a partial program), tutorials, and code search results. As a partial program is a subset of a complete program, many code names in partial programs are unknown. As a result, despite their syntactical correctness, existing complete-code tools cannot analyze partial programs, and existing partial-code tools are limited in both their number and analysis capability. Instead of proposing another tool for analyzing partial programs, we propose a general approach, called GRAPA that boosts existing tools for complete programs to analyze partial programs. Our major insight is that after unknown code names are resolved, tools for complete programs can analyze partial programs with minor modifications. In particular, GRAPA locates Java archive files to resolve unknown code names, and resolves the remaining unknown code names from resolved code names. To illustrate GRAPA, we implement a tool that leverages the state-of-the-art tool, WALA, to analyze Java partial programs. We thus implemented the first tool that is able to build system dependency graphs for partial programs, complementing existing tools. We conduct an evaluation on 8,198 partial-code commits from four popular open source projects. Our results show that GRAPA fully resolved unknown code names for 98.5% bug fixes, with an accuracy of 96.1% in total. Furthermore, our results show the significance of GRAPA’s internal techniques, which provides insights on how to integrate with more complete-code tools to analyze partial programs.
+
+主讲人简介：
+
+主讲人简介: Hao Zhong received his PhD degree from Peking University in 2009. His Ph.D dissertation was nominated for the distinguished Ph.D dissertation award of China Computer Federation. After graduation, he worked as an assistant professor at Institute of Software, Chinese Academy of Sciences, and was promoted as an associate professor in 2012. From 2013 to 2014, he was a visiting scholar at University of California, Davis. Since 2014, he had become an associate professor at Shanghai Jiao Tong University. He is a member of the IEEE and ACM. His research interest is the area of software engineering, with an emphasis on empirical software engineering and mining software repositories. He is a recipient of ACM SIGSOFT Distinguished Paper Award 2009, the best paper award of ASE 2009, and the best paper award of APSEC 2008。
+======
+主讲人 : 北碚区人民法院
+庭审进校园系列活动
+案  由：故意伤害罪、盗窃罪
+公诉机关：北碚区人民检察院
+被告人：王某
+审理法院：北碚区人民法院
+时 间：2017年11月16日（星期四）下午14:30
+地 点：虎溪校区模拟法庭
+欢迎各位老师和广大同学前往旁听观摩！
+主讲人简介：
+公诉机关：北碚区人民检察院
+被告人：王某
+审理法院：北碚区人民法院
+======
+企业管理悟道之“读史明智”
+主讲人 : 吴刚
+======
+Fractals and Fractal Transformations（分形与分形变换）
+主讲人 : Pro. Michael Barnsley
+Fractal transformations are a way of changing smooth  s into rough ones, and vice versatile. They have exciting potential applications in science and art. This lecture will explain in simple terms, what fractals and fractal transformations are, and how they can be built and explored (easily) using the "Chaos Game”.
+
+
+分形变换是一种将光滑物体变为粗糙物体的方法。他们在科学和艺术方面有令人兴奋的潜在应用。本讲座将简单地解释，什么是分形和分形变换，以及如何使用“混沌游戏”构建和探索。
+
+
+主讲人简介：
+Michael BARNSLEY is a leading figure in the world of fractals. He obtained his BA (1968) in mathematics at Oxford University, UK and a PhD (1972) in theoretical chemistry at Wisconsin, USA. He has been a professor at Georgia Institute of Technology and a founded the company Iterated Systems Inc in 1987. He is the author of over 200 publications including the books Fractals Everywhere and SuperFractals.
+======
+一道走进工程热物理科学殿堂
+主讲人 : 聂超群 研究员
+第一、阐述工程热物理标志性科学家的各种特质，从热力学、传热学、气动力学三个角度陈述，落实到本领域的几位本领域相关的诺贝尔奖科学家的回顾，并总结了科学家的基本特征。
+第二、主要讲本领域内科学创新的内涵，从多个层面上进行分析学问的真谛。
+第三、从交通、基础工业、航空发动机等方面讲叫叶轮机械的特点，各类叶轮机械的共同点和区别的体现。
+第四、从科学原始性创新、关键技术形成前的破冰、国际共性问题的发现等多个方面概况科学问题的提炼和立项的依据。
+第五、对同学们未来成为科学家的几点建议。并就我国现阶段的科学家的代表进行分析。报告主要针对研究生和高年级的学生，需要学生掌握有工程热力学、传热传质学、流体力学、测试技术等学科基础知识。
+
+
+主讲人简介：
+聂超群，博士，中科院工程热物理研究所研究员。国务院政府特殊津贴专家，所学位委员会副主任，所学术委员，工程热物理学会理事，学报编委。中国科学院大学讲课教授。
+“十一五”和“十二五”期间是国家自然科学基金委本学科发展规划的撰写人之一，也是中国科学院—国家自然科学基金委能源战略规划“节能减排”执笔人之一。
+在国内率先进行离心压缩系统喘振主动控制的实验研究；在高速压气机实验台上完成旋转失速先兆动态特征的实验研究；在离心压缩系统完成喘振在线预报和自适应调节的实验研究；在剑桥大学完成旋转失速先兆类型与进口导叶预旋规律变化的实验研究；在首都钢铁集团公司完成了四台大型工业流体压缩机械性能测试与喘振边界设定；在工程热物理研究所低速、多级、轴流压气机台上完成微喷气拓宽失速裕度的实验研究、进口畸变与失速裕度关联性的实验研究、进气非轴对称与流动失稳机理性实验研究，这些研究结果均在国际上发表。
+获得2008山东省科学进步一等奖，并获得2009年国家科学进步二等奖。曾经主持过多重类性的国家级项目。在国内外发表论文百余篇、提出多项发明和实用新型专利。
+======
+共享理念与人类命运共同体
+主讲人 : 万俊人
+主讲人简介：
+个人简介：
+万俊人，教授，博导，教育部“长江学者特聘教授”，清华大学人文学院院长，清华大学道德与宗教研究院院长。国家“马克思主义理论与研究建设工程”《伦理学》首席专家兼召集人，国家哲学社会科学基金专家评审委员，中国伦理学会会长， 中华孔子学会副会长。“伦理学前沿丛书”（人民出版社）主编，“政治哲学丛书”（中国人民大学出版社）主编，《中国学术》、《哲学前沿》（英文）、《哲学分析》、《哲学动态》等学术刊物学术编委。迄今出版专著18部、译著20余部（卷），在海内外用中、英文发表学术论文300余篇。美国哈佛大学“富布莱特访问教授”和“哈佛----燕京高级访问学者”，英国剑桥大学、荷兰阿姆斯特丹大学访问教授。先后赴美国、欧洲、澳洲等多国以及港、澳、台等多个地区几十所大学和研究机构访学、讲学。
+======
+Driving down the carbon footprint- CO2 and cars
+主讲人 : Gary Hawley 教 授
+主讲人简介：
+Professor Gary Hawiey is the Dean of the Faculty of Engineering & Design at the University of Bath, a position he has held since 2008. He is the Director of the Powertrain & Vehicle Research Centre and holds the prestigious Medlock Chair of Engineering in recognition of,"excellent academic research and its application to industry".He has published over 160 papers on various aspects of diesel engineering, thermal managenent of heat engines and computational approaches to predicting engine performance. In 2004 he was awarded the IMechE Automobile Division Crompton-Lanchester Medal for the best paper on automobile engineering.He has an extensive record of successful engagement with the automotive industry leading numerous projects in collaboration with the Ford Motor Company and BP. In the 21 years that he has been at Bath,he has secured over ￡20 m to fund his own research.He has been a member of the IMechE Trustee Board an International Scientific Advisor to the Canadian AUTO21 Network Centre of Excellence and is currently the Director of the UK Advanced Propulsion Centre Internal Combustion Engine-Systems Efficiency spoke. Over the next three years he will establish a new national rescarch facility-the Institute of Advanced Automotive Propulsion Systems(IAPPS) after recently securing ￡60 million from various funding bodies.He joined the academic staff in the department of Mechanical Engneeing at the University of Bath in 1995 after careers with both the National Coal Board and the Royal Navy.
+======
+Pt and Pt Alloy Nanoparticles Supported on Graphene Sheets for Poly
+主讲人 : 谢剑
+Two of the major challenges for development of polymer electrolyte membrane fuel cell (PEMFC) systems, especially for automotive applications, are cost and durability of the precious  l group (PGM)  d cathode electrocatalysts. The durability, to a large extent, depends on the PGM catalyst and support stabilities. We have been developed different catalyst supports ranging from functionalized carbon blacks (i.e. attaching SO3H and COOH groups, and steam etching to increase graphitization), steaming etched carbon blacks, nanoscale graphite particles, to graphenes. It has been demonstrated that higher graphitic structure of the support is, the stronger the support stability is. The graphene is the ultimate carbon support due to its highest graphitic structure. However, application of graphene supported catalysts in membrane electrode assembly (MEA) remains a huge challenge due to the restacking of the graphene sheets during the synthesis of the supports, the preparation of the catalyst, and the fabrication of the MEA. We have taken the approaches of (1) using  our functionalized graphene methodology to transform the pure graphene into functional materials with enhanced H+ conductivity, improved Pt particle dispersion, and enhanced anchoring of Pt nanoparticles on the support, and (2) using our “spacer” approach to transform the 2 D graphene sheet into 3 D structured graphene with pores/channels for facile reactant/product transfer. Using these approaches, we have developed 3 D-structured, functionalized graphene- d (f-G) catalyst supports combined with PtxNi alloy catalysts in a membrane electrode assembly with excellent performance: ≤ 18% and 29% mass activity loss after 5K support cycles (0.5V/s, 1.0-1.5 V ) and 30K catalyst  cycles (0.05V/s,  0.6-1.0 V ), respectively, which exceeds the DOE 2020 target (≤ 40%). This talk will cover the development of graphene supported catalysts for PEMFC applications with whole process characterization; catalyst ink using small angle x-ray scattering (USAXS) combined with cryogenic TEM, catalyst and support using identical location TEM for Pt nanoparticle stability, x-ray absorption (XAS) and x-ray photoelectron spectroscopy (XPS), and ionomer/catalyst interface using TEM and porosimetry of catalyst  s using Hg porosimetry, TEM tomography and Nano-CT.
+主讲人简介：
+Dr. Xie is an professor of Mechanical and Energy Engineering at the Purdue School of Engineering Indianapolis (IUPUI campus). He has published more than 55 journal papers, 11 patents applications, 2 book chapters and he has been awarded more than $4.86 million research grants within 8 years. He served as review board members for more than 12 journals including the well known “Nature”. He also serves as the panelist of the review panel for US National Science Foundation (NSF), Advanced Research Project Agency-Energy (ARPA-E) of US Department of Energy (DOE), Canadian National Science Foundation (CNSF) for grant proposal review and evaluation. He has been served as the session chair for Polymer Electrolyte Fuel Cells Symposium in the Electrochemical Society Meeting for more than 5 years. Before joining the university, he was a principal research scientist at Battelle Memorial Institute and worked on fuel cell R&D as well as Li-ion batteries and artificial lung. Prior to Battelle, as the program manager and senior electrochemical engineer at Cabot Corp, Dr. Xie worked extensively on catalyst development for fuel cells. Dr. Xie spent four years at Los Alamos National Laboratory on fuel cell research covering from membrane electrolytes, catalysts, membrane electrode assembly (MEA) to durability of fuel cells. As a system engineer, Dr. Xie was in charge of developing electric propulsion system for Electric Vehicle (EV) and Hybrid EV at General Motors Advanced Technology Vehicle, Indianapolis Technical Center. Dr. Xie received his PhD in chemistry from Miami University, U.S.A. and BS in chemical engineering (emphasis on electrochemical engineering) from Tianjin University, China.
+======
+中国革命中的阶级分析、底层收益与社会再造
+主讲人 : 吴重庆
+中国革命是在半封建半殖民地、乡村熟人社会、人地关系紧张的边远山区等多重社会背景下酝酿发动的，中国革命可配置的政治动员资源、社会文化资源以及物质资源极为有限，由此决定了中国革命的道路选择、目标设置、革命动员的方式与斗争策略。1930年代毛泽东在中央苏区围绕阶级分析、底层收益与社会再造，开展了一系列的农村调查，展现了中国革命的艰巨性、复杂性与丰富性。
+
+
+主讲人简介：
+吴重庆，中山大学哲学系教授，博士生导师，中山大学华南农村研究中心主任。兼任《开放时代》特约主编、《中国乡村研究》、《华人应用人类学》、Rural China 编辑委员、Rethinking Socialism and Reform in China(Brill)丛书主编之一。哈佛大学哈佛—燕京学社、香港大学新闻与传媒研究中心、新加坡国立大学东亚研究所、台湾大学人文社会高等研究院访问学者。
+著有《儒道互补》（广东人民出版社，1993）、《本土情怀》（上海远东出版社，1996）、《华南古村落：搁浅于时光长河的乡土与人》（北京大学出版社，2011）、《无主体熟人社会及社会建构》（中国社会科学文献出版社，2014）、《孙村的路：后革命时代的人鬼神》（法律出版社，2014）、Mapping China: Peasants, Migrant Workers and Informal Labor（主编，Brill,2016）、The path to Sun Village（Brill,2017）等。
+======
+Modelling and Simulation of Transport Phenomena in Fuel Cell Electrodes
+主讲人 : Ned Djilali教授
+Fuel cells are efficient electrochemical energy conversion devices that can provide zero emission power for applications ranging from portable electronics and road vehicles, to residential power generation. They have the advantages of high energy density, fast start-up, and scalability. A key component of a fuel cell is the electrode, which facilitates the electrochemical reaction and the transport of reactants, charge, and byproduct heat and water. Fuel cell electrodes consist of three tightly integrated  s having distinct characteristics: a catalyst  , a micro-porous  , and a gas diffusion  . The complex porous structure and morphology of the  s largely determine the effectiveness of the transport processes and in turn the overall performance, cost and durability of a fuel cell. In this talk we will discuss some of the challenges and progress toward modelling and understanding the multiphysics, multiscale transport in the various porous  s of PEM fuel cells through a combination of advanced microscopy, numerical reconstruction, and pore scale simulations. We will also present some recent progress in the modelling and simulation of the fabrication process that determines the structure and morphology of porous catalysts.
+主讲人简介：
+Ned Djilali is Professor of Mechanical Engineering at the University of Victoria, where he holds the Canada Research Chair in Advanced Energy Systems Design and Computational Modelling. His research focuses on transport phenomena (fluid flow, heat, mass and charge transport) and energy systems analysis. The applications of this research have ranged from aerodynamics and zero-emission vehicles, to electrochemical energy conversion and the water-energy nexus. Prior to joining UVic, he was staff specialist with the Advanced Aerodynamics Department at Bombardier Inc., where he worked on the design of the Regional Jet. At UVic he has established an internationally recognized laboratory in the areas of thermofluid science, fuel cell technology and energy systems where he has trained many graduates who have become leaders in academia and industry.
+Djilali has served as Director of UVic’s Institute for Integrated Energy Systems and of the Pacific Institute for Climate Solutions, and was engaged in several initiatives including the BC Hydrogen & Fuel Cell Industry Strategy and the Hydrogen Highway deployed as part of the 2010 Winter Olympics. He has advised and collaborated with numerous industry partners, organizations and government agencies, including Toyota, Mercedes-Benz, Ballard, the BC Climate Action Secretariat, and the Wind Energy Strategic Network on the development and adoption of zero emission energy technologies, and has held visiting professorships at various institutions in Asia, Europe and North-America. Djilali lectures widely on various aspects of sustainable energy systems, has published over 170 peer reviewed journal papers (h-index 52), holds 14 patents, and serves on the editorial boards of several international journals. He is a Thomson-Reuters Highly Cited Researcher, and a Fellow of both the Canadian Academy of Engineering and the Royal Society of Canada.
+======
+主讲人 : 韩松落
+1．像个侦探那样读书，把读一本书变成读一箱书。
+2．掌握阅读技巧。
+3．读书必须要和别的阅读形式联动。
+4．通过阅读和电影了解他人。
+5．通过阅读了解自己。
+6．阅读需要虚荣心和功利心。
+主讲人简介：
+韩松落，70年代人，2004年开始专栏写作，曾在或正在《GQ》中文版、《时尚先生》、《时尚芭莎》、《瑞丽》、《嘉人》、《型男志》、《都市丽人》、《看电影》、《香港电影》、《壹读》、《博客天下》、《Famous名汇》、《精品购物指南》、《南方都市报》、《南方人物周刊》、《新京报》、《新闻晨报》、腾讯《大家》、《纽约时报》中文网开设专栏，为《明报》、《号外》、《世界日报》撰稿。
+著有《为了报仇看电影》、《我口袋里的星辰如沙砾》《老灵魂》《窃美记》《我们的她们》《怒河春醒》《上帝是个不合格的药剂师》、《格莱美的欢呼》等。
+《看电影》及《香港电影》杂志举办的“华语优质电影大奖”评委；《南方都市报》举办的“华语电影传媒大奖”评委；中国电影家协会理论评论委员会理事。新浪智库成员。
+《GQ》中文版2012年“年度人物之专栏作家”。
+======
+主讲人 : 马辰
+主讲人简介：
+马辰
+钢琴演奏家，作曲家，音乐制作人，毕业于中央音乐学院，辰音画梦艺术中心艺术总监，策展人。
+2012至2016年度北京国际音乐节合作音乐家。擅长爵士乐以及电子音乐，擅长即兴演奏，擅长抒情轻音乐的演奏，被誉为“东方的理查德·克莱德曼”，中国的Yiruma。
+======
+主讲人 : 张金利
+主讲人简介：
+张金利，天津大学教学名师、教授，石河子大学长江学者，IChemE Fellow，国家级教学团队负责人，教育部创新团队负责人，天津市“131”创新型人才团队负责人。主要研究方向为：多相过程强化技术、化工实践教学技术与装备。编写教材7本，获国家教学成果一等奖1项、国家教学成果二等奖3项、省部级教学奖励11项；发表科研论文200余篇，获国家发明专利授权50余项，获省部级科技奖励5项。
+======
+主讲人 : 邵敏华
+利用多余的清洁电能来还原二氧化碳和氮气生成其它有用的化学品是一个前景广阔的储能技术。这两个电化学反应对于催化剂的要求非常高，现在催化剂的研发还处在摸索阶段，还没有合适的催化剂满足商业化的要求。我们应用原位表面增强红外光谱研究了几种模型催化剂二氧化碳和氮气还原的过程，发现并跟踪了几种关键反应产物随电位的变化，并依此提出反应机理。
+
+
+主讲人简介：
+邵敏华博士现为香港科技大学化学与生物工程系副教授，香港科技大学能源研究院副主任，可持续能源项目主任。邵博士1999年和2002年毕业于厦门大学化学系，分别获学士和硕士学位，并于2006年于纽约州立大学石溪分校获得材料科学与工程博士学位。2007年加入UTC Power负责质子交换膜燃料电池用先进的催化剂和载体的研发以及膜电极的优化，期间主要负责和丰田汽车公司的合作。2012年被提升为UTC Technical Fellow和项目经理。2013年加入福特汽车公司，专注下一代电动车用锂离子电池的研究。2014年加盟香港科大。发表过80余篇文章，30多个国际专利申请（10项授权）。曾获得多个奖项，包括美国电化学会Supramaniam Srinivasan青年研究者奖（2014），美国电化学会学生成就奖（2007），石溪大学杰出博士生校长奖以及国家留学基金委优秀自费留学生奖学金（2006）等。是Journal of Electrochemical Society 和Science Bulletin的副主编, Journal of Applied Electrochemistry 和 Catalysts 的编委。目前主要研究方向为燃料电池、锂（钠）离子电池、电催化、理论模拟等。
+======

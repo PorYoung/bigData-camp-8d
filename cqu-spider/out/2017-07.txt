@@ -1,0 +1,80 @@
+Energy Recovery from Natural Gas Hydrates: Prospects and Challenges
+主讲人 : Praveen LINGA
+首先介绍目前国际上针对天然气水合物这种潜在新能源的开发研究现状，然后讲解水合物开发所面临的技术挑战，最后提出水合物能源开发及应用发展前景。
+
+主讲人简介：
+Praveen LINGA教授主要从事气体水合物方面的研究工作，包括水合物储能与运输，CO2捕集、储存与利用，海水淡化，以及水合物新能源开发等。他是国际SCI杂志Journal of Natural Gas Science & Engineering的副主编。迄今为止，Praveen LINGA教授在国际顶级期刊上发表高水平科技论文70余篇，被引3300余次，H指数31。ESI数据显示，Praveen LINGA教授自2014年5月以来成为全球工程领域排名前1%的科学家。
+======
+The Thermomechanical Processing of Mg Alloys
+主讲人 : Prof. Stephen Yue
+Alloying additions of Nd to Mg are known to, at least, weaken the basal texture of the as worked alloy and, at best, lead to a non-basal texture. It is clear that texture weakening improves formability, but it is difficult to quantify the effect of texture weakening on formability. In a project conducted within the MagNet - NSERC (Natural Science and Engineering Council) Canadian Strategic network, a car door was successfully warm formed from ZEK sheet under conditions at which an AZ31 sheet could not be utilised. The effect of warm forming on the microstructure and texture of the ZEK is examined in order to gain insight into the mechanisms that have improved the formability compared to AZ31. At the same time, alloy variants of ZEK,  d on reducing Nd levels and eliminating Zr, have been designed and the hot deformation behaviour characterized. The goal of the alloy design work is to create alloys which have similar sheet characteristics of ‘conventional’ ZEK, assuming that this will lead to similar warm formability characteristics.
+主讲人简介：
+Prof. Stephen Yue is the Director of McGill Institute of Aerospace Engineering; former Chairman of the Department of Mining,  ls and Materials Engineering, McGill University. He received his B.Sc. and Ph.D. degrees in  llurgy from University of Leeds, England in 1973 and 1979. He is the Memberships of  llurgical Society of the Canadian Institute of Mining and  llurgy (CIMM), Iron and Steel Society of the American Institute of Mining and  llurgical Engineers (ISS - AIME) and American Society of Materials (ASM). He won many awards, including the ASMCC G. Macdonald Young award, Lorne Trottier Chair of Aerospace Engineering in 2009, James McGill Professor in 2007. Prof. Stephen Yue has extensive experiences in high temperature deformation of  ls and microstructure evolution, and is the author of more than 200 technical papers on thermomechanical processing of  ls.
+Stephen Yue教授是麦吉尔大学航空航天工程中心主任，曾任冶金与材料工程系系主任，是加拿大采矿与冶金学会会员、美国采矿与冶金工程师研究院钢铁学会会员、美国材料学会会员，发表高水平论文200余篇，荣获麦克唐纳德青年奖（Macdonald Young award）、航空航天Lorne Trottier主席（Lorne Trottier Chair）、麦吉尔James荣誉教授（James McGill Professor）等学术奖励，是金属热加工与微结构调控方面的国际知名专家。
+麦吉尔大学（McGill University），始建于1821年，是加拿大最古老的高等学府，在国际上享有盛誉，被誉为“加拿大哈佛”，2016-2017年QS排名第30位。
+======
+主讲人 : 王友乾(澳大利亚昆士兰科技大学)
+We study environmental factors that might influence malaria incidence in Afghanistan.However, in modeling spatial data, the existence of spatial correlation between observations must be considered.The basic ingredient of our method is a generalised estimating equations (GEE) of the marginal mean of disease incidence,as a function of the geographical factors and the spatial correlation.We   a series of GEEs, each reflecting a particular source of spatial correlation, into a larger system of estimating equations.  To estimate the spatial correlation parameters, we set up a supplementary set of estimating equations  d on the correlation structures induced from the different sources. Simultaneous estimation of the mean and correlation parameters is performed by alternating between the two systems of equations.
+
+主讲人简介：
+王友乾教授1986年毕业于浙江大学数学系，1991年在牛津大学获得统计学博士学位。1998-2002任哈佛大学副教授，2005-2010任澳大利亚联邦科工组首席科学家，2010-2015任澳大利亚昆士兰大学应用统计学首席教授，2015至今任澳大利亚昆士兰科技大学数据科学终身教授。研究兴趣在稳健推断,纵向数据分析，水文学统计模型,资源估计与管理战略评估，死亡率和成长率参数估计,统计模拟与数据分析，相关性数据分析中的模型选择等。在世界顶级统计期刊发表了120多篇文章 (包括 Biometrika, Biometrics, JASA , Annals of Statistics 等顶级统计期刊），谷歌学术引用量已超过2600次.
+======
+主讲人 : 李栓明
+In this paper we study the finite-time expected discounted penalty functions and their decompositions in the classical risk model perturbed by diffusion. We first give the solution to a class of second order partial integro-differential equation (PIDE) with certain boundary conditions. We show thatthe finite-time expected discounted penalty functions and their decompositions can be expressed in terms of the corresponding quantities under theinfinite-time horizon. We then find explicit  s for the finite timeruin probabilities and its decompositions: the finite-time ruin probability dueto oscillations and the finite-time ruin probability caused by a claim. Numerical examples are given when claims follow an exponential distribution.
+主讲人简介：
+李栓明 (Shuanming Li)，墨尔本大学商学院精算中心副教授，博士生导师，墨尔本大学精算研究生教育与南开-墨尔本联合双硕士项目的负责人(Director of Master of Actuarial Science). 在精算，概率，统计，应用数学，运筹学，随机过程等刊物上发表论文50余篇。是50多国际期刊的审稿人, 美国数学评论的特约评论员。从2005至今，在墨尔本大学精算中心教授本科及研究生若干门，包括风险理论1，风险理论2，寿险数学1，寿险数学2，精算入门，随机过程在金融与保险中的应用，精算论文写作等；指导荣誉本科生与硕士20 余名，指导博士7名。
+======
+Olfactory function and its Deficits in Neurodegenerative disease
+主讲人 : Qing Yang
+Olfactory function and its Deficits in Neurodegenerative disease
+主讲人简介：
+PREFERRED  /ROLE:
+Professor of Radiology, Bioengineering, Engineering Sciences and Neurosurgery
+Director, Center for NMR Research and MRI Core Facility
+Research Interests
+1. MRI physics and methodology developments
+a. Radiofrequency field engineering in high field MRI
+b. Magnetic susceptibility effects and artifact reduction
+2. Functional MRI and its clinical applications
+a. Olfactory fMRI and perception
+b. Brain imaging makers of Alzheimer’s disease and Parkinson’s disease
+c. Targeted MRI contrast development
+======
+生物马达、病毒组装与纳米技术应用
+主讲人 : 郭培宣教授
+生物马达、病毒组装与纳米技术应用
+主讲人简介：
+郭培宣教授1987年博士毕业于美国明尼苏达大学。1993年被美国普渡大学聘为终身教授。1997年担任美国普渡大学分子病毒学正教授，2007年起被聘为美国辛辛那提大学生物医学工程Dane and Mary Louise Miller讲席教授，2012年1月起被聘为美国肯塔基大学药学院William S. Farish讲席教授，同时担任美国国家卫生研究院(NIH)癌症研究所纳米技术合作计划主任，主持"RNA纳米技术和癌症治疗" 等项目研究，现为美国俄亥俄州立大学首席讲座教授。郭教授曾担任两届RNA纳米技术及药物国际会议主席，并担任2015年RNA纳米技术GRC（戈登会议）的主席。在2006年到2011年间他担任美国NIH国家纳米医药发展中心主任，近期担任美国国家癌症研究所（NCI）癌症纳米技术平台合作计划主任，专注于癌症治疗中的RNA纳米技术。
+======
+主讲人 : 郭培宣（美国俄亥俄州立大学首席讲座教授）
+主讲人简介：
+郭培宣教授1987年博士毕业于美国明尼苏达大学。1993年被美国普渡大学聘为终身教授。1997年担任美国普渡大学分子病毒学正教授，2007年起被聘为美国辛辛那提大学生物医学工程Dane and Mary Louise Miller讲席教授，2012年1月起被聘为美国肯塔基大学药学院William S. Farish 讲席教授，同时担任美国国家卫生研究院(NIH)癌症研究所纳米技术合作计划主任，主持"RNA纳米技术和癌症治疗" 等项目研究，现为美国俄亥俄州立大学首席讲座教授。郭教授曾担任两届RNA纳米技术及药物国际会议主席，并担任2015年RNA纳米技术GRC（戈登会议）的主席。在2006年到2011年间他担任美国NIH国家纳米医药发展中心主任，近期担任美国国家癌症研究所（NCI）癌症纳米技术平台合作计划主任，专注于癌症治疗中的RNA纳米技术。郭教授在1995年获得了Pfizer杰出教授奖，1998年获得普渡大学杰出教授学者奖，2004、2005和2007年分别获得普渡Seed Award，2006年获得Lions癌症研究奖，2009年殊荣明尼苏达大学COV杰出校友，2014年殊荣明尼苏达大学一百年杰出中国校友，2011年获得了辛辛提那大学卓越研究奖。郭教授是5个纳米技术杂志的编辑或董事，他的工作在电台或电视如ABC或NBC上被报道过数百次，并在时事通讯或NIH、NSF、MSNBC、NCI和ScienceNow的网站上占据重要位置。他是1998年中国第一届高科技交易会（深圳）朱镕基总理特邀嘉宾和大会报告人；是NIST、NIH、NSF和纳米技术全国委员会的两个重要国家纳米技术委员会的成员，并在2006至2010年任NIH纳米医药发展中心指导委员会成员；他也是美国国立卫生研究院（NIH）2010年和2014年内部科研审查委员会成员。
+======
+美国俄亥俄州立大学首席讲座教授郭培宣先生学术报告会
+主讲人 : 郭培宣教授
+RNA纳米技术是一个新兴的领域，但RNA纳米颗粒的不稳定性和降解使得许多科学家们对RNA纳米技术研究望而却步。郭培宣教授及研究团队解决了这些问题，制成的RNA纳米颗粒显示出一些良好的特性：多价性，允许同时传递多个功能性的分子获得协同效应；模块化设计，能够实现带有定义结构的控制性自组装；热力学稳定，可维持RNA纳米颗粒在动物和人类循环系统中的完整性并以极低浓度存在；化学稳定性，使得纳米颗粒耐受血清中Rnase（一种切割RNA的酶）的消化。
+分子马达（molecular motor）即分子机械或纳米马达（nano-mot-motor，NMM），是由生物大分子构成，利用化学能进行机械做功的纳米系统。1986年，郭培宣教授构建phi29DNA组装马达并发表于PNAS，是至今所能构建最强大的生物马达。1987年发现pRNA马达并发表于Science；1998年发现pRNA六聚物并发表于Molecular Cell。郭教授长期引领RNA纳米技术研究和应用。
+作为纳米生物领域的杰出科学家，郭教授将围绕生物马达、纳米技术应用、病毒组装等核心问题带来一场精彩学术报告会，为我们揭示纳米生物领域中微观世界的秘密。
+报告时间：2017年7月3日（周一）15:30
+报告地点：重庆大学A区主教学楼506会议室
+主    办：重庆大学理学部
+联合主办单位：重庆大学研究生院
+重庆大学生物工程学院
+重庆大学111计划“生物力学与组织修复工程”学科创新引智基地
+深圳宣泽生物医药有限公司
+承    办：重庆大学研究生院研究生创新实践基地
+
+
+重庆大学研究生创新实践基地
+重庆大学研究生科学技术协会
+2017年6月30日
+主讲人简介：
+郭培宣教授1987年博士毕业于美国明尼苏达大学。1993年被美国普渡大学聘为终身教授。1997年担任美国普渡大学分子病毒学正教授，2007年起被聘为美国辛辛那提大学生物医学工程Dane and Mary Louise Miller讲席教授，2012年1月起被聘为美国肯塔基大学药学院William S. Farish 讲席教授，同时担任美国国家卫生研究院(NIH)癌症研究所纳米技术合作计划主任，主持"RNA纳米技术和癌症治疗" 等项目研究，现为美国俄亥俄州立大学首席讲座教授。郭教授曾担任两届RNA纳米技术及药物国际会议主席，并担任2015年RNA纳米技术GRC（戈登会议）的主席。在2006年到2011年间他担任美国NIH国家纳米医药发展中心主任，近期担任美国国家癌症研究所（NCI）癌症纳米技术平台合作计划主任，专注于癌症治疗中的RNA纳米技术。
+郭教授在1995年获得了Pfizer杰出教授奖，1998年获得普渡大学杰出教授学者奖，2004、2005和2007年分别获得普渡Seed Award，2006年获得Lions癌症研究奖，2009年殊荣明尼苏达大学COV杰出校友，2014年殊荣明尼苏达大学一百年杰出中国校友，2011年获得了辛辛提那大学卓越研究奖。郭教授是5个纳米技术杂志的编辑或董事，他的工作在电台或电视如ABC或NBC上被报道过数百次，并在时事通讯或NIH、NSF、MSNBC、NCI和ScienceNow的网站上占据重要位置。他是1998年中国第一届高科技交易会（深圳）朱镕基总理特邀嘉宾和大会报告人；是NIST、NIH、NSF和纳米技术全国委员会的两个重要国家纳米技术委员会的成员，并在2006至2010年任NIH纳米医药发展中心指导委员会成员；他也是美国国立卫生研究院（NIH）2010年和2014年内部科研审查委员会成员。
+======
+生物马达、病毒组装与纳米技术应用
+主讲人 : 郭培宣教授
+主讲人简介：
+郭培宣教授1987年博士毕业于美国明尼苏达大学。1993年被美国普渡大学聘为终身教授。1997年担任美国普渡大学分子病毒学正教授，2007年起被聘为美国辛辛那提大学生物医学工程Dane and Mary Louise Miller讲席教授，2012年1月起被聘为美国肯塔基大学药学院William S. Farish 讲席教授，同时担任美国国家卫生研究院(NIH)癌症研究所纳米技术合作计划主任，主持"RNA纳米技术和癌症治疗" 等项目研究，现为美国俄亥俄州立大学首席讲座教授。郭教授曾担任两届RNA纳米技术及药物国际会议主席，并担任2015年RNA纳米技术GRC（戈登会议）的主席。在2006年到2011年间他担任美国NIH国家纳米医药发展中心主任，近期担任美国国家癌症研究所（NCI）癌症纳米技术平台合作计划主任，专注于癌症治疗中的RNA纳米技术。
+郭教授在1995年获得了Pfizer杰出教授奖，1998年获得普渡大学杰出教授学者奖，2004、2005和2007年分别获得普渡Seed Award，2006年获得Lions癌症研究奖，2009年殊荣明尼苏达大学COV杰出校友，2014年殊荣明尼苏达大学一百年杰出中国校友，2011年获得了辛辛提那大学卓越研究奖。郭教授是5个纳米技术杂志的编辑或董事，他的工作在电台或电视如ABC或NBC上被报道过数百次，并在时事通讯或NIH、NSF、MSNBC、NCI和ScienceNow的网站上占据重要位置。他是1998年中国第一届高科技交易会（深圳）朱镕基总理特邀嘉宾和大会报告人；是NIST、NIH、NSF和纳米技术全国委员会的两个重要国家纳米技术委员会的成员，并在2006至2010年任NIH纳米医药发展中心指导委员会成员；他也是美国国立卫生研究院（NIH）2010年和2014年内部科研审查委员会成员。
+======

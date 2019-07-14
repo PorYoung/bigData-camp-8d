@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "D:\\software\\anaconda\\envs\\bigData\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "D:\\software\\anaconda\\envs\\bigData",
+        "D:\\software\\anaconda\\envs\\bigData\\Lib\\site-packages",
+        "D:\\software\\anaconda\\envs\\bigData\\Lib"
+    ],
+    "code-runner.executorMap": {
+        "python": "D:\\software\\anaconda\\envs\\bigData\\python.exe -u",
+    },
+    "csv-preview.separator": "\t",
+    "csv-edit.readOption_delimiter": "\t",
+    "csv-edit.readOption_quoteChar": "",
+    "csv-edit.readOption_hasHeader": "true"
+}

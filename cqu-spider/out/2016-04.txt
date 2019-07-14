@@ -1,0 +1,427 @@
+Modeling and Control of Discrete Event Systems: Automata and Petri Nets Perspectives
+主讲人 : 李志武
+计算机学院专家讲座
+Modeling and Control of Discrete Event Systems: Automata and Petri Nets Perspectives
+主 讲 人：P rof. ZhiWu Li （李志武）
+（IEEE Fellow，西安电子科技大学机电工程学院院长）
+讲座时间：2016年4月29日（星期五）15:00--16:30
+讲座地点：主教学楼1811会议室
+主办单位：重庆大学计算机学院
+报告摘要：
+
+The extensive applications of information technology provide spurs to the blooming of highly automated and computer-integrated systems that increasingly play an essential role in the development of the human society, leading to the deployment of discrete event systems that are thought of as a mathematical or methodological abstract of many contemporary technological systems such as intelligent urban traffic systems, automated flexiblemanufacturingsystems,computernetworks,communicationprotocols, logistic systems, monitoring and control of large buildings, distributed data s, and concurrent software systems. The purpose of this talk is to briefly introduce ideas of the modeling and control of discrete event systems in automaton and Petri net perspectives. Supervisory control theory  d on formal languages and finite state machines is first reviewed and a Petri net approach is then recalled. Their comparison is demonstrated through a toy example from manufacturing.
+欢迎各位老师、同学参加，并针对有关问题现场提问!
+
+
+主讲人简介：
+主讲人简介：
+ZhiWu Li received the B.S., M.S., and Ph.D. degrees from Xidian University in 1989, 1992, and 1995, respectively. He joined Xidian University in 1992.He is currently a research Professor with Institute of Systems Engineering, Macau University of Science and Technology, Taipa, Macau, SAR. He published two monographs in Springer and CRC Press and 60+ papers in Automatica and IEEE Transactions(mostly regular).His work was cited by engineers and researchers frommore than 40 countries and areas, including prestigious R&D institutes such as IBM, Volvo, HP, GE, GM, ABB. He serves (served) an Associate Editor of the IEEE Trans. Automation Science and Engineering, IEEE Trans. Systems, Man, and Cybernetics, Part A: Systems and Human Beings, IEEE Trans. Systems, Man, and Cybernetics: Systems, and Information Sciences (Elsevier). Dr. Li is a recipient of Alexander von Humboldt Research Grant and Research in Paris. He was selected in 2013, 2014 and 2015 Thomson Reuters Highly Cited Researchers in the category of Engineering and 2014, 2015 Elsevier Most Cited Chinese Researchers in the category of Systems and Control Engineering. He is a Fellow of IEEE.
+======
+智能制造与先进夹具技术
+主讲人 : 袁华
+机床、刀具和夹具是实现机械加工的三大重要环节，其中机床和刀具具有较强的通用性，但夹具却与工件有着极强的相关性。在实现金属切削加工的智能制造中，夹具技术是瓶颈。本报告首先阐述夹具技术和智能制造的关系，以及如何发展夹具技术，以满足智能制造的要求。针对中国金属切削加工领域长期以来存在的“重设备轻工艺”的严重误区，本报告还将阐述夹具与机床和刀具之间相辅相成的重要关系、夹具在金属切削加工中的重要地位以及选择和使用夹具应当遵从的各项重要准则，并以车削和铣削加工中一些典型零件和加工难度较大的零件为例，分析其夹持技术的关键点，介绍如何实现这些零件高效夹持的方案。
+
+
+主讲人简介：
+袁华，德国斯图加特大学工学博士、同济大学客座教授、合肥工业大学客座教授、资深机械制造专家、资深工业技术咨询专家，二十世纪八十年代赴德国深造，先后在德国斯图加特大学机械制造系力学研究所和机床研究所从事研究和教学工作。尤其在机床研究所就职的八年时间里，为多家德国机床行业著名企业完成了许多具有实际应用背景的科研项目的研究，撰写了大量的研究报告，并在国际会议和德国专业杂志上发表多篇学术论文。在此期间还积极参与研究所的教学工作，给德国学生讲课，先后指导过数十名德国学生的课程设计和硕士毕业论文。这些学生中的佼佼者如今已在德国机械制造行业的各大企业中担任重要职务。
+1998年至2010年就职于德国一家大型夹具制造企业，在德国总部任高级管理职位（中国区总经理），全面负责大中国区技术、生产、销售工作，同时参与公司德国总部研发部门的技术活动。
+袁华博士在机械制造领域兼具深厚的理论基础和丰富的实践经验，二十多年来，广泛研究了欧美工业发达国家机床、精密夹具和工业自动化产品的原理、性能和应用，密切关注国际机械加工领域的发展动向，积极推进中德两国技术领域的交流和合作。自2011年起袁华博士就任德国中欧工业技术咨询公司总经理兼首席咨询顾问，专职从事中德机械制造领域技术咨询工作，致力于将国际先进技术导入中国工业生产领域。
+======
+Radical C-H Activation/ Radical-Radical Cross-Coupling
+主讲人 : 雷爱文教授（杰青、长江学者）
+A new series of oxidative coupling reactions between two nucleophiles have been developed for efficient carbon-carbon and carbon-heteroatom bond formation.
+主讲人简介：
+1995－2000：中国科学院上海有机化学研究所，有机化学博士。
+师从中国科学院院士陆熙炎研究员
+2000－2003：美国宾夕法尼亚州州立大学博士后（导师张绪穆教授）
+2003－2005.3：美国斯坦福大学, James, P. Collman教授研究助理
+2005.3－至今：武汉大学化学与分子科学学院教授，博士生导师
+2013.10-至今：武汉大学高等研究院副院长
+雷爱文教授的研究领域主要集中在1）小分子（如O2, N2O, H2O2, NH3, ClO2-等）的活化；2）氧化偶联反应，发展过渡金属催化的高选择性、高效性的碳—碳、碳—杂原子成键反应；3）利用现代物理有机化学手段开展过渡金属催化的有机合成反应机理研究。
+======
+角色管理与职业发展
+主讲人 : 罗章
+社会发展当中，人经过角色分配的组合到一起，协同工作以谋求更多更大的福祉。角色+行动=互动，组织中的个体必须理解角色进而实践角色，胜任角色，最终超越并重新塑造角色，这就是职业发展的过程。
+礼仪，是标识角色且引导角色互动的行为规范，教育礼仪则是教育组织中规范师生等角色行为的规范，它的根脉深植于文化的大地当中，具有历史的继承性与时代的开放性，是一种能给人以帮助的应用性知识。
+用礼仪引导角色管理，将有助于职业的发展。
+主讲人简介：
+罗章，教授/博导 重点研究领域：公共人力资源管理、公共政策、社会管理研究
+
+现任重庆大学MPA教育中心副主任。1984年大学本科毕业后开始专业教学与研究。之后获得硕士博士学位，赴美国明尼苏达州立大学访学,进修社会心理学。2006年以来成功申报了及参与了多项国家基金项目。前后主讲过公共政策、国家公务员制度等十来门专业课程。教学认真负责，效果好。曾被评为“宝钢”全国优秀老师和全国MPA优秀教师，多次入选全校讲课好的教师。出版有专著，发表了专业论文40多篇，主编了MPA教材《政策科学与中国公共政策》。任中华人力资源研究会常务理事、全国应急管理学会社区应急分会常务会员、重庆妇女理论研究会常务理事、中国行政管理研究会会员、美国ASPA会员。
+现任重庆市政协委员，市政协社会与法律委员会委员；沙区人大代表，沙区人大常委会委员；沙区智库专家。
+======
+Triboelectrification for energy harvesting and sensing
+主讲人 : 朱光
+Triboelectrification is a type of quasi-permanent charge transfer between two materials that are in contact. Most daily static electricity can be explained by the triboelectrification. Though it has been discovered from the ancient time, people are lack of accurate and unified de ion on the fundamental mechanism of the charge transfer. Still, this phenomenon has been utilized in applications including electrostatic separations, photocopying, and laser printing. More recently, triboelectrification was coupled with electrostatic induction, which gave rise to a new type of energy conversion. Triboelectric charge of opposite signs on two dissimilar materials drive the transient transport of free electrons between electrodes in the external circuit as the two materials experience relative motions. In this process, mechanical kinetic energy is converted into electric energy. This type of energy conversion can be utilized in two major aspects. First, it offers a new paradigm for harvesting ambient mechanical energy in an efficient, simple, and cost-effective way. The harvested energy can be directly used or stored as a power source in a variety of applications, such as the supplemental power for portable/wearable electronics. Second, it provides a novel route in detecting motion-related stimuli by measuring and analyzing the generated electrical signal. For example, we’ve developed a flexible sensor array that can reveal the position, motion trajectory, and the profile of a contact  . This talk aims to elaborate the above topics by using our research in recent years.
+
+
+主讲人简介：
+朱光，中组部青年“千人计划”，中科院北京纳米能源与系统研究所研究员/博导，2013年5月在美国佐治亚理工学院获得工学博士，之后在佐治亚理工学院从事博士后，2014年6月回国。近年来主要从事机械能-电能转换材料和机制的应用基础研究。至今在Nature系列等国际一流刊物共发表论文70余篇，平均影响因子大于11，SCI总引用4000余次，H因子37，申请美国发明专利6项、中国发明专利20项。研究成果被Science和Nature等顶级科学杂志正面亮点评述，同时被CNN、Reuters、Nanowerk、MIT Technology Review和《中国科学报》等权威媒体深入报道。在国际性学术会议作报告10余次。主持国家和省市级多项科研项目。入选2015年中组部“青年千人”和“北京市海外高层次人才”计划。
+======
+Microstructure Based Modelling of Strength and Strain in Gradient Nanostructures
+主讲人 : Prof. Niels Hansen (Technical Univertsiy of Denmark, Denmark)
+In fcc and bcc  ls, the analysis of deformed  ed microstructures reveals that dislocation processes dominate from the macroscale to a limit of 5 nm, which may be reduced further. Deformed  ls may therefore emerge with a strength which approaches the theoretical limit and with hitherto unknown physical and chemical properties.  ed surface structures produced by plastic deformation are graded and have typically high strength and wear resistance.  d on an electron microscopical characterization of structural parameters the stress and strain in such surface structures can be calculated to formulate constitutive equations which can guide research and development of wear resistant surfaces such as in the components of wind turbine gearbox.
+
+
+主讲人简介：
+Prof. Hansen is the Professor in the Materials Science and Advanced Characterization Section, Department of Wind Energy, Technical University ofDenmark, Risø Campus,Denmark. He received his M.S. degree from the Danish Technical University in 1957 and Ph.D. degree from the Technical University of Denmark in 1971.
+In early sixty's, Prof. Niels Hansen became the head of the former Material Research Department, Risø National Laboratory, and enjoys a great reputation in the field of Materials Science. He has published more than 400 papers with more than ten thousand citations, and has also authored 2 monographs. For a long time, Prof. Hansen has been committed to the microstructure evolution research of the  l materials’ plastic deformation, and elucidating the dislocation mechanism during the processes of plastic deformation. His research results promote the understanding for the plastic deformation of  l materials and recovery, also the recrystallization. His research results also lay the foundation for the development of new materials and technology.
+Due to his outstanding research work, Prof. Hansen has been elected as the member of the Danish Academy of Technical Sciences, the foreign associate of US National Academy of Engineering, the foreign honorary member of American Academy of Arts and Science, the member of academia Europaea, the editorial board member of Science, and the honorary member of The Japanese Institute of  ls. In addition, Prof. Hansen had received a number of awards, including the Einstein professorship CAS,China, the fellow of the institute of materials,United Kingdom, the honorary member of  llurgical Society of France, Poul Bergsøe  l of Danish  llurgical Society, and Robert Franklin Mehl Award of TMS.
+======
+Overview over DTU Wind Energy, the Materials Science Section and Characterization in 3D by synchrotron X-rays
+主讲人 : Prof. Dorte Juul Jensen (Technical Univertsiy of Denmark, Denark)
+This presentation will first provide an overview over the Section for Materials Science and Advanced Characterization, and the Department of Wind Energy at the Technical University of Denmark. The development of a so-called 3D X-ray Diffraction (3DXRD) technique is then described from idea to implementation. The use of this characterization technique has enabled detailed analyses of materials microstructures in 3D with micron or even sub-micron spatial resolution and to follow the microstructural evolution over time during for example mechanical loading or annealing. This has led to results challenging today’s understanding of key phenomena. Examples of key experiments are given. These experiments would not have been possible without the 3DXRD technique. Limitations of 3DXRD are discussed. On-going technique development and a complementary x-ray method are presented. Finally, challenges and suggestions for the future success of 3D/4D materials science are discussed.
+
+
+主讲人简介：
+Prof. Jensen is the Professor in the Materials Science and Advanced Characterization Section, Department of Wind Energy, Technical University of Denmark. She received her Ph.D. degree from the Technical University of Denmark and Risø National Laboratory in 1980. Then she worked in Risø National Laboratory and got promoted to Professor in 2012. She currently serves as the head of Section “Materials Science and Advanced Characterization”, Department of Wind Energy, DTU.
+Prof. Jensen has published in total 358 papers, including 140 papers in international journals, 57 keynote/invited papers in international conference proceedings, 143 contributed papers in international conference proceedings, 2 chapters in the Encyclopaedia of Materials and 5 chapters in books. Her research interests involve:
+(1) Development of advanced characterization techniques
+(2) Microstructure and crystallographic texture development during recrystallization
+(3) Microstructure and crystallographic texture development during plastic deformation
+Prof. Jensen is a member of the Royal Danish Academy of Sciences and Letters, and chairman of the national bibliometric group on materials and nano-technology and science. She has received the Jakob Wallenberg Foundation award, the Danish Knighthood, and the Cook/Ablett Award by the Institute of Materials, Minerals and Mining. She serves on the advisory board for Int. Journal of Materials Research and the editorial board for Materials Transactions.
+======
+主讲人 : 危非
+为了加强就业指导，提高毕业生的求职能力，提升学生的就业竞争力，学生就业指导与服务中心（简称“就业中心”）开展生涯规划及求职类专题讲座职通讲坛第42期。具体通知如下：
+一、时间
+2016年4月26日14:15（周二下午14:15-17:00）
+二、地点
+A区国际会议厅306（马寅初像对面楼里）
+三、主题
+大学生职场适应中的人际关系处理
+四、主题活动内容
+（一）上半场讲座分享
+1. 分享企业真实案例，职场中人际关系的重要；
+2.如何完成校园人往职场人的转变？
+3.职场中人际关系的注意事项。
+（二）下半场招聘人才，现场收取简历
+招聘营运助理、招商助理、企划助理、出纳等岗位。
+五、主办及承办
+主办：学生就业指导与服务中心、公共管理学院
+支持：招聘兄弟会
+社团支持：职通社、研就协、校企俱乐部
+六、主讲嘉宾
+危非 现任万达广场商业管理有限公司重庆分公司副总经理，分管人力行政管理工作。2003年本科毕业后，先后任中建三局劳资科长、思远教育招聘经理，2007年进入丝宝集团，在丝宝集团长达8年的服务中，先后担任产业人力资源总监、实业人事行政总监职位。2015年加入万达集团商业管理有限公司任重庆区域人力行政副总经理，负责重庆、云南、广西、贵州四省市所有万达商业管理有限公司人力行政统筹管理工作。人力资源管理专业本科毕业，具备较强的专业素养及管理经验，先后服务了全国知名的央企及集团公司，从基层干起，具备较强的集团管理经验既丰富的人力资源管理经验。
+七、报名参加
+1、本次讲座实行预约制，总名额限200人，欲报从速，先到先得。报名截止时间为4月25日中午12点。
+2、唯一报名方式：
+1）关注就业中心官方微信 “重庆大学学生就业”，微信号cquxsjy，点击下方栏目#就业指导-职通讲坛#进入报名通道；
+请报名同学保持手机邮箱畅通，密切关注公众号信息推送。未做其他通知视为自动报名成功。报名成功学生务必按照指定时间、地点准时参与,14点15分开始签到入场。
+3、现场将有精美礼品赠送。
+八、联系方式
+联系人：赵同学 18323425013  王老师 023-65106715
+参与同学可加入就业指导QQ群 163529181，职业规划及就业指导活动不断，更有求职信息推送。
+九、往期回顾：
+http://www.job.cqu.edu.cn/news/145042924721377418.html
+http://www.job.cqu.edu.cn/news/144915303816556879.html
+欢迎企业专家参与学校生涯规划及就业指导，欢迎垂询。
+http://www.job.cqu.edu.cn/news/145688138507866361.html
+主讲人简介：
+危非，现任万达广场商业管理有限公司重庆分公司副总经理，分管人力行政管理工作。2003年本科毕业后，先后任中建三局劳资科长、思远教育招聘经理，2007年进入丝宝集团，在丝宝集团长达8年的服务中，先后担任产业人力资源总监、实业人事行政总监职位。2015年加入万达集团商业管理有限公司任重庆区域人力行政副总经理，负责重庆、云南、广西、贵州四省市所有万达商业管理有限公司人力行政统筹管理工作。人力资源管理专业本科毕业，具备较强的专业素养及管理经验，先后服务了全国知名的央企及集团公司，从基层干起，具备较强的集团管理经验既丰富的人力资源管理经验。
+======
+硫化橡胶自修复
+主讲人 : 章明秋 中山大学教授
+橡胶的生产和消费形成了大量的废旧橡胶，不仅给环境带来沉重的负担，而且还浪费了宝贵的橡胶资源。目前废旧橡胶的回收利用过程较为复杂，耗能较大，条件苛刻。
+事实上，硫化橡胶的分子结构是由线形的橡胶大分子链与硫磺及促进剂等交联反应而形成的三维网络结构，其交联键由单硫键、双硫键和多硫键等组成，而双硫键具有动态可逆交换的特性。我们致力于有效促进硫化橡胶体系中动态可逆二硫键发生交换反应，从而实现硫化橡胶交联网络的重组，最终赋予硫化橡胶自修复和可固相回收能力，方法简便，对于减少环境污染以及传统高分子材料智能化具有重要意义。
+主讲人简介：
+章明秋教授1993年获得国家教委首批“跨世纪优秀人才”专项基金资助，1997年获得国家杰出青年科学基金资助，1999年获第二届广东省“优秀青年科学家奖”，入选1999年度国家“百千万人才工程”第一、二层次人选，2005年3月受聘教育部长江学者特聘教授。拥有国家发明专利50余项，在国内外学术刊物发表了300多篇论文。
+现任中山大学化学与化工学院材料科学研究所所长，兼任中国材料研究学会常务理事、亚澳复合材料协会（AACM）常务理事、广东省复合材料学会理事长、国内外学术刊物“Composites Science & Technology”（副主编）, “Polymer International”, “Soft Materials”, “Polymers & Polymer Composites”, “Express Polymer Letters”，《复合材料学报》（副主编）、《功能高分子学报》、《功能材料》、《材料科学与工程》编委等职。先后主持和参加了国家863项目、国家重点科技攻关项目、国家自然科学基金重大项目、重点和面上项目等多项科研任务。长期从事高分子及高分子复合材料的科研与教学，研究方向主要包括高分子材料，高分子共混物和高分子复合材料的结构与性能关系，表征技术，功能化应用等，内容涉及高分子材料和增强聚合物复合材料的力学性能，纳米粒子表面改性和纳米粒子/高分子复合材料，植物基复合材料，复合材料中的界面结构，高分子物理，导电复合材料，减摩耐磨复合材料，自修复型智能高分子复合材料等。
+======
+中国古代文化中的外来元素
+主讲人 : 马伯庸
+1、“灰姑娘”原本是个东方人？
+2、西方十二星座最早见于哪本中国古书？
+3、由西方新词中译为切入点，从中国古典作品中探究西方元素
+4、从语言学、文本学，大众传播学的角度相互印证中西方文化交流的途径、手段及影响。
+主讲人简介：
+马伯庸，作家。人民文学奖、朱自清散文奖、银河奖得主，作品涵盖历史、悬疑、文化等领域。于多家主流媒体开设历史文化专栏，有“文字鬼才”之誉。马伯庸擅长以推理对真实史料进行解构和猜想，重组为兼具想像力与真实感的“历史可能性”小说，被评为沿袭“‘五四’以来历史文学创作的谱系”，“文字风格充满奇趣”。
+自2012年起，于清华、北大、复旦、人大、南开、川大、武大等多家国内重点高校，举办历史文化类专题讲座。
+代表作：长篇小说 《古董局中局》系列、《三国机密》、《风起陇西》等。
+短篇小说集：《我读书少，你可别骗我》收录有中篇小说《末日焚书》、《湘西航班》等；《三国配角演义》收录有《官渡杀人事件》、《风雨洛神赋》、《孔雀东南飞》等。
+======
+内燃机节能减排解读 兼谈替代燃料
+主讲人 : 姚春德 教授，天津大学
+专家将对内燃机节能减排进行解读，同时对替代燃料做出讲解。主要从内燃机的发展、内燃机面临的挑战，以及内燃机未来的重点任务进行解读。另一方面，从内燃机燃料出发，重点讲述内燃机燃料使用现状和替代燃料的发展以及天津大学在内燃机燃料方面的科研成果。
+主讲人简介：
+姚春德，博士，天津大学教授，博士生导师。内燃机燃烧学国家重点实验室副主任。国办（2013）12号文件《关于加强内燃机工业节能减排的意见》主要起草者之一，工信部甲醇车试点专家组成员。中国工程热物理学会副理事长，中国汽车工程学会理事和特聘专家。《工程热物理学报》、《燃烧科学与技术》等多个刊物的编委。多年来一直从事内燃机燃烧基础理论和内燃机新燃料方面的研究，承担多项国家自然科学基金重点课题和面上课题，主持多项国家“863计划”的子课题。在内燃机替代燃料领域，提出了柴油/醇二元燃料燃烧理论，创立了柴油/醇组合燃烧的应用技术并得到推广应用。在国内外科技刊物上发表论文280余篇。出版著作3部。获国家教委、机械工业联合会、天津市自然科学奖等多个奖项。是国家教委和人事部的“优秀留学回国人员”、原机械工业部的首批跨世纪学科带头人。获发明专利12项、实用新型等专利23项。
+======
+在线课程设计与制作系列
+主讲人 : 李珩
+为推动信息技术在教学中的应用，提高教师应用现代教育技术的能力和水平，本次培训以“在线课程的设计与制作”为切入点，从实际操作层面入手，揭示在线课程制作的流程与步骤，运用多种信息技术，从视频录制到后期处理，从多媒体素材的采集、编辑到合成，逐步引导老师制作并发布自己的在线课程。具体内容安排如下：
+
+2016年4月22日(周五)
+14:30-17:00
+1.前期问题回顾
+2.绿背视频抠像
+3.虚拟场景制作
+4.进阶后期合成：交互式在线课程的整合与发布
+
+
+
+
+主讲人简介：
+李珩，男，工学博士，高级工程师，硕士生导师，重庆大学教师教学发展中心项目主管，重庆大学慕课课程建设小组成员。
+
+目前从事教育技术、教育数据挖掘、学习分析相关研究。作为主讲教师，承担重庆大学入职教师教育技术能力培训、国家中职骨干教师培训等多个培训项目。
+======
+MOOC设计与翻转课堂在清华大学的实践
+主讲人 : 王帅国
+1、MOOC的结构与理念
+
+2、MOOC的制作流程
+3、高品质在线课程的要素
+4、翻转课堂：在课堂使用在线课程
+5、雨课堂：清华大学的教学实践
+主讲人简介：
+王帅国副教授毕业于清华大学计算机系，清华大学任课教师，同时担任清华大学在线办公室课程总监。
+
+在清华大学开展慕课建设伊始，即开始负责清华大学的在线课程建设和相关研究工作，是国内最早的慕课、混合式教学研究者和实践者之一，曾在国内外期刊和学术会议中发表多篇论文。
+王帅国老师同时也是一位慕课的授课教师，有超过四万人选修过他的慕课课程。
+======
+Nanostructured Materials for Energy Conversion and Storage
+主讲人 : 孙学良教授
+There is a growing awareness that nanotechnology will have a profound impact on energy generation, storage, and utilization by exploiting the significant differences of energy states and transport in nanostructures and macrostructures. Nanotechnology- d solutions are being developed for a wide range of energy solutions such as solar cells, hydrogen generation and storage, batteries, and fuel cells. Dr. Sun and his group are focusing on synthesis of various low-dimensional nanomaterials to address challenges in fuel cells, Li batteries and l-Air batteries.
+In this talk, Prof. Sun will report their progresses how to apply various nanomaterials to solve problems in fuel cells, Li ion batteries, Li-S batteries and Na-Air batteries. In particular, how to rational design surface and interface of electrodes.
+主讲人简介：
+Dr. Sun is a Canada Research Chair (Tier 1) in the development nanomaterials and clean energy, and a Professor at University of Western Ontario,Canada. Specifically, his research activities are currently focused on developing various approaches to synthesize nanomaterials and exploring their applications for fuel cells, Li-ion batteries, Li-S batteries and l-Air batteries.
+Dr. Sun received his Ph.D degree in Materials Chemistry at the University of Manchester, UK, in 1999. After his Ph.D inUK, he worked as a post-doctoral fellow in the University of British Columbia,Canada, during 1999-2001. He was a Research Associate at the National Institut de la Recherche Scientifique (INRS), Quebec,Canada, during 2001-2004 before Dr. Sun joined the University of Western Ontario in 2004. Dr. Sun is an author and co-author of over 240 refereed-journals, two books and 15 book chapters, including Nature Communications, Advanced Materials, Angewandte Chemie International Edition, J. Am. Chem. Soc. (JACS), and Energy and Environmental Science. He holds tenUSpatents. Dr. Sun is actively collaborating with industries and government labs such as Ballard Power Systems, General Motors, Lithium Phostech Inc., and Canadian National Defence. Dr. Sun received various awards such as Early Researcher Award (2006), University Faculty Scholar Award (2010) and Western Engineering Prize for Achievement in Research (2013).
+======
+CO2 电化学还原产生低碳燃料：挑战与前景
+主讲人 : 张久俊院士
+Electrochemical Reduction of Carbon Dioxide (CO2) to Produce Low-Carbon Fuels: Challenges and Perspectives（CO2 电化学还原产生低碳燃料：挑战与前景）
+主讲人简介：
+张久俊院士具有30多年的电化学研究资历/教授/项目经理，分别担任中国/美国/加拿大核心资历团队负责人。同时兼任加拿大英属哥伦比亚大学/滑铁卢大学和中国北京大学/武汉大学等13所大学兼职教授职位。1978 年考入北京大学化学系，分别获学士和硕士学位，1988年于武汉大学获电化学博士学位，1991至1993年于美国加州理工学院（California Institute of Technology）进行燃料电池催化剂的博士后研究，后加入加拿大约克大学（York University) 及英属哥伦比亚大学 (University of British Columbia) 从事非铂电催化剂和传感器开发。1998年作为高级科学家加入世界顶级燃料电池公司加拿大Ballard Power Systems Inc, 从事质子交换膜燃料电池(PEMFC)研究，并担任团队和项目经理。2004年作为电化学和燃料电池专家受任于加拿大国家研究院燃料电池创新研究所(NRC-IFCI)。自2013年起被评为加拿大国家研究院首席科学家，2014年起被评为国际电化学学会会士(FISE), 2015年被选为加拿大工程研究院院士（FEIC），于2013年起担任国际电化学能源科学院(IAOEES)主席兼总裁。 至今已发表论著400多项 (包括同行评审论文240篇)，被引用17000多次，编著15本专著/3期专刊，36章书和110多场口头演讲(邀请报告50多次)，获16项美国及欧洲专利和撰写90多份科学技术报告。其研究领域涉及物理化学、材料学、电化学、电分析、电催化、电池、锂离子电池、燃料电池、超级电容器、光电化学以及传感器等各个方面。目前主要集中于纳米材料（电极材料和电极催化剂），纳米技术在电化学能源、转换和存储方面，包括燃料电池、电池, CO2电还原以及超级电容器等方面的研究开发。张久俊教授作为大会主席/副主席/组委主持组织过多次重要国际学术会议。现在是知名国际丛书(CRC press)及期刊的主编和编委, 加拿大国家自然科学与技术等重要基金评委/加拿大明星教授评审委员会评委，俄罗斯国际纳米奖励委员会评委，美国国家科学基金委员会评委，国际电化学会/美国化学会/美国电化学会，和加拿大化学学会会员，国际电化学能源科学院理事，同时还担任美国/欧洲/澳大利亚等国著名科技基金及中国自然科学奖励评审。
+======
+Advanced Biometrics 高级生物特征识别技术
+主讲人 : 香港理工大学讲习/特聘教授，IEEE&IAPR Fellow：David Zhang （张大鹏）
+In recent times, an increasing, worldwide effort has been devoted to the development of automatic personal identification systems that can be effective in a wide variety of security contexts. As one of the most powerful and reliable means of personal authentication, biometrics has been an area of particular interest. It has led to the extensive study of biometric technologies and the development of numerous algorithms, applications, and systems, which could be defined as Advanced Biometrics. This presentation will systematically explain this new research trend. As case studies, a new biometrics technology (palmprint recognition) and two new biometrics applications (medical biometrics and aesthetical biometrics) are introduced. Some useful achievements could be given to illustrate their effectiveness.
+本讲座将系统阐述高级生物特征识别技术在世界范围内的研究进展及趋势，以及在人体识别中的应用价值。此外，张教授将在本报告讲述其团队实验室在掌纹识别技术，以及两个新的生物特征识别技术的应用，包括医学生物特征识别、审美生物特征识别方面的研究成果。
+
+
+主讲人简介：
+张大鹏教授，毕业于北京大学，获学士学位。分别在1982，1985年获得哈尔滨工业大学计算机硕士和博士学位。1986-1988年在清华大学作博士后研究，而后任中央研究院副教授。1994年获得加拿大滑铁卢大学电气与计算机科学专业第二个博士学位。自2005年开始，张教授被聘为香港理工大学讲习/特聘教授（Chair Professor）。他作为创始人，在香港特区政府的支持下建立了生物特征识别研究中心（Biometric Research Center，BRC）。目前，张教授还兼任清华大学访问讲习教授、北京大学、上海交通大学、哈尔滨工业大学、加拿大滑铁卢大学客座教授。张教授是图像与图形学国际学术期刊（IJIG）的创始人和主编（Editor-in-Chief），Springer国际生物特征识别系列KISB的创始人和编辑，也是第一届生物特征识别国际学术会议ICBA的发起者和大会主席。另外，他也是10多个期刊包括IEEE Transactions的副主编（Associate Editor）。迄今为止，出版专著10余部，国际期刊论文400余篇，35项美国/日本/香港/中国发明专利。根据谷歌学术引用统计，其论文被引用次数超过33000余次，H-index为84。 张教授被汤森路透（Thomson Reuters）选为2014、2015年高被引科学家。张教授是IEEE计算机学会的杰出演讲者，也是IEEE Fellow和IAPR Fellow。
+======
+Mining Research and Technology
+主讲人 : Dr. Michael Hood, Fellow of the Australian Academy of Technological Sciences and Engineering
+主讲人简介：
+Dr. Michael Hood is a Fellow of the Australian Academy of Technological Sciences and Engineering, and Professor Emeritus at University of Queensland. He graduated from the University of Newcastle upon Tyne in the U.K. with two Bachelor of Science degrees: in Mechanical Engineering in 1971 and in Mining Engineering in 1973. He got doctoral degree at the University of Witwatersrand in 1978. He served successfully as an assistant professor of UC Berkeley，Senior Research Fellow in Lawrence Berkeley National Laboratory, Senior Research Associate in Flow Research, Inc., Founder and Chairman of the Board in Mining and Construction Technologies Inc., head and professor of mining engineering in Queensland university, and Chief Executive Officer at Cooperative Research Centre for Mining Technology and Equipment (CMTE). He has published more than 25 papers in refereed archival journals and more than 50 other papers at conferences. His research interest is Mechanical excavation and high pressure water erosion of rock-drilling and rock cutting and Rock mechanics.
+======
+教学领导修炼力：教师怎样养成强大的教学影响力
+主讲人 : 彭江
+1.教师凭什么让学生、同事服你？
+“亲其师，信其道。”养成强大的教学影响力，让学生、同事成为你的追随者。
+2.教师需要养成哪些教学影响力？
+五项运动（动身、动手、动脑、动情、动心），修炼五商（体商、行商、智商、情商、灵商）。
+3.教师怎样养成教学影响力？
+掌握学习说话、学会忽视、不受语言伤害、自我控制等工具和技巧。
+
+
+主讲人简介：
+彭江：北京师范大学教育学博士，密西根大学访问学者，四川外国语大学教育学院教授、课程与教学论专业硕士生导师、高等教育研究所所长，获“重庆市高校中青年骨干教师”称号，入选“重庆市高等学校优秀人才支持计划”，从事校长和教师培训、教学心理、教学策略方面的教学与研究工作。
+======
+保护嗓子的科学发声方法
+主讲人 : 苏勤
+通过讲解和现场指导，教大家如何正确科学的发声，在保护嗓子的同时，更好促进课堂教学效果。
+主讲人简介：
+苏勤，女，1978年生，中共党员。中国音乐家协会会员、重庆市嗓音研究会会员。毕业于西南大学音乐学院声乐演唱与教学专业，获硕士学位。
+先后在电影学院及艺术学院从事声乐教学13年，有丰富的声乐教学经验及理论基础，尤其擅长教授美声及民族唱法。理论和实践相结合，在国内专业杂志上先后发表数篇论文。教学上擅于运用艺术化的语言与科学化的发声方式相结合，挖掘学生内在潜力，注重学生的特点和个性，因材施教，多次获得各类比赛大奖。
+时间 : 2016年04月15日 14时30分
+地点 : 教师教学发展中心
+主办单位 : 教师教学发展中心
+======
+诗化人生：唐人的比兴艺术
+主讲人 : 刘明华
+熟读唐诗三百首，不会作诗也会吟。
+唐诗，那是一个朝代的繁华与缠绵，一层历史的沉淀与回响，一份心灵间的交融与慰藉。李白，杜甫，李商隐，白居易，元稹，张若虚，岑参，王维，杜牧······这一个个鲜活的名字把他们的心灵最深处的珍宝挥洒在历史的长河中，让后人在河中沐浴时发出阵阵惊奇与感叹，这时，我们总会抬起头，望着浩瀚的长河之源，目光里，满是敬仰与倾慕。
+唐人用诗歌这一高度艺术和雅致的形式来处理复杂的政治事件和描写日常生活中的微妙情景。唐代成熟的比兴体为读者提供了多重阐释的空间，加上中国史家的微言大义手法的过度解读，则为后世的深文周纳提供了依据，这是后来文字狱不绝如缕的重要原因。西南大学教授，文学博士，博士生导师刘明华老师与我们一起相约周五，用深入的视角探讨唐人的比兴艺术，带我们走进诗中的又一世界。
+演讲时间：2016年4月15日（周五）14:30-17:00
+演讲地点：研究生院308国际会议厅
+主讲人简介：
+刘明华，西南大学教授，文学博士，博士生导师，博士后合作导师。国务院政府特殊津贴专家。
+历任西南大学文学院院长、重庆市文化局副局长，第十届全国人大代表，第十一届全国政协委员，第二届重庆市人大常委等。现任重庆国学院院长， 重庆市文化委巡视员，重庆市政协常委，中共重庆市委政策研究室和重庆市政府参事室特约研究员。中国杜甫学会副会长，中国唐代文学学会常务理事。
+主持国家社科基金、国家语委重大项目、教育部社科项目等十余项。在《文学评论》《文学遗产》《文艺研究》《读书》《人民日报》《光明日报》等发表论文百余篇，在中华书局、人民出版社、上海文艺出版社、重庆出版社等出版专著十余部。教学科研成果多次获省级部奖。多次赴美国德国南非韩国香港等地讲学。2011年获国家人社部等部门表彰，获“全国全面建设小康社会作贡献先进个人”。近年致力于国学教育与传播，中华经典诵读等工作。在重庆党政机关、高校、企业、公检法、军队及四川云南湖北西藏等地讲学数十场。
+======
+主讲人 : Denis Galligan 牛津大学教授
+主讲人简介：
+主讲人：Denis Galligan
+牛津大学教授、“一带一路”中心负责人。
+主持人：曾文革 重庆大学法学院教授
+======
+主讲人 : 谢茂松
+当代中国政治是否仅是现代政治，而与几千年的传统政治全然断裂?讲座由此从古今一体与古今之别的统一来讨论中国共产党与中国历史文明的深层连续性，进而从历史文明的视野来讨论中国共产党的政治正当性，从而建立当代中国的政党政治学，亦以此为主轴，全面整理当代中国典章制度，提出对当代中国典章制度整理的自觉意识。
+讲座进而还将探讨“政治学”与“政治”二者之别，基于政治作为实践性知识的特点，在“体”之外，从“体”不离“用”之“用”的角度来讨论今天学术界几乎完全无视的当代中国政治中的实践品质这一面向，进而尝试探讨一种新的学问品质的可能性，从而重新激活中国固有的经、史合一在当下之近思、切用，亦建立作为新经史之学的党史、党建合一及其政治实践的品格，此亦关乎政治精英如何通过古之经、史以及今之党史、党建来习得政治智慧，关乎政治精英教养的真正有效性。
+主讲人简介：
+谢茂松，香港中文大学出版社资深学术咨议/漓江出版社总编辑，中央党校文史部、宁波大学法学院客座教授，香港中文大学历史系博士，受文、史、哲之学术训练。历任香港中文大学出版社总编辑、执行编辑。最近三年来一直在中央党校文史部固定开设《中国文明研究》、《中国经典研读：》系列讲座。研究兴趣在：经学（尤其在《周易》、《论语》与《礼记》）、史学、理学、儒学与政治实践之关系；王船山之学及其对于现代中国之影响；明清与现代中国政治思想史以及中国政治传统之整理；中国共产党与中国历史文明之深层连续性、当代中国政党政治学以及当代中国典章制度。
+======
+主讲人 : 赵楠、刘丽娟、高洁、何薇
+各学院：
+为了加强就业指导，提高毕业生的求职能力，提升学生的就业竞争力，经研究，学生就业指导与服务中心（简称“就业中心”）开展就业指导工作坊第9期之面试及无领导实战演练。具体通知如下：
+一、时间
+2016年4月13日（周三晚上18:45-21:00）
+二、地点
+重庆大学B区二综合楼803
+三、主题
+面试及无领导实战演练
+四、活动内容
+无领导小组讨论技巧及实战现场解析
+五、主办及承办
+主办：学生就业指导与服务中心
+社团支持：校企俱乐部、研就协、职通社
+六、主讲嘉宾
+就业指导课程组赵楠老师、刘丽娟老师、高洁老师、何薇老师。
+七、报名参加
+1、为保证培训效果，本次讲座实行预约制，总名额限40人，先到先得，报完即止。
+2、唯一报名方式：就业中心官方微信，微信号cquxsjy。
+请报名同学关注就业中心官方微信“重庆大学学生就业创业与职业发展”，微信号cquxsjy，点击下方栏目#预约咨询-无领导面试#进入报名通道。报名成功即可获得预留席位。
+3、联系人：周同学 13220307870；王老师 65106715
+参与同学可加入学生生涯规划发展QQ群 163529181。
+学生就业指导与服务中心
+2016年4月7日
+
+
+主讲人简介：
+赵楠
+重庆大学应用心理学硕士，讲师，国家二级心理咨询师、GCDF职业生涯规划师。历任城环学院2010级、2012级辅导员，城环学院就业指导老师；同时，承担重庆大学《大学生就业指导与职业发展》课教学工作。曾在渣打银行从事人力资源管理工作，作为团队负责人参与企业人力资源管理体系的设计、咨询工作，发表大学生就业意识、企业人力资源管理相关论文7篇，对于民企、国企、事业单位、外企的人力资源管理体系有较为深入的理解。
+刘丽娟
+女，湖北人，教育学硕士，讲师。
+重庆大学土木工程学院团委书记、辅导员。
+2006年7月参加工作，常年奋斗在学生工作第一线，同时担任重庆大学《大学生就业指导与职业发展》和《形势与政策》课程的教学工作，兼任重庆大学生涯咨询中心个体咨询及团体辅导老师。工作期间获“国家二级心理咨询师”、“全球职业生涯规划师（GCDF）”、“BCC生涯教练”、“职业测评师”等资格证书，并先后获得“重庆市社会实践先进个人”、“重庆市团干培训班优秀学员”、“重庆大学先进工作者”、“重庆大学十佳辅导员”、“重庆大学优秀团委书记”、“虎溪校区先进个人”等荣誉称号。
+高洁
+女，工学硕士，材料科学与工程学院教师，辅导员。重庆大学《就业指导与职业发展》课程组成员，重庆市高级心理咨询师、全球职业规划师(GCDF)（2012- ），有10年学生职业咨询经验，资深职业生涯规划师，通过人力资源和社会保障部中国就业培训技术指导中心举办的生涯规划师岗位培训考核。从事本科生及研究生就业指导工作7年，熟悉传统工业企业，具有丰富的就业指导和职业规划辅导经验。曾获重庆大学优秀辅导员、研究生就业工作先进个人等荣誉。
+何薇
+重庆大学产业经济学硕士，讲师。重庆大学公共管理学院就业指导老师，从事本科生就业指导工作多年，有丰富的就业指导和职业规划工作经验。同时担任重庆大学《大学生就业指导与职业发展》课程的教学工作。工作期间获“全球职业生涯规划师（GCDF）”、“国家三级心理咨询师”等资格证书，并获得“重庆大学十佳思政工作者”、“重庆大学本科就业工作先进个人”等荣誉称号。
+======
+在线课程设计与制作系列
+主讲人 : 李珩
+为推动信息技术在教学中的应用，提高教师应用现代教育技术的能力和水平，本次培训以“在线课程的设计与制作”为切入点，从实际操作层面入手，揭示在线课程制作的流程与步骤，运用多种信息技术，从视频录制到后期处理，从多媒体素材的采集、编辑到合成，逐步引导老师制作并发布自己的在线课程。具体内容安排如下：
+2016年4月13日(周三)
+14:30-17:00
+1.在线课程制作的整体技术解决方案
+2.语音合成技术、动画助教、手绘视频
+3.绿背视频拍摄演练
+4.初阶后期合成：Camtasia Studio
+主讲人简介：
+李珩，男，工学博士，高级工程师，硕士生导师，重庆大学教师教学发展中心项目主管，重庆大学慕课课程建设小组成员。
+目前从事教育技术、教育数据挖掘、学习分析相关研究。作为主讲教师，承担重庆大学入职教师教育技术能力培训、国家中职骨干教师培训等多个培训项目。
+======
+主讲人 : 孟庆波 中国科学院物理研究所教授
+面对化石能源的短缺和过量使用所带来的环境污染，人们都把目光聚焦到：取之不尽用之不竭的清洁能源—太阳能！用阳光驱动世界、用阳光驱动未来是我们共同的梦想。目前，人们有很多种方式将太阳能转换成我们需要的电能、化学能和热能等。而以染料敏化太阳能电池、量子点太阳能电池和钙钛矿太阳能电池等为代表的新型太阳能电池以其高的光电转换效率、原材料来源丰富、制备工艺简单和电池设计的多样性等优点获得广泛关注，成为研究热点。本报告将重点介绍我们研究团队最近在新型钙钛矿太阳能电池、染料敏化太阳能电池、量子点太阳能的关键材料和器件设计以及工艺优化方面的一些研究结果。
+主讲人简介：
+孟庆波，中国科学院物理所研究员，中科院清洁能源重点实验室主任。1987年毕业于吉林大学物理系，1997年在中国科学院长春应用化学研究所获得博士学位。2001年入选中国科学院“百人计划”，2005年获得中国科学院“百人计划”优秀奖，2007年获得“杰出青年基金”，2010年获得国务院政府特殊津贴，2011年获得东京理科大学校长奖，2013年入选科技北京“百名领军人才”。2014年作为学术带头人获得基金委创新研究群体资助。目前主要从事太阳能材料与器件应用基础研究，包括太阳能材料的制备与光电器件(染料敏化太阳能电池、量子点太阳能电池、钙钛矿太阳能电池)、风光互补智能微电网设计与控制研究、新型复合光催化材料的制备（光分解水制氢）、光子晶体器件的组装及应用等。在国际重要学术杂志上发表论文180余篇，文章被引5400余次，个人h因子为42。申请60余项国家发明专利和1项日本发明专利，其中38项专利已获得授权。目前任英国《Electrochemistry Communication》杂志编委和德国《Green: The International Journal of Sustainable Energy Conversion and Storage》杂志创刊编委，中国可再生能源学会理事，中国可再生能源学会光化学专业委员会委员。
+======
+城市设计的作用、意义和案例赏析
+主讲人 : 林纪
+改革开放30多年来我国城市集体步入发展“黄金时代”，在盛世当下，城市规划在未来20年中世界城市发展的浓墨重彩仍将在中华大地上进行描绘，为实现“美丽中国”、“中国梦”充当着重要的技术支撑。同时也将成为中外规划师们竞相争夺的重要领域。2015年中央城市工作会议亦提出，“要加强城市设计，提高城市设计水平。各地、各部门要高度重视城市设计的重要性和紧迫性，全面开展、切实做好城市设计工作”，将城市设计提到了新的高度。
+城市设计没有终点，需要我们不断地去努力探求。做好城市设计需要“两头延伸”，即：把握总体，注重细节。规划师不仅是专业工作者，更是生活家。“规划设计城市，就是规划设计生活。”讲座将深入讨论城市设计对于城市发展的深刻意义、作用，并通过优秀实践案例的赏析与分析，为城市设计提供新的指引。
+主讲人简介：
+林纪：现任中国城市发展研究院、国家发改委中国合规划设计研究院总规划师、城市与景观规划院院长。林教授曾主持和参加了百余项城市规划设计和研究工作，几乎涵盖了城市规划领域的所有类型。主要代表作品有：《广州黄埔经济开发区规划设计》、《深圳东部三镇总体规划》、《上海佘山国家旅游度假区国际竞赛》、《北京望京地区土地使用调整规划》、《北京市空间发展战略规划》、《太原南部新区核心区概念设计》等百余项城市规划项目。
+规划三十载，其的足迹先后印刻在南国经济特区、长三角、中西部、京津冀、东北地区、以及现在的东南亚。在其职业生涯中曾十余次获国际。国内竞赛金奖，以及省部级优秀规划设计一、二等奖。“融科技于技术”，“以大地当画布”，“用心灵绘蓝图”，写就了一段自身的“规划传奇”。
+======
+陶友传谈聚焦技术 做风电装备行业领导者
+主讲人 : 陶友传博士，重庆船舶工业公司总工程师
+主讲人简介：
+陶友传博士，研究员，重庆船舶工业公司总工程师，中船重工（重庆）海装风电设备有限公司副总经理，国家海上风力发电工程技术研究中心副主任，国家海上风电工程技术研究中心学术委员，中科院风能重点实验室学术委员，重点造船工程学会学术委员会主任，重庆市力学学会副理事长，重庆市两江学者特聘教授，海装风电首席专家，中国舰船研究院硕士研究生导师及博士后流动站导师，国务院国资委、人社部授予“中央企业劳动模范”，中船重工集团评为“有突出贡献专家”。获包括重庆市科技进步一等奖在内的省部级奖4项，发表学术论文和著作15篇。研制的2MW双馈式风电机组2015年安装1200余台，创产值100亿；主持研制的5MW海上风电机组保持国内单机功率最大、风轮直径最大记录，世界上风轮直径第2，已实现销售，单台价值4000多万元。
+======
+促进有效教学的PPT设计与优化
+主讲人 : 李倩
+本课程以有效教学为出发点，围绕正反课件案例，介绍了PPT课件的评价标准；根据媒体理论、教育和心理学相关理论，形成了一套实用性和可操作性都很强的技术规程即“PPT课件设计与优化的基本流程与要领”，并结合典型的案例进行了剖析，同时，介绍了一些PPT的高级技巧在教学中的应用。
+通过学习，帮助老师们形成以“学习为中心”而不是以“技术为中心”的课件设计理念，会根据标准分析评价自己PPT课件的问题，初步学会高效完成PPT课件的设计、制作、美化与优化。
+报名方式：登陆教师教学发展中心网站http://cetl.cqu.edu.cn/jsfz
+在线报名系统，查看项目细则，点击“我要报名”，填写个人信息后完成报名程序。
+咨询方式：65103025，李老师
+主讲人简介：
+李倩，副教授，西南大学电化教育学本科、发展与教育心理学硕士，现执教于西南大学计算机与信息科学学院，任教师教育系主任。长期从事教育技术、教师教育、中小学信息技术教育等研究，已发表学科级、核心期刊等论文多篇，副主编及参编教材7部，主持或主研国家、市级、校级及院级等科研课题10余项。
+近年来，承担《信息技术教育学》、《信息技术与课程整合》、《多媒体技术》、《高阶PPT设计与教学应用》等10余门本科及研究生课程；承担全国精品课程、六部委师范大学直播课程《课堂教学技术》的教学工作；承担西南大学青年教师教育技术能力培训共七期；承担重庆大学、重庆理工大学、江西财大等教师教育技术能力培训多期；连续四年承担青海、云南、贵州、重庆等省的中小学教师信息技术应用提升国培计划。近年来，荣获“西南大学优秀教师”、“西南大学学生最喜爱老师”、连续多年的 “优秀实习指导教师”等称号，指导学生参加全国及西南大学微课比赛获多个奖项。
+======
+简历制作技巧提升
+主讲人 : 奉飞
+主题:
+
+简历制作技巧提升
+主题活动内容:
+打造精品简历，走向求职巅峰
+报名方式:
+
+1、本次讲座实行预约制，总名额限40人，先到先得，报完即止。
+2、唯一报名方式：就业中心官方微信，微信号cquxsjy。
+请报名同学关注就业中心官方微信“重庆大学学生就业创业与职业发展”，微信号cquxsjy，点击下方栏目#预约咨询-简历制作技巧#进入报名通道。
+3、活动要求：参与学员每人必须携带一份正式的简历和笔。
+4、联系人：尹同学 18223222395；王老师 65106715
+主讲人简介：
+奉飞，现任重庆大学土木工程学院党委副书记，《职业发展与就业指导》课程组组长，负责指导课程组的教学及科研工作。全面负责土木工程学院的学生工作。近年来获重庆市教学成果一等奖、重庆大学先进工作者等奖项。
+======
+主讲人 : 宗保宁 中国石油化工科学研究院副总工程师
+报告将介绍我国炼油技术在国外的封锁下，自主创新、引领国际炼油技术的发展。我国基本有机化学品生产技术主要是从国外引进，一般为几十年前开发的工艺。其生产过程排放大量废物，使用了有毒有害的原料、催化剂或溶剂等。而近期国外开发的绿色化工生产技术对我国不转让；囿于绿色化学的知识不足，我国化工生产技术的开发尚不能满足国家需求。将介绍近年来我们团队开发的己内酰胺、环己酮、环氧丙烷、环氧氯丙烷和过氧化氢等五项绿色生产技术，完成了从知识创新到技术创新的跨越，实现了工业示范和大规模工业应用，对经济和社会的发展做出了实质性贡献。
+主讲人简介：
+宗保宁，中国石油化工科学研究院副总工程师、中国石化生物液体燃料重点实验室主任。1985 年毕业于北京大学应用化学专业，1991年获中国石化石油化工科学研究院博士学位。1991年至今在石油化工科学研究院工作，致力于将新催化材料与新反应工程结合实现石油化工过程的技术创新，开发了己内酰胺、环己酮和双氧水绿色生产技术；提出将非晶态Ni优异的低温加氢活性和磁性特点与磁稳定床反应器优异的传质、传热性能相结合的思路；通过研究，实现磁场对催化剂的有效控制，在国际上首次实现磁稳定床反应器的工业应用。非晶态Ni催化剂与磁稳定床的创新与集成，推动了化学工业的技术进步，产出了重大经济效益。获2005年国家技术发明一等奖（第一完成人）、2006年中国青年科学家奖、2014年何梁何利科学进步奖。授权中国发明专利220项、美国发明专利10项。近五年在Nature Communications、Chem. Soc. Rev. JACS, J. Catal.等发表论文三十余篇。
+======
+主讲人 : 尹恒
+1、合唱音乐发展概述
+2、从合唱曲中感受和声的魅力
+3、如何进行童声合唱训练
+主讲人简介：
+尹恒，硕士，重庆大学青年骨干教师，音乐理论专业。先后就读于四川音乐学院，上海音乐学院，重庆大学艺术学院。2014—2015受国家留学基金委资助，前往美国密苏里大学音乐舞蹈学院访学。任教多年，所授科目有乐理、音乐史、和声、曲式作品分析、音乐作品鉴赏等。目前的研究与儿童音乐教育相关。
+======
+技术与城市的对话：以ArcGIS为主的新技术体系探索
+主讲人 : 黄积小
+技术与城市的对话：以ArcGIS为主的新技术体系探索
+城市与乡村作为人类的聚集地，是以一个复杂的系统而存在，所以读懂它们是设计的初始。从经验主义到量化解读，技术水平一定程度上决定了理解深度，传统城乡规划的制图软件往往无法实现更深层次的分析。
+此次交流会中，分享人将会带来以ArcGIS为主导，以FME/CityEngine为辅助的新技术框架体系，探索另一种思路的可行性，从技术角度出发，认识我们的城市！
+分享内容
+2016.4.6 周三
+面向规划设计的 ArcGIS实践运用
+城市规划新技术框架体系介绍
+快速建模/CityeEngine技术展示
+以地理信息为基础的规划调研新方法
+2016.4.7 周四
+城市数据、地理数据爬取教学
+ArcGIS/FME实用技巧
+……
+资料下载
+本次讲座以公开课形式展开，以现场操作教学环节为主，同学们可以按以下地址提前下载安装公开课所需软件，携带笔记本电脑参加讲座学习。
+【技术与城市的对话】数据资料
+链接：http://pan.baidu.com/s/1kU84U5T
+密码：lh9m
+ArcGIS10.2安装包
+链接：http://yunpan.cn/c3P4ZGBVrX6WG
+密码：b956
+CityEngine安装包
+链接：http://pan.baidu.com/s/1eRJ42u2
+密码：ruzn
+主讲人简介：
+主讲人：黄积小
+毕业于华中科技大学建筑与城市规划学院
+纯设计工作室、数据菜DAP-studio创始人
+======
+我的科研一生思考和体会
+主讲人 : 浙江大学 龚晓南院士
+主讲人简介：
+龚晓南（1944.10.12—）岩土工程专家。浙江省金华市人。1967年毕业于清华大学土建系，。1984年获浙江大学岩土工程博士学位，1986年获洪堡奖学金赴德留学，1988年春回国。浙江大学滨海和城市岩土工程中心主任、教授、博士生导师。在地基处理、基坑工程、岩土工程施工环境效应及对策和工程教育等领域业绩突出。创建广义复合地基理论，促进形成复合地基工程应用体系。出版《复合地基》、《土塑性力学》和《高等土力学》等著作，主编《地基处理手册》、《深基坑工程设计施工手册》和《复合地基设计施工指南》等工程手册，主编国标《复合地基技术规范》等工程标准。2002年被授予茅以升土力学及基础工程大奖，被推选为2007年岩土工程学报黄文熙讲座人。
+2011年当选为中国工程院院士。
+======
+海绵城市发展
+主讲人 : 中国水利水电科学研究院 王浩院士
+主讲人简介：
+王浩，1953年8月生，1989年毕业于清华大学获博士学位。现任流域水循环模拟与调控国家重点实验室主任，中国水科院水资源所名誉所长、教授级高级工程师。兼任全球水伙伴（中国）副主席、创新方法研究会副理事长、中国自然资源学会副理事长等职。长期从事水文水资源研究，曾主持完成国家项目以及其他部门和地方项目数十项，世行、亚行以及其他国际合作项目多项，担任国家973项目首席科学家和国家自然科学基金创新群体基金项目学术带头人。在流域水循环的基础认知模式与模拟技术、水资源评价与配置理论与方法、水资源工程系统规划方法、水资源调度与管理技术等方面取得了一系列的创新性突破，积极推动了水资源学科的新发展。其创建“自然-人工”二元水循环理论与技术体系，并在国家和地方水资源规划、南水北调工程规划与调度运行、三峡上游特大及梯级水电群等重大规划和工程中得到成功应用。
+获国家科学技术进步二等奖6项，省部级奖励19项。出版专著20余部，获中国图书奖1次，发表论文300余篇，其中SCI和EI检索论文120篇。并获全国“先进工作者”、中央国家机关“五一”劳动奖章等多项荣誉。
+2005年当选为中国工程院院士。
+======
+促进有效教学的PPT设计与优化
+主讲人 : 李倩
+本课程以有效教学为出发点，围绕正反课件案例，介绍了PPT课件的评价标准；根据媒体理论、教育和心理学相关理论，形成了一套实用性和可操作性都很强的技术规程即“PPT课件设计与优化的基本流程与要领”，并结合典型的案例进行了剖析，同时，介绍了一些PPT的高级技巧在教学中的应用。
+通过学习，帮助老师们形成以“学习为中心”而不是以“技术为中心”的课件设计理念，会根据标准分析评价自己PPT课件的问题，初步学会高效完成PPT课件的设计、制作、美化与优化。
+报名方式：登陆教师教学发展中心网站http://cetl.cqu.edu.cn/jsfz
+在线报名系统，查看项目细则，点击“我要报名”，填写个人信息后完成报名程序。
+咨询方式：65103025，13594620480，李老师
+主讲人简介：
+李倩，副教授，西南大学电化教育学本科、发展与教育心理学硕士，现执教于西南大学计算机与信息科学学院，任教师教育系主任。长期从事教育技术、教师教育、中小学信息技术教育等研究，已发表学科级、核心期刊等论文多篇，副主编及参编教材7部，主持或主研国家、市级、校级及院级等科研课题10余项。
+近年来，承担《信息技术教育学》、《信息技术与课程整合》、《多媒体技术》、《高阶PPT设计与教学应用》等10余门本科及研究生课程；承担全国精品课程、六部委师范大学直播课程《课堂教学技术》的教学工作；承担西南大学青年教师教育技术能力培训共七期；承担重庆大学、重庆理工大学、江西财大等教师教育技术能力培训多期；连续四年承担青海、云南、贵州、重庆等省的中小学教师信息技术应用提升国培计划。近年来，荣获“西南大学优秀教师”、“西南大学学生最喜爱老师”、连续多年的 “优秀实习指导教师”等称号，指导学生参加全国及西南大学微课比赛获多个奖项。
+======
+Modelling of Dispersed Multiphase Flows and Its Applications
+主讲人 : 屠基元 教授
+This talk will provide an overview on research activities being undertaken at RMIT University, Australia in using both the state-of-the-art computer modelling (computational fluid dynamics) and laboratory experimental (LDA/PIV) techniques to investigate the complex transport processes of various fluid flow and heat transfer problems and two-phase flow systems. The talk will detail their applications relevant to a number of industrial and engineering applications such as in defence (ventilated cavity), nuclear safety (flow boiling), chemical engineering (bubble columns), energy (coal-fired power generation), building construction (fire and dust) and biomedical engineering applications (drug delivery and pollutants through human airways and blood flow system).
+主讲人简介：
+屠基元教授，1982年、1984年在东北大学分别获学士和硕士学位, 1984-1989年任复旦大学讲师,1992年获瑞典皇家理工学院博士学位,现任澳洲墨尔本皇家理工大学（RMIT）航空机械及制造工程学院副院长兼学术委员会主任。
+多年来一直从事计算流体力学(CFD)的教学和研究,目前从事多相流与传热的数值模拟与实验基础研究，及多相流在航空、汽车、建筑、核能及生物医学工程的应用研究,已发表学术科研论文400多篇，新出专著8本, 由国际著名出版社（Elsevier 和Springer）出版发行,其中《多相流计算方法与应用》一书荣获英国化学工程师协会最佳出版物Brennel奖章。
+现任《Journal of Computational Multiphase Flows》主编,联合国（UN）及国际原子能机构（IAEA）专家委员会成员、国际计算流体力学会议组织委员会常务委员。曾两度荣获墨尔本皇家理工大学优秀教学奖和杰出研究奖。并且在清华大学、国防科大、东北大学、重庆大学、中科院研究生院、南京航空航天大学等国内名校任教讲课,课后受到学生和教师的一致好评。
+======

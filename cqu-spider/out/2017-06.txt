@@ -1,0 +1,157 @@
+
+======
+
+======
+我国西部煤炭开发水资源保护与利用技术
+主讲人 : 顾大钊
+我国西部煤炭开发水资源保护与利用技术
+主讲人简介：
+顾大钊，博士，教授，2015年12月7日当选中国工程院院士。神华集团科技发展部总经理，“煤炭开采水资源保护与利用”国家重点实验室主任。主要从事煤炭开采水资源保护利用技术研发和工程实践，并负责神华科技创新体系建设和科技创新管理工作。先后获国家科技一等奖1项、二等奖4项，获“孙越崎能源科技大奖”。获授权发明专利30余项，获中国专利金奖1项。发表论文30多篇，出版专著3部。享受国务院特殊津贴。
+======
+“国之重器”— 800MN大型模锻压机的创新研制与哲学启示
+主讲人 : 陈晓慈
+2007年中国政府批准在二重投建800MN大型模锻液压机，800MN大型模锻压机是关系国家安全、经济发展的战略性设备，也是航空制造业尤其是“大飞机项目”的基础性装备。报告人作为800MN大型模锻压机工程总指挥，将与大家分享“国之重器”—中国二重800MN大型模锻压机的研发历程，并结合大型航空模锻件的技术难点，分析重大装备对于推动我国航空工业发展、实现制造强国的重要贡献；我国大飞机研制虽然起步较晚，但在21世纪的发展也有目共睹，讲座将与大家分享大飞机构件制造在国外的发展、实现途径及我国的基本情况。
+
+
+主讲人简介：
+陈晓慈，中国第二重型机械集团公司副总工程师，教授级高工，博师生导师，国务院特殊津贴获得者。国家重大专项项目800MN大型模锻压机工程总指挥。金属塑性成型和装备制造专家。承担863、973、国家重大专项、国家自然基金等科技项目6项，荣获国家教育成果一等奖，省部级科技成果奖4项等。
+======
+主讲人 : George Chen （英国南安普顿大学、教授、IET院士和IEEE高级会员）
+The concept of nanodielectrics has been around over two decades. In line with nanotechnology applications in other areas, the expectation for nanodielectrics for electrical engineering was high.  Several working groups have been formed internationally to monitor the progress and development in nanodielectrics. The driving forces for detailed research on nanodielectrics and wide applications come from both academia (material scientists, physicists and chemists) and electrical power industries (manufacturers and utilities). Charge dynamics play an important role in determining the electrical performance of a material, including nanodielectrics. It has been widely reported that the addition of nanoparticles into dielectrics can supress charge injection, leading to a ideal application for HVDC where charge accumulation has been a consistent issue for many years. However, literature review reveals that the detailed mechanisms of charge injection suppression have never been outlined. This talk will focus on the charge dynamics in nanodielectrics and discuss their influence on electrical performance. A schematic model has been proposed to explain the charge dynamics in nanodielectrics
+主讲人简介：
+George Chen is Professor of High Voltage Engineering at the University of Southampton, UK. His main research interests are electrical characterisation of dielectric materials and electrical ageing. In last twenty years, one of his key areas of research has been developing techniques for space charge measurement in polymeric materials and understanding its role in electrical ageing and breakdown. Over the years, he has attracted financial support from both EPSRC and UK industry, has been involved in IEC and CIGRE activities and has authored over 150 journal papers and 300 international conference papers. He is a Fellow of IET and senior member of IEEE. He serves on several editorial boards of international journals and recently has been appointed as one of the Editor-in-chiefs for IET new journal of Nanodielectrics.
+======
+主讲人 : Alexandre Piantini（巴西圣保罗大学、教授、IEEE高级会员和CIGRE工作组C4.407和 C4.408成员）
+Investigations on lightning transients on power systems can be carried out through the use of the following methods: measurements on real, full-scale power lines; rocket-triggered lightning; digital simulations; and scale models. This lecture will focus on the application of the scale model technique to the analysis of lightning transients in overhead power lines. After a brief de ion of the advantages and disadvantages of the main methods for evaluating lightning transients on power lines, the basis for the utilization of reduced models and the scale factors for the most important quantities will be presented. Then, methods for simulating the electromagnetic environment, as well as various power system components, will be described, and details will be given on the reduced system implemented at the University of São Paulo, Brazil. The last part of the lecture will be devoted to the application of the technique to the evaluation of lightning transients, with emphasis on the analysis of lightning induced voltages on overhead power distribution lines. The examples will demonstrate the versatility and usefulness of the scale model technique in the analysis of complex phenomena, either for enabling the evaluation of situations which are not worthwhile to be treated theoretically or for giving adequate support for the validation of theoretical models and relevant computer codes.
+主讲人简介：
+Alexandre Piantini was born in Londrina, Brazil, in 1963. He graduated in Electrical Engineering from the Federal University of Paraná in 1985 and received the M.S. and Ph.D. degrees from the Polytechnic School of the University of São Paulo, São Paulo, Brazil, in 1991 and 1997, respectively. Alexandre Piantini is the head of the Lightning and High Voltage Research Group and has been responsible for several research projects related to lightning and power systems and involving theoretical and experimental developments, supported by power companies. His research interests include modeling of lightning phenomena, lightning protection, and power systems electromagnetic transients. Prof. Piantini is a Senior Member of IEEE and member of the CIGRE WG C4.407 “Lightning Parameters for Engineering Applications” and WG C4.408 “Lightning Protection of Low-voltage Networks,” of which he is also the Convener. He is the Chairman of the International Symposium on Lightning Protection (SIPDA), and an Associate Editor of the Journal of Lightning Research and of the The Open Atmospheric Science Journal.
+======
+主讲人 : Aleksandra Rakowska（波兰波兹南工业大学、教授、副校长）
+The number of HVDC lines in operation has increased significantly for many years and it is long list of new planned projects. DC are submarine lines with different type of insulation systems and land cable-especially with XLPE-DC insulation. It will be given information about some cable lines (the longest line, line with largest transmission capacity, deepest submarine line, with Light cables, i.e.) and why only HVDC lines very often are only good solution.
+主讲人简介：
+Aleksandra Rakowska was born in Poland. She received an MSc diploma in electrical engineering and PhD and Doctor Habilitatus degrees from Poznan University of Technology (PUT). She is currently professor at PUT and vice-director of the Institute of Electric Power Engineering for Science. During 2005 to 2012 she was pro-rector for research and science at PUT. In 2004 to 2012 she represented Poland in CIGRE SC B1 Power Cables. She is the author of six technical books and author or coauthor of about 250 papers. Her main research interests are transmission and distribution power lines, especially HV and EHV power cable lines, diagnostics and monitoring of power cable lines, HV engineering, and insulating materials.
+======
+主讲人 : Michael Muhr （奥地利格拉茨工业大学、教授、副校长）
+This lecture gives an overview about transmission technology used for HVAC and HVDC systems. Starting with an outlook to the need of more electric power in the future and the change due to the liberalization market, the conditions for transmission systems and also an overview of the definition of high voltages. The next step is the explanation of AC power transmission with all advantages and disadvantages and also the technical aspects of a HVAC transmission. Going on with DC power transmission, the technical aspects and also the advantages and disadvantages of such transmission. The last part shows a comparison between AC and DC transmission and also the behaviour of HVDC and what investigations should be done. The third part is handling with the different transmission lines for AC and DC systems like overhead lines, underground cables and gas insulated lines (GIL). All possibilities of the different lines will be explained with all their advantages and disadvantages but also developments in the different fields. At last there is shown a comparison of the different lines to have a good solution, if you have to build such a line.
+
+
+主讲人简介：
+Em.Univ.-Prof. Dipl.-Ing. Dr.techn. Dr.h.c. at the Graz University of Technology TU Graz. Since 1990 Head of the Institute and Test Institute of High Voltage Engineering and System Management of TU Graz. According university act (UG 2002) since 2002 Head of the Institute of High Voltage Engineering and System Management of TU Graz, retired in October 2012. According university act (UG 2002) since 2002 Managing Director of the Test Institution of High Voltage Engineering Graz Ltd. (VAH Graz Ltd.), retired in December 2016. From 2003 to 2007 Head of the Senate and from 2007 to 2011 Vice-rector for Education at Graz University of Technology. Membership in national and international societies as ÖVE, ÖGE, DKE, IEEE, IEC and CIGRE (convenor of 3 working groups). Co-operations with institutes in Czech Republic, Poland, Slovakia, Croatia, Slovenia, China, India as well as industry and utilities. More than 190 publications and reports, more than 170 lectures. Supervisor of more than 160 diploma thesis, 40 doctoral thesis and 3 habilitations.
+======
+主讲人 : Reimund Gerhard（德国波茨坦大学、教授、美国物理学会院士和欧洲物理学会院士）
+Mass-spring or bead-spring models such as the Rouse model are used in the theory of macromolecular materials. Charge-spring models help to understand the interaction between the electrical and the mechanical domains in materials at atomic, molecular, crystalline and even macroscopic length scales, but have played a smaller role. The best-known charge-spring model is the Lorentz oscillator introduced by Hendrik A. Lorentz for treating the frequency spectrum and the resonance behaviour of atoms by assuming that electron and nucleus are coupled by a spring-like force. With the Lorentz oscillator model, the high-frequency resonance behaviour of dielectrics in the THz to PHz range can be easily explained.
+In contrast, it is usually assumed that the dielectric function of materials at lower frequencies only exhibits relaxation behaviour, but no resonance phenomena. Dielectrics with quasi-permanent dipole polarisation and/or charges, however, show electro-mechanical resonances at frequencies in the kHz to GHz range - depending on the length scale of the relevant mechanical oscillator(s). The experimental technique of dielectric resonance spectroscopy for the investigation of piezoelectric materials was developed from these observations. Such resonances may also be illustrated and modelled with charge-spring arrangements.
+The charge-spring model will be summarised together with recent refinements that take the limited size of the relevant springs between the two charges or charge  s of opposite polarity into account. It will be shown that the corrections lead to reasonably good predictions of the observed piezoelectric thickness coefficients if the spring behaviour (i.e. the relevant elastic-modulus tensor component) and the amount of charges at the ends of the springs (i.e. the effective dipole polarisation) are known for a piezoelectric or electromechanical material. The model does not only help to understand and predict piezoelectricity in dielectrics more easily, but it is also a very good tool for teaching the fundamentals of electroactive materials.
+
+
+主讲人简介：
+Member of American Physical Society (APS, Fellow), European Physical Society (EPS), German Physical Society (DPG), Institute of Physics (IoP), Institute of Electrical and Electronics Engineers (IEEE, Fellow), Acoustical Society of America (ASA), Materials Research Society (MRS), Information Technology Society (ITG), and Berlin-Brandenburg Society of Polymer Research (BVP) More than 300 scientific and technical publications in professional journals, conference proceedings, and books (not including published abstracts) Grants from European Union (EU), Deutsche Forschungsgemeinschaft (DFG), German Academic Exchange Service (DAAD), Federal Ministries of Education and Research (BMFT/BMBF) and of Economics and Technology (BMWi), Brandenburg State Ministry of Science, Research and Culture (MWFK), several foundations and industrial companies such as Arkema, Bayer MaterialScience (BMS), Tarkett, etc.
+======
+主讲人 : Masoud Farzaneh （加拿大魁北克大学，教授，IEEE 院士、IET院士和加拿大工程院院士）
+The last decade saw the development of a variety of surface engineering techniques and advanced coatings with properties like self-cleaning, icephobicity and anti-corrosion. These new technological advances can potentially benefit the power industry in reducing the risk of flashovers on insulators, corona losses and noise from conductors and fittings as well as mechanical problems caused by ice and snow accretion on overhead power networks. These technologies not only have the potential to increase the reliability of transmission assets, but may also enable a reduction in the capital cost of new constructions.
+In order to evaluate the potential applications and benefits of such coatings for overhead power networks, a comprehensive review of the state-of-the-art research activities related to superhydrophophobic and icephobic coatings was recently carried out by WG B2.44 resulting in the publication of TB 631 in 2015. In this TB, methods for testing and characterizing various properties of these coatings were also reviewed. In particular, this study allowed to highlight promising benefits of the use of such advanced coatings for future development and applications to power networks. At the same time, this study made it possible to identify the main lacks in existing standard methods concerning these coatings and to stress the need for development of new techniques for their characterization and application. Moreover, it emphasized the lack of efficient coatings against corona audible noise and urgent need for development
+主讲人简介：
+Masoud Farzaneh received his power engineering degree from Polytechnic of Tehran in 1973. After obtaining his Masters jointly from Institut National Polytechnique and Université Paul Sabatier in France, he received his PhD in 1980, from the same institutions. Later, in 1986, he obtained a Doctorat d'état ès sciences from Université Paul Sabatier.
+He has always been actively involved with IEEE, CIGRE and IET, in particular he was President of IEEE DEIS, Associate Editor of IEEE Transactions on Dielectrics and Electrical Insulation, and Editor-in-Chief of the High Voltage journal, jointly published by The Institution of Engineering and Technology (IET), China Electric Power Research Institute (CEPRI) and Tsinghua University. He was member of many Task Forces of IEEE, as well as member of the Executive Committee of CIGRE Canada, Convenor of CIGRE WG B2.29 and WG B2.44 on de-icing techniques and on coatings for protection of overhead lines during winter conditions. A large number of IEEE and CIGRE standards, guides, technical brochures and position papers have been realized under his leadership. He is Life Fellow of IEEE, Fellow of The Institution of Engineering and Technology (IET) and Fellow of the Engineering Institute of Canada (EIC).
+======
+主讲人 : Stanislaw Gubanski（瑞典查尔姆斯工业大学、教授、IEEE院士和CIGRE杰出会员）
+This lecture presents results of scientific cooperations between polymer technology and high voltage researchers aiming at elaborating new material concepts,  d on polyethylene compounds with added nano-fillers, voltage stabilizers and graphene nanoplatelets. Such materials should be attractive for applications in HVAC and HVDC cable systems, including cable insulation and elements of cable accessories. Several promising stabilizers have been tested and their characteristics are to be presented, confirming that their stabilizing efficiency can directly be related to electron affinity of the molecules. It will also be demonstrated that nanofilled composites provide a remarable reducion of material’s electrical conductivity. Finally, some  important properties of graphene nanoplatelet filled polyethylene composites will be demonstrated.
+主讲人简介：
+Stanislaw M. Gubanski is a professor leading the division High Voltage Engineering. The goal is to develop reliable, cost efficient, and environmentally friendly components of future transmission and distribution electric power networks  d on high voltage direct current technology, HVDC. Solutions for components of smart grids are also in focus. Stanislaw Gubanski is a Fellow of IEEE and a distinguished member of CIGRE.
+======
+主讲人 : 杨小渝，研究员
+传统以实验为主的“试错法”新材料研发模式周期长，效率低。美国提出的“材料基因组计划”，其核心就是借助计算手段和数据方法，并结合材料实验三位一体的方式，帮助把发现、开发、生产和应用新材料的周期降低一半，研发成本降低一半。“材料基因工程”目前已经纳入十三五国家重点研发计划。
+量子力学和机器学习相结合的方法用于新材料发现的研究是目前业界研究的前沿和热点 （QM/ML）, 尤其是人工智能技术再次掀起热潮后。本报告介绍在国家自然科学基金，国家重点研发计划项目的资助下，我们在国内率先研制出的集成化、网络化，支持多通道，多任务，高并发的材料计算与数据管理的高通量材料集成计算一体化平台。在基于此自主研发平台，我们探讨如何将高通量材料集成计算，材料计算数据库和机器学习等方法和技术相结合，以加快新材料的研发。我们的研究主要体现 “应用导向”，“问题导向”，及“多学科交叉”等特点。
+主讲人简介：
+杨小渝，博士、英国剑桥大学博士后，现为中科院“百人计划”研究员，中科院计算机网络信息中心材料基因信息技术实验室主任。
+杨小渝研究员的研究成果和创新体现了多学科，跨领域的特点。曾参与了十多个英国政府及欧盟框架项目的研发，对信息化技术的应用，以及如何沿用国际化的方法和模式系统地开展交叉学科项目的研究有着深刻的理解。目前承担多个国家自然科学基金，和国家重点研发计划项目。在国际重要期刊、国际学术会议发表学术论文20余篇，并著有三部英文学术著作；同时还担任国际期刊主编／国际学术会议审稿人。2011年获由教育部，科技部举办的第五届“春晖杯”留学人员创新创业大赛二等奖。2010年经香港特别行政区“香港优秀人才入境计划”遴选，获“香港优秀人才入境”身份（由于中科院邀请，后放弃赴港，直接归国）
+======
+主讲人 : 孙宏斌等
+主讲人简介：
+孙宏斌 清华大学教授；
+李建英 西安交通大学教授；
+欧阳 中国汽研院高工；
+刘志祥 重庆科凯前卫研究员级高工
+======
+从奥尔巴赫、卢卡奇到杰姆逊的理论建构与批评实践
+主讲人 : 张旭东
+本讲从“摹仿”（mimesis）概念入手重新考察现实主义文学理论的基本范畴，尝试在当代语境中重建形象、叙事、再现（表象）与历史世界和世俗生活的关联。通过奥尔巴赫对“形象”（figura）概念的语义学疏解、卢卡奇的叙事理论、和杰姆逊对于现实主义二重根源的论述，勾勒现实主义写作方式内部的混杂性、多重性以及内部审美-认识旨趣的扩张性与游动性，指出这些特征一方面造成现实主义风格在教科书意义上的定义的困难，另一方面却客观上促成它同历史生活之间的总体性关系、同时不断使之从摹仿概念的源头获得新的支持和确认。这种总体性和内部混杂性在现实主义在中国新文学历史经验和当代中国文学创作实践中得到了进一步的映证，也为当代中国文学批评提供了新的阐释和理论化的可能。
+
+
+主讲人简介：
+张旭东，纽约大学比较文学系与东亚研究系教授，北京大学长江讲座讲授，曾任纽约大学东亚系主任，重庆大学人文社会科学高等研究院、博雅学院院长、名誉院长，目前任北京大学人文学部副主任、北京大学批评理论中心主任，建立了国际批评理论中心（ICCT）学术联盟。著有中英文著作《批评的踪迹》、《全球化与文化政治》、《改革时代的中国现代主义》、《全球化时代的文化认同》、《文化政治与中国道路》等十余部，主编批评理论与文学研究丛书（北京大学出版社）、英文学术期刊Frontiers of Literary Studies in China。
+======
+主讲人 : 刘天中 研究员
+由于普遍认同的能源安全需求和全球温室气体减排的巨大压力，耦合了CO2固定的微藻生物柴油和航空生物燃料技术成为全球生物能源研究热点。此外微藻的生物多样性和丰富的产物组成为其在食品、饲料、材料及医药、保健等大健康产业的发展提供了资源基础。然而围绕微藻的能源与资源化利用技术研究虽然已取得了众多进展，但真正大规模的产业化并未实现，主要原因在于未能解决微藻生物质的低成本大规模生产，核心瓶颈在于：1）缺乏能够适应户外多变环境（光照、温度）、抵抗敌害生物和易于采收等优良工程性状特色微藻藻种；2）现存的微藻培养技术和装备粗放，效率远远低于100g/m2/d以上的理论产率导致大规模培养占地和水耗过大。
+迄今为止人们广泛使用的产油微藻多为尺寸细小的单细胞藻，细小的单细胞藻对原生动物有很好的适口性，因此大规模培养的污染问题一直难于解决，同时难于通过过滤、沉降等简易方式收获。黄丝藻是一种世界性分布的多细胞节杆状丝状体微藻，其对氮磷和有机质的吸收利用能力强，广泛用于河流等的指示性藻类。最近我们的研究首次发现通过培养可使其细胞内积累高达50-60%的油脂，且生长迅速，耐轮虫等 污染，通过气浮、沉降、过滤等 收获，具有良好的工程应用价值，产油黄丝藻的发现为人们提供了一条从传统的单细胞微藻转向多细胞丝状藻筛选以解决微藻的工程性状问题的新思路；在微藻的培养上， 我们提出了微藻的生物膜培养方法，研究表明大多数微藻都可以进行生物膜贴壁培养并高效生长和积累目标产物，在此基础上，为解决光能的高效利用提出了基于光强稀释的反应器设计原理。通过帘式阵列的反应器结构，光能利用率可达6-10%，占地面积微藻产率可达40-80g/m2/d，且培养过程节水，采收方便。目前微藻贴壁培养已成为微藻培养技术研究的热点。
+
+
+主讲人简介：
+刘天中，博士，研究员，博士生导师，1987年毕业于成都科技大学化工系，1990、1998年在中国科学院过程工程研究所获工学硕士和博士学位，2000-2003年在英国Birmingham大学化工系作博士后研究。现任中国科学院青岛生物能源与过程研究所藻类生物技术中心主任，中国科学院生物燃料重点实验室副主任。研究方向为藻类生化工程。主要研究领域为：1）微藻能源工程，包括产能微藻种的选育与性状评价、大规模培养工艺、高效培养光生物反应器、油脂的提取与精制、生物柴油制备、能源技术集成与工艺放大；2）微藻环境工程，包括生活和工业废水的处理、燃煤废气二氧化碳的固定利用；3）微藻高值产品工程，包括微藻色素、微藻蛋白、微藻多糖等的产业化关键技术。近五年来承担了包括国家十二五科技支撑计划、十三五重点研发计划、863计划、国家自然科学基金、中国科学院重要方向性项目、山东省重大科技攻关和美国波音公司可持续航空生物燃料研究等项目二十余多项，并与国内多家企业建立了技术研发合作。在Biotechnology for Biofuels, Scientific Reports, Bioresource Technology等期刊上发表SCI研究论文40余篇，单篇论文引用 107次，申请发明专利16项，国际PCT专利2项，授权专利11项。
+======
+鲁迅晚期杂文再解读
+主讲人 : 张旭东
+鲁迅写作的最后十年在风格、主题、句式、乃至结集策略上出现一系列变化，值得在批评和文学史意义上予以系统考察和分析。本次讲座旨在探讨这种努力的基本框架和方法，并提出以下初步假设和看法：一、经历“杂文的自觉”和大革命失败后，鲁迅通过上海都市现代性再次同历史发生有效的关联和碰撞，后者构成他写作的直接环境和思想-意识形态场域；二、历史唯物主义转向为此阶段写作带来决定性认识论动力，为其奠定社会本体论和道德情感基础； 三、相对于上述两方面的“外在化“压力，鲁迅文体风格以“内在化”方式再一次自我肯定，具体表现为统摄于“编年”和“诗史”双重概念下的语言-道德讽喻、游戏和批判，但风格与形式承认历史的第一性并自觉为之服务（第二次“杂文的自觉”），由此成就鲁迅文章学相对于历史总体性的独特的审美判断和形式自律。
+
+
+主讲人简介：
+张旭东，纽约大学比较文学系与东亚研究系教授，北京大学长江讲座讲授，曾任纽约大学东亚系主任，重庆大学人文社会科学高等研究院、博雅学院院长、名誉院长，目前任北京大学人文学部副主任、北京大学批评理论中心主任，建立了国际批评理论中心（ICCT）学术联盟。著有中英文著作《批评的踪迹》、《全球化与文化政治》、《改革时代的中国现代主义》、《全球化时代的文化认同》、《文化政治与中国道路》等十余部，主编批评理论与文学研究丛书（北京大学出版社）、英文学术期刊Frontiers of Literary Studies in China。
+======
+主讲人 : 相关负责人
+针对数学、物理、化学等理科学生申请研究生等相关问题作详细介绍
+主讲人简介：
+华南理工大学应用化学国家重点实验室的博士生导师
+======
+重庆市高校云计算与大数据人才培养研讨会
+主讲人 : 沙行勉、陈超、刘鹏、汪林林、李波、李方清
+国家对于大数据产业发展高度重视，2015 年颁布的十三五规划将大数据上升为国家战略，重庆市政府也于 2015 年出台专门针对大数据产业发展的政府文件，政府的大力支持和产业的高速发展，促进“数据科学”型人才上升到国家核心战略层面。据悉，在 BAT 企业招聘的职位里，60%以上都在招聘大数据人才；以提供免费网络安全平台为代表的奇虎 360，就有 2/3 的员工业务与大数据息息相关，然而与高需求相对的却是大数据人才的极度紧缺。
+2017年3月，教育部公布第二批“数据科学与大数据技术”专业获批高校32所，加上首批3所高校，我国已有35所高校获批该专业，重庆理工大学是重庆第一所成功申报该专业的学校。重庆政府打造的仙桃数据谷，展示曙光、南京云创等公司大数据平台，旨在引进国内外先进的大数据技术公司以及人才，为应对重庆市政府大数据产业发展的人才需求，各大高校都在准备申报或开展大数据人才培养。期望本次“重庆市高校云计算与大数据人才培养研讨会”能够全方位推进大数据科研项目合作、技术开发、教学研究、学科建设等工作，促进我市大数据人才培养和应用成果转化。
+本次会议邀请国内大数据行业的专家，以及市内大数据教学专家作专题报告，共同探讨大数据应用研究及高校大数据专业的建设思路与方向。
+诚挚邀请全校师生积极参加本次研讨会！
+
+
+主讲人简介：
+沙行勉 (Edwin Sha)，男，博士生导师，重庆大学特聘教授，计算机学院院长，美国终身职正教授 (Full professor)。中国国家千人计划（A类）特聘专家，长江学者讲座教授，海外杰出青年学者。1986年本科毕业于国立台湾大学资讯工程学系；后于1991年和1992年分别获美国普林斯顿大学 (Princeton University) 计算机科学系硕士学位和博士学位。1992年起任教于美国圣母大学(University of Notre Dame)计算机科学与工程系，并于1995年起担任该系副系主任。2000年起作为终身职正教授任教于美国德克萨斯大学达拉斯分校（UTD）计算机科学系。2001年曾担任计算机科学部主任。 任上海交通大学，山东大学，北京航空航天大学,湖南大学等客座教授。2009年起任中国长江学者。2011年起任中国千人计划国家特聘专家。
+陈超，计算机学院副教授
+
+刘鹏，南京大数据研究院院长
+汪林林，重庆人文科技学院计算机工程学院院长
+李波，重庆理工大学理学院院长
+李方清，重庆杉臣教育科技有限公司
+======
+经济分析中如何应用统计指标
+主讲人 : 万东华
+重点介绍统计指标的内涵和外延，经济分析中应用统计指标应注意的问题，如何理解统计指标与一些人感受不一致等。
+
+
+主讲人简介：
+万东华，经济学硕士，高级统计师。先后担任国家统计局国民经济综合司副司长、农村司副司长、中国信息报社总编辑，现任国家统计局统计科学研究所所长，中国统计学会副会长兼秘书长。连续多年为中央经济工作会议报告起草组成员，在人民日报、经济日报、经济研究、统计研究、新华网等重要媒体上发表文章数十篇，获得国务院特殊津贴专家、中央国家机关“五一劳动奖章”、全国统计系统劳动模范。
+======
+微藻固定燃煤烟气CO2转化制生物柴油
+主讲人 : 程军教授
+利用微藻固定燃煤烟气CO2转化制生物柴油是国内外节能环保和新能源领域的前沿研究热点和高技术竞争焦点。微藻产业技术发展尚存在一些难点瓶颈需要突破：获得适应燃煤电厂烟气的高效固碳藻种是实现微藻减排电厂烟气CO2的前提；开发紧凑高效的大规模光合反应器是提高微藻固碳速率的关键；建立高效低成本的微藻固定烟气CO2技术工艺体系是微藻固碳产业化的保障。本报告针对微藻固碳制油开展研究，分析讨论了急需解决的关键科学技术问题：①耐受燃煤电厂和煤化工厂烟气的高效固碳藻株选育；②高光效、高固碳、低成本的微藻光合固碳反应器；③可规模化生产的微藻固定烟气CO2制生物柴油的技术工艺体系。通过建立微藻固定燃煤烟气CO2转化制生物柴油的工程示范，探索一条微藻生物法减排固定烟气CO2的经济可行之路，大力推动节能减排和新能源等战略性新兴产业发展。
+主讲人简介：
+程军，浙江大学能源工程学院教授，博导。国家万人计划领军人才，科技部中青年科技创新领军人才，教育部新世纪优秀人才，全国百篇优秀博士学位论文获得者。1996年毕业于山东大学热能动力工程专业获学士学位，2002年毕业于浙江大学能源环境工程专业获博士学位，2008-2009年赴美国普林斯顿大学作访问学者，2009年晋升为教授。研究领域为新能源和节能环保，重点研究生物质能和太阳能、燃煤污染物控制及CO2减排利用等高效清洁转化技术。主持负责国家基金、重点研发、863等国家级项目12项和省部级项目8项，是国家重点研发项目“二氧化碳烟气微藻减排技术”的项目负责人和国家863项目“燃煤烟气CCUS关键技术”的首席专家。作为第一或通讯作者已发表国际期刊SCI论文110余篇，授权发明专利30余项，两次获得国家科技进步二等奖。
+======
+Instability of thermocapillary convection in the annular pool
+主讲人 : 今石宣之教授
+1) Effect of Prandtl number on the stability limit of thermocapillary flow in shallow annular pool.
+2) Effect of pool depth on the stability of buoyant-thermocapillary flow in annular pool of medium Prandtl number fluid.
+3) Effect of curvature of the annular pool on the stability limit of buoyant thermocapillary flow of medium Prandtl number fluid.
+4) Effect of pool depth on the stability of buoyant-thermocapillary flow of low Prandtl number fluid (Pr=0.011).
+5) Stability limit of thermocapillary flow in half zone bridge of low Prandtl number fluid.
+主讲人简介：
+今石宣之 （Nobuyuki Imaishi），日本九州大学先导物质研究所教授，所长  （1988~2007）。历任Crystal Growth & Design (ACS)、Fluid Dynamics & Materials Processing、Progress in Crystal Growth and Characterization of Materials和Journal of Crystal Growth (Special Issue)等杂志编委，长期任Workshop for Modeling of Crystal Growth科学委员会委员，为JSPS研究项目“Dynamic behavior of silicon atoms, lattice defects and impurities near silicon melt-crystal interface”（1996-2001）和NASDA研究项目“Marangoni Convection Research Project”（1998-至今)的Project leader，发表SCI论文100余篇。
+======
+怎样理解儒家的政治法律思想
+主讲人 : 苏亦工
+内容简介：从现代西方学术分类的角度看，儒家思想主要应界定为道德伦理思想和教育思想，不是完整的西方意义上的哲学，也算不上是严格意义上的政治、法律思想，虽然其中涉及到哲学、政治、法律、经济、社会治理等诸多方面的内容，但因缺乏理论和系统，很难发展出具有现代意义上的西方式样的政治法律思想，更难与现代西方社会的法治、民主和宪政体制对接，甚至可能与之相悖，因此不大可能为现代社会所接受，只能供人们发思古之幽情，成为了解一点古代中国的思想和智慧的线索而已。本讲座试图跳出幼稚、浅薄、孤陋，且自以为是，唯我独尊的西方观念，从天人合一的境界，重新审视儒家思想的政治法律观念对於人类生命的意义！
+
+主讲人简介：
+苏亦工，男，天津市人。法学博士，清华大学法学院教授，博士生导师。先后在中国社会科学院法学研究所和清华大学法学院从事法律史、法律文化的研究和教学工作。1993年8月－1995年10月间在美国华盛顿大学（Washington University in St. Louis）法学院、2001年8月－2002年8月间在韩国首尔国立大学法学院、2003年7月在澳洲国立大学法学院从事访问研究，2008年7月－2009年1月间在瑞士弗莱堡大学联邦研究所任客座研究员，还曾于1997－2006年间5度赴香港大学法学院从事香港法律史研究。著作主要有《天下归仁：儒家文化与法》（人民出版社，2015年版）、《中法西用——中国传统法律及习惯在香港》（社会科学文献出版社2002年初版、2007年再版）、《明清律典与条例》（中国政法大学出版社2000年版）、《中国近代警察史》（社会科学文献出版社2000年版），并有译著《法律现代主义》（中国政法大学出版社2004年版）、古籍整理《历代判例判牍》第9册（中国社会科学出版社2005年版）等。先后在《中国社会科学》、《法学研究》、《中国法学》，《中国高校社会科学》、《国学研究》、香港《21世纪》杂志及Hong Kong Law Journal、韩国《法史学研究》、ÉTUDES CHINOISES等海内外刊物上发表学术论文70余篇。
+======
+主讲人 : 罗岗
+汪曾祺平淡质朴的笔下，充溢着浓厚“中国味儿”的小人物形象显得生动活泼。80年代，汪曾祺创作的三篇小说《受戒》、《岁寒三友》、《大淖记事》中具有中国味儿的“小有产者”成为他密切关注的对象。在此，罗岗教授将联系其他文本与我们共同关注这其中小有产者的理想与不满，同时探讨八十年代改革对“小有产者”的理想产生的影响。
+主讲人简介：
+罗岗，江西赣州人。文学博士，华东师范大学中文系教授，中国现当代文学专业博士生导师；华东师范大学思勉人文高等研究院教授，城市社会与文化专业博士生导师；重庆大学人文社会科学高等研究院兼职教授；曾任美国纽约大学、香港浸会大学和台湾东海大学等校访问教授。著有《人民至上》、《想象城市的方式》、《危机时刻的文化想象》、《面具背后》和《记忆的声音》等，主编有《九十年代思想文选》（三卷本）、《视觉文化读本》等。
+======

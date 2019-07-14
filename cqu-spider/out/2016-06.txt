@@ -1,0 +1,193 @@
+多原子分子解离吸附过程中的模式特异性和键选择性
+主讲人 : 郭华教授 美国新墨西哥大学
+Dissociative chemisorption is the initial and often rate-limiting step in many heterogeneous processes. As a result, an in-depth understanding of the reaction dynamics of such processes is of great importance for the establishment of a predictive model of heterogeneous catalysis. Overwhelming experimental evidence has suggested that these processes have a non-statistical nature and excitations in various reactant modes have a significant impact on reactivity. A comprehensive characterization of the reaction dynamics requires a quantum mechanical treatment on a global potential energy surface. In this talk, we summarize recent progress in constructing high-dimensional potential energy surfaces for polyatomic molecules interacting with transition  l surfaces  d on the plane-wave density functional theory and in quantum dynamical studies of dissociative chemisorption on these potential energy surfaces. A special focus is placed on the mode specificity and bond selectivity in these gas–surface collisional processes, and their rationalization in terms of the recently proposed Sudden Vector Projection model.
+主讲人简介：
+郭华教授1982年本科毕业于成都电子科技大学，1985年在四川大学获硕士学位，导师为鄢国森教授。1988年于英国Sussex大学获博士学位，师从英国皇家学会会士John N. Murrell。后赴美国西北大学，在George C. Schatz课题组从事博士后研究。1990年－1998年历任美国Toledo大学助理教授、副教授。1998年加入新墨西哥大学，目前是新墨西哥大学的物理系和化学系杰出教授。2013年，郭华教授获选美国物理学会会士。郭华教授的研究方向涵盖气相反应动力学、气体－表面反应动力学、非均相催化与酶催化反应机理等。
+======
+主讲人 : Gao LIU (Lawrence Berkeley National Laboratory, USA)
+主讲人简介：
+Dr. Gao LIU is the Group Leader of the Applied Energy Materials Group in the Energy Technologies Area at Lawrence Berkeley National Laboratory, specialized in energy storage R&D. Dr. Liu has led research projects for the U.S. Department of Energy and industry. He has over 100 peer-reviewed publications and over 20 patents and patent applications. He has received numerous awards from his work on electrochemical energy storage materials and systems. The most recent awards include R&D 100 Award in 2013 for conductive polymer for lithium-ion battery application, and FMC Scientific Achievement Award in 2014 for understanding fundamental of prelithiation, and R&D 100 Award in 2015 for high capacity lithium ion anode design.
+======
+Intelligent Vehicle Systems and Control and Their Applications
+主讲人 : 吕建波
+The current disruptive technologies in automotive and transportation systems such as diverse mobility, automated driving (including driverless cars), electrification, and connectivity are demanding the automotive research and education to expand their portfolio. One of the expanded portfolios is the vehicle intelligentification (VI), which is an enhancement to the traditional intelligent vehicle systems but focuses on the action part of making car more intelligent through either automation or intelligent utilization of information. The intelligence here is closely related to how human being is thinking, perceiving, making decision, and how they are influenced by the available information. Hence understanding the human driver and mimicking his actions in driving are the essential part of VI, on top of the other  ives. VI has many applications ranging from user experience/driver assistance to autonomous driving. For example, the key to the success of designing driverless car is no more than designing a “virtual driver” that can digitally mimic a human driver to drive a car. VI has a deep root in the traditional expertise of controls, sensing, and networking. In this talk, we use industrial examples to illustrate how the traditional automotive disciplines can contribute to VI and how some Vis are achieved through innovatively utilizing information and approaches. Our goal is to use this to motivate a rather broad thinking in the most exciting era of the automotive history.
+主讲人简介：
+Dr. Jianbo Lu is currently a Technical Expert in Advanced Vehicle Controls at Autonomous Vehicle and Controls Research and Advanced Engineering, Research & Innovation Center, Ford Motor Company. He holds a Ph.D. in Aeronautics and Astronautics from Purdue University.  He has published around 70 referred research articles. He is an inventor or co-inventor of more than 100 US patents. His invented technologies have been widely implemented in the tens and millions of vehicles with brand name such as Ford, Lincoln, Volvo, and Land Rover. His research interests include Automotive controls, vehicle dynamics, advanced driver assist systems (ADAS), active safety systems, intelligent vehicle systems (IVS), automated driving, future mobility, prognostics and fault tolerance, personalization and user experience. He is a two-time recipient of the Henry Ford Technology Award at Ford Motor Company. He currently serves as an Associate Editor for the IEEE Transactions on Control Systems Technology, and he is on the editorial board of International Journal of Vehicle Autonomous Systems and International Journal of Vehicle Performance. He also serves as the Chair of Intelligent Vehicular Systems and Control Technical Committee under IEEE Society of Systems, Man and Cybernetics.  From 2008 to 2014, he served as an Associate Editor for the IFAC J. of Control Engineering Practice. He served as the Vice Chair for Industry and Applications at the 2015’s American Control Conference. Dr. Lu is a senior member of IEEE Control System Society, a member of ASME, SAE, and Tau Beta Pi.
+======
+主讲人 : 刘小枫
+在美国的大学人文教育乃至普通国民教育中，政治地理学占有重要位置。然而，上世纪太平洋战争爆发之后，美国人才开始养成这种教育习惯。英国著名政治地理学家、政治活动家麦金德在这场公民教育运动中发挥了重大作用，打造了西方国家公民的政治地理意识。本讲座将分析麦金德的政治地理学思想背后的两种文明史观，即古典的修昔底德式政治史观和现代的启蒙哲学式普遍历史观。以杜尔哥的政治地理学观念为背景，通过论析麦金德的三篇政治地理学经典文献，本讲座力图揭示麦金德政治地理学具有的两种文明史观的内在矛盾，进而澄清所谓“海权”与“陆权”的世界历史冲突的理论真相，促请我国学界反思在理解“海洋文明”论时存在的误识。
+
+
+主讲人简介：
+刘小枫，中国人民大学文学院教授、博士生导师，中国比较古典学学会会长，兼任北京大学等多所高校教授。主要研究领域为古典学、政治哲学、中西古典思想等，已出版《拯救与逍遥》、《重启古典诗学》、《设计共和》、Sino-Theology and the Philosophy of History等中、英、德学术著作三十余种；主持丛书多种，其中“经典与解释”系列已出版近400种，蜚声海内外。
+======
+主讲人 : 戴锦华
+本演讲拟从数码技术的迅猛发展整体改变了全球社会生态入手，讨论技术革命与资本主义危机的遭遇，如何造就着新的社会格局。借助相关的电影文本尝试讨论新的可能与新的社会空间的创造。
+
+
+主讲人简介：
+1982年毕业于北京大学中文系，曾任教于北京电影学院电影文学系11年。自1993年担任北京大学比较文学与比较文化研究所教授、博士生导师。现任北京大学北京大学电影与文化研究中心主任。从事大众传媒、电影与性别研究。曾在亚洲、欧洲、北美洲十余个国家和地区讲学和访问，长年参与新乡村建设与环保实践。专著10余部，并被译为英文、法文、德文、意大利文、西班牙文、日文和韩文出版。
+======
+Reliability Modeling and Optimization for Systems of Degrading Components
+主讲人 : Prof. David W. Coit
+New system reliability models and analysis tools are being developed to aid in the successful development and commercialization of certain novel and evolving technologies. System reliability analyses, involving multiple failure processes, are important and challenging research topics, particularly when failure processes, such as degradation processes and random shocks, are competing and dependent. When component degradation models are extended to complex systems with multiple components, different perspectives of dependency should be considered in system reliability modelling. In this research, potential dependence patterns are investigated among multiple failure processes within and among components in systems and probabilistic models are developed to assess system reliability performance. For the reliability modeling of complex systems, if one component in the system degrades or fails prematurely, it is possible that other components will also degrade or fail prematurely given the shared working environment, which means component failure times are dependent. Existing system reliability models are extended to perform quantitative analyses for system reliability considering that the damages to the two failure processes caused by shocks are dependent. The research is organized into several scenarios, i.e., dependent failure processes are considered in different ways. Stochastically dependent component degradation processes are also studied, and extended gamma process models are used to model the dependent degradation process.  d on these new reliability models, different maintenance policies are derived to provide cost effective maintenance plans.
+
+
+主讲人简介：
+David Coit is a professor in department of Industrial and Systems Engineering at Rutgers. His research interests are in the areas of system reliability modeling and optimization, power systems reliability, and multiple- ive optimization. He has been funded for his research from the NSF, U.S. Navy, U.S. Army, power utilities and industry. He is a senior member of Institute of Industrial Engineers (IIE), a member of Institute of Operations Research and Management Sciences (INFORMS), and an editor of IIE Transactions on Quality and Reliability Engineering, of Reliability Engineering and System Safety and Journal of Risk & Reliability. He get his bachelor degree from Cornell University, MBA from Renssalear Polytechnic Institute, master degree and Ph.D degree from University of Pittsburgh. He also previously worked for more than ten years at IIT Research Institute (IITRI), Rome, NY (now called Alion Science and Technology) where he designed and implemented reliability programs, developed reliability prediction models and conducted reliability analyses. Prof. Coit has received recognition for his research. In 1999, he was awarded an NSF CAREER grant to research system reliability design optimization with incomplete or uncertain component reliability estimation. In 2001, he was awarded the P.K McElroy award for best paper at the annual Reliability and Maintainability Symposium (RAMS) conference. In 2003, he was awarded the A. J. Golomski award for the best paper at RAMS by an IIE member, and in 2009, he was awarded the A. O. Plait award for the best tutorial at RAMS.
+======
+美国理工科研究生申请解析
+主讲人 : 韦小丽
+六月伊始，骄阳如荼。又到了一个学年的终点，一个离别的季节，但在这个的夏天，当你还在为你毕业的出路而彷徨时，我们为你带来一个选择——留学。
+你还在为是否留学而不知所措吗？你还在为到哪留学而纠结彷徨吗？你还对留学的前景一无所知吗？你在向往着国外求学的生活吗？如果你怀揣着留学的梦想，如果你在为留学的事情而苦恼，那就赶快行动起来吧！
+
+
+讲座内容简介：
+1.理工科各专业申请趋势
+
+2.理工科研究生如何提高申请竞争力
+3.背景提升的机会
+4.托福/GRE 时间规划
+5.理工科申请成功案例解析
+
+
+主讲人简介：
+韦小丽，留学行业从业12年，曾访问澳洲，英国，美国等各大名校，斯坦福大学访问学者，帮助学生成功申请到哈佛，宾大，纽约大学等世界名校。2003年进入出国留学行业， 2011年6月任新东方前途出国美国研究生部经理，前途出国大型留学类公益巡讲讲师。
+======
+主讲人 : 重庆市九龙坡区人民法院
+案由：工伤保险待遇纠纷案
+原告：郭某
+被告：野菜村贸易（上海）有限公司
+承办法院：重庆市九龙坡区人民法院
+庭审时间：2016年6月15日（星期三）下午14:30
+庭审地点：B区第二综合楼314（法学实践教学中心）
+欢迎广大师生前往观摩旁听！
+======
+主讲人 : 周荫昌
+主讲人简介：
+周荫昌，音乐理论家、教育家，教授。曾任中国人民解放军艺术学院学术、学位委员会常务副主任、文化艺术研究所所长；教育部艺术教育委员会常务副主任；中国音乐家协会教育委员会副主任。现任中国人民解放军艺术学院教授。
+
+周荫昌教授是我国军队文化管理专业的创办人；以优秀的音乐艺术教育工作被誉为青年的“良师益友”，荣获全国荣誉称号。著有《音乐形象的美学特征》《社会文化生活与青年审美意识》《音乐艺术赏析》等。早期歌曲作品《小溪流水响叮咚》等长期列为中小学音乐课传统教材。
+======
+主讲人 : 张海，James Liu，Laurent Chappuis，Tatsuo Sato，聂建峰等
+国际铝合金大会自从1986年在美国弗吉尼亚大学召开以来，每两年一届，美洲、欧洲、亚洲地区轮流举办。是铝合金科学与技术及应用领域最高级别的会议，是全球铝工作者的盛会。第 15 届国际铝合金大会（以下简称ICAA15）预计参会人数500余人，其中国外代表约200人。全球主要的铝合金科研机构及铝合金制造应用企业均有代表参会，国内外顶级的铝合金科学家及工程技术专家大多将参会。本次会议侧重铝合金在交通运输领域的研究及应用，将为中国轻量化材料及中国汽车轻量化做出重要的推动用。
+ICAA15会议将在6月13日至6月16日在重庆富力假日酒店举行。会议将极大的促进中国铝行业及科研工作者与国际同行们的广泛深入交流，加强彼此的合作，提升国际同行对中国铝行业及科学研究的深入了解，提升我国铝业在世界范围的地位和贡献。
+会议设定九个分会主题，分别为：析出相变，熔铸与凝固，制备加工与热处理工艺，金属塑性与成形，强度、断裂与疲劳，腐蚀与表面性能，新工艺与合金设计，先进原子尺度表征，模拟计算。会议设置大会邀请报告、分会主题邀请报告、一般研究报告、海报及企业产品展示等形式进行研究进展和成果的交流。
+大会报告：
+1. Status and Development Trend of China Aluminium Industry. Hai Zhang, Suzhou Research Institute for Non-ferrous Metals, CHINA LCO, Research Institute of Science and Technology.
+2. The role of innovation in the manufacture of sustainable Al rolled products. James Liu Novelis Asia.
+3.Material specifications & recycling for the 2015 ford F-150. Laurent Chappuis, Ford Motor Company.
+4.Recent advances in research and industrial technologies for aluminum alloys in Japan. Tatsuo Sato, Aluminum & Copper Company, Kobe Steel Ltd.
+5.The roles of electron microscopy and modeling in aluminium alloy design. Jianfeng Nie, Monash University.
+更多信息详见：http://icaa15.cqu.edu.cn
+主讲人简介：
+张海：中国铝业集团首席科学家
+James Liu：诺贝丽斯亚洲区总裁
+Laurent Chappuis：美国福特汽车公司专家
+Tatsuo Sato：日本神户制钢公司专家
+聂建峰：重庆大学教授
+======
+An Environment-Enhancing Energy Paradigm -- Hydrothermal Processing of Biowaste and Algae into Biofuels with Nutrient Reuse, Wastewater Treatment and Carbon Capture
+主讲人 : 张源辉 教授
+Agricultural and biofuel production addictively rely on fossil fuel-derived fertilizer, which is the largest single source of reactive nitrogen in biosphere contributing to climate change. However, single-cycle nature fertilizer use would not meet the increasing food and bioenergy demand. Renewable energy can be obtained via various viable sources such as solar, wind and even geothermal. However, there is no clear sustainable pathway for renewable liquid fuels yet. A new paradigm, dubbed as “Environment-Enhancing Energy (E2-Energy)”, and a demonstration system has been established at University of Illinois.
+主讲人简介：
+张源辉教授，美国伊利诺依大学（UIUC) 讲席教授（Endowed Innoventor Professor in Engineering,农业与生物工程系历史上第一位讲席教授）；中国农业大学特聘教授；国务院海外专家咨询委员会专家委员。美国伊利诺依大学（UIUC）生物环境工程系学科主任，农业与生物工程系副主任，农业与生物工程系、机械科学工程系、土木与环境工程系和生物医学工程系教授；获奖奖项包括美国农业与生物工程学会HerryGeise奖，美国供暖、制冷与空调工程师学会杰出贡献奖。2010年到中国农业大学水利与土木工程学院兼职工作，开展环境增值能源将生物废弃物和微藻转化成原油的相关研究。
+======
+另眼看《水浒》，平心说侠义
+主讲人 : 蓝锡麟
+绵绵葛藟，在河之浒。
+梁山泊内藏虎豹，水浒神蛟一零八。
+苟安现状是林冲，忍辱如何不英雄。
+醉心功名数杨志，途穷且短义军适。
+敢作敢为鲁智深，嫉恶如仇性情真。
+出生不同性各异，妙笔神用造奇迹。
+《水浒传》产生于明代，全书以宋江领导的农民起义为主要题材，艺术地再现了中国古代人民反抗压迫、英勇斗争的悲壮画卷。作品充分暴露了封建统治阶级的腐朽和残暴，揭露了当时尖锐对立的社会矛盾和“官逼民反”的残酷现实，成功地塑造了鲁智深、李逵、武松、林冲、阮小七等一批英雄人物。水浒传中的侠义与好汉为人们津津乐道，它到底是一部什么样的小说？其中的侠义是一种怎样的特色文明和传统？重庆市文学艺术界联合会党组书记、副主席蓝锡麟先生与我们一起相约周二，另眼看《水浒》，平心说侠义。
+主讲人简介：
+蓝锡麟。四川南充人。1964年毕业于四川师范大学中文系。专业作家，文学创作一级。重庆市文学艺术界联合会党组书记、副主席，四川省文联副主席，省作家协会理事，中国文联全委，重庆市政协科教文卫体委员会副主任。享受政府特殊津贴。1974年开始发表作品。1993年加入中国作家协会。著有长篇报告文学《神女告诉我》，杂文集《人生几何》、《信口开河》，古代文学注评集《晏子春秋选》，编注《中国古代文化知识辞典》、《〈经史百家杂抄〉今注》等8部。评论《〈开国大典〉的艺术建构及其得失》、《评电影〈焦裕禄〉》分别获全国影评二、三等奖，杂文《且说当官的》获全国报纸副刊好作品三等奖，另有评论、杂文、报告文学、诗歌40余篇(部)。其作品曾多次获四川、重庆好作品奖。
+======
+A Smart New World: The Dream and Reality of Cyber Physical Systems
+主讲人 : P rof. Sang Son（IEEE Fellow，韩国工程院院士，韩国科学院院士）
+With continuing miniaturization and increased wireless connectivity, the computing systems are becoming deeply  ded into everyday life and interact with processes and events of the physical world. This cyber-physical interaction has the potential to transform how humans interact with and control the physical world. Systems featuring a tight combination of, and coordination between, the system’s computational and physical elements are broadly called cyber physical systems (CPS). Examples of CPS include medical devices and systems, aerospace systems, transportation systems, smart grids, robotic systems, and smart spaces. Advances in key technologies are changing how these types of systems operate. For instance, the level of uncertainty in which these systems operate is increasing, creating the need for greater robustness. Pervasive wireless access is pushing these systems to unprecedented dynamic and non-deterministic situations. There is a critical demand for CPS to be adaptive to provide robustness to meet the requirements. In this talk, we illustrate few examples of CPS, and discuss the research challenges that should be addressed to achieve the dream of a smart and safe new world.
+
+
+
+主讲人简介：
+Prof. Son现任韩国DGIST（大邱庆北科学技术院）研究生院院长以及DGIST CPS国际中心主任。Prof. Son曾担任美国弗吉尼亚大学计算机系教授，韩国西江大学WCU讲座教授。Prof. Son 分别于首尔国立大学（SNU）、韩国科学技术学院（KAIST）及马里兰大学帕克分校（UMCP）获得学士、硕士及博士学位。Prof. Son曾作为访问教授工作于韩国科学技术院（KAIST），香港城市大学（CityU），法国里尔中央理工大学（Ecole Centrale de Lille），瑞典林雪平（ oping）大学及瑞典舍夫德（Skovde）大学。
+
+Prof. Son现为IEEE Fellow，韩国工程院院士，韩国科学院院士。现任ACM Transactions on Cyber Physical Systems 副主编。曾担任IEEE Transactions on Computers（TC）, IEEE Transactions on Parallel and Distributed Systems（TPDS）及Real-Time Systems Journal等国际顶级期刊编辑委员会委员。Prof. Son 为ACM/IEEE CPS Week创始成员之一，同时担任RTCSA, CPS Week及SEUS等国际会议指导委员会委员，并曾荣获CPS Week 2012杰出贡献奖。Prof. Son主要研究领域包括信息物理融合系统，实时嵌入式系统，数据库与数据服务以及无线传感网络等。目前已在相关领域发表论文300余篇，著作4部。 根据Google Scholar统计，论文引用次数超过11,000次。
+======
+打造真正的大学课程
+主讲人 : 陆国栋
+大学教师在大学课堂面向大学生上的课是否是大学课程？毫无疑问是的，但是不是真正的大学课程？或许值得思考。我认为大学课程应该让“考生”成为学生，让教师成为“导”师，让教材成为参考书。
+指出大学教改基本路径，即以教为主向以学为主转变、以课堂教学为主向课内外结合转变、以结果评价为主向结果过程评价结合转变；提出了教学方法改革的三种模式，即研讨引入模式、考试切入模式、硬件介入模式；进一步提出教学激励保障教学改革，教学评价推进教学改革等举措，具有一定的借鉴意义。
+
+
+
+主讲人简介：
+陆国栋，男，1963年生。现任浙江大学本科生院常务副院长、竺可桢学院副院长、教师教学发展中心主任。浙江大学求是特聘教授，工学硕士、理学博士。担任2013-2017教育部工程图学课程教学指导委员会主任，浙江省实验教学指导委员会主任。受聘担任教育部视频公开课、资源共享课、创新创业训练计划、卓越工程师计划等专家组成员。主要从事工程图学、计算机图形学、机械工程的教学与研究，2006年第二届国家级教学名师奖获得者，获得多项国家级教学成果奖，在高等教育出版社、科学出版社、机械工业出版社出版教材和专著多部，获评多部国家级规划教材，发表教学论文100多篇。获得多项科技成果奖励，发表科研论文120多篇。
+======
+“面霸”修炼宝典：大学生面试技巧与策略
+主讲人 : 彭语良
+讲座从面试“身法”和“心法”两个维度出发，重点就大学生在面试时的着装、仪表、礼节、面试问答技巧等问题进行解读和分析，穿插现场演示和交流，帮助学生快速掌握求职面试技巧。
+
+报名参加：
+
+1、本次讲座实行预约制，总名额限200人，欲报从速，先到先得。报名截止时间为6月2日早上9点。
+2、唯一报名方式：关注就业中心官方微信“重庆大学学生就业”，微信号cquxsjy，点击下方栏目#预约报名-职通讲坛面霸修炼#进入报名通道；
+请报名同学保持手机邮箱畅通，密切关注公众号信息推送。未做其他通知视为自动报名成功。报名成功学生务必按照指定时间、地点准时参与,2点30分开始签到入场。
+3、参与同学可加入就业指导QQ群163529181，职业规划及就业指导活动不断，更有求职信息推送。
+主讲人简介：
+彭语良，副教授，硕士研究生导师。重庆市高校就业创业指导专家库首批成员，高级创业导师，国际创业导师协会高级教练。重庆邮电大学法学院人文教研部主任、《大学生创新与创业》课程负责人。重庆邮电大学第一届“十佳师德标兵”。多次获得 “优秀辅导员”、“优秀青年教师”、“就业工作先进个人”、“优秀教师”、“课堂教学优秀奖”等多项荣誉和奖励。熟悉大学生心理、行为特点，具有丰富的大学生学业生涯规划、就业、创业指导经验。
+======
+历久尚新的环境断裂
+主讲人 : 乔利杰 教授
+主讲人简介：
+乔利杰，北京科技大学教授，博士生导师。主要研究方向：材料的氢脆与应力腐蚀、材料的摩擦磨损研究、材料的失效分析。
+1997年获得国家杰出青年基金，1999年入选“长江学者”特聘教授，2005年入选教育部创新团队带头人，2010年评选为全国优秀科技工作者。是“863”主题项目首席专家、“973”材料领域咨询专家组成员。现任“材料基因工程”北京市重点实验室主任、北京科技大学腐蚀与防护中心主任。先后负责、主持完成了国家自然科学基金、国家“863”、“973”、国家支撑计划及省部级课题多项。出版专著3部、编著2部，SCI收录论文约400篇，曾获省部级科技进步一等奖3项，二等奖6项。
+主要学术兼职：中国腐蚀与防护学会监事长、“Anti-corrosion Methods and Materials”主编、“Materials Letters”编委、《中国腐蚀与防护学报》副主编、《材料保护》副主编、《自然科学进展》等期刊编委，国家自然科学基金“工程与材料”学部专家评审组成员。
+======
+主讲人 : 《Nature》系列期刊大中华区执行主编 Ed Gerstner
+为了响应重庆大学双一流建设规划，引导师生的学术成果发表在国际顶级刊物上，进一步增强学校的学术影响力和国际影响力，重庆大学图书馆特别邀请《Nature》系列期刊大中华区执行主编 Ed Gerstner博士走进重庆大学与师生交流，并就开放获取、论文选题与撰写、如何提升论文影响力、期刊发表流程等主题做专题讲座。
+报告主要内容简介：
+
+嗯，你有了一个非同寻常的发现，想告诉全世界。而且，你想把它发表在一份《Nature》系列期刊上。但该选哪个期刊呢? 是啊，为什么推出那么多《Nature》系列期刊呢？《Nature Communications》是干什么的，和其它《Nature》子刊有什么不一样吗? 开放获取是什么，有什么可关注的? 论文该怎么写，才能获得最大的影响力？在我的演讲中，我会尽量回答以上这些问题，以及任何在《Nature》系列期刊上发表论文的问题。我还会谈到：
+• 我们会寻找怎样的论文去发表？
+• 处理投稿的流程和机制；
+• 如何决定论文是否适合我们？
+• 提交论文要做怎样的准备？
+• 如果认为我们（或审稿人）的决定是错误的，那该怎么做？
+• 我们在中国寻找怎样的论文？
+报告内容英文简介：
+So, you've discovered something extraordinary and you want to tell the world about it. And you want to publish it in a Nature journal. But which journal should you choose? Indeed, why has Nature spawned so many new  s? What is Nature Communications, and what is it trying to do that other Nature journal don't do already? What is Open Access and why should you care? And how should you write up your research to maximise its impact? In this talk I'll try to answer these and any other questions you have about getting published in a Nature journal. I'll also cover:
+• What we look for in the papers that we consider for publication?
+• The mechanics of how submissions are handled;
+• How to decide if your paper could be for us?
+• How to prepare a submission?
+• What to do when you think we (or our referees) have got a decision wrong?
+• What are we looking for in China?
+主讲人简介：
+Ed Gerstner博士积极倡导科学，热切主张抓住新技术为开放获取所带来的机会。1997年他获得悉尼大学物理学博士学位，此后五年分别在悉尼大学、剑桥大学和萨里大学从事科研。2002年加入《Nature》杂志，先后担任《Nature》、《Nature Materials》、《Nature Physics》和《Nature Communications》的编辑。2012年前往上海，帮助建立自然出版集团在中国大陆的第一个编辑部。作为大中华区的执行主编，他的使命是为整个《Nature》系列期刊建立位于中国的编辑团队，以进一步密切与中国科研界的联系，阐释开放研究的益处，并帮助中国科学家将其科研成果发表在世界上最好的期刊上。
+
+Ed is a passionate advocate for science and the opportunities that new technologies promise for open research. He obtained his PhD in physics from the University of Sydney in 1997, and spent five years in research at the Universities of Sydney, Cambridge and Surrey. He joined Nature 2002 and has been an editor for Nature, Nature Materials, Nature Physics, and Nature Communications. In 2012 he moved to Shanghai to help launch Nature’s first editorial office in mainland China. As Executive Editor for Greater China, his mission is to build a team of China- d editors from across the Nature family, to forge closer  s with the Chinese research community, to explain the benefits of open research and to help Chinese scientists publish their research in the world’s best journals.
+======
+Automotive Body Structure – Functional Considerations
+主讲人 : Richard W. Vanker
+Body Structure in automobiles is a large, complex system that must perform several important functions for the total vehicle. The traditional Body Structure system consists of all welded body panels surrounding the passenger, powertrain and luggage compartments. Functional considerations for the Engineering of Body Structure includes considerations for all major vehicle attributes including safety, durability, aerodynamics, NVH (noise and vehicle harshness), vehicle mass and the packaging and attachment of all components.  Additionally, engineering of Body Structure must conform to the identified business assumptions for each vehicle program including program timing, manufacturing (tools, facilities and process) and cost (cost per vehicle and investment). This lecture will address all engineering considerations mentioned above.
+主讲人简介：
+Rick Vanker has broad and deep experience in Product Development and Research in the Global Automotive Industry.  Rick retired from Ford Motor Company in January, 2007 after 33 years in a variety of product design engineering, vehicle program management, advanced engineering and research positions.  His last assignment at Ford from 2002 to 2007 was as Director of Technology Deployment for Asia Pacific and Africa Division.  In this position, Rick was responsible for regional reorganization, development and training of Product Development activities in the Asia Pacific and Africa organization. He was also responsible for several core regional functions including Global Processes and Standards, Commonality, Reliability/Quality, Materials Engineering, Research, Advanced Engineering and Government Technical Affairs. A key accomplishment during this time was the planning, approval and initial launch of the Ford Research and Engineering Center in Nanjing, China.
+In January, 2007 Rick became President of Global Technology Deployment, LLC.  In this position, he provides consulting services for Automotive Product Development and Research activities in all regions of the world.  In March, 2007 he was selected as a registered consultant for the SAE International - Automotive Resource Institute. From July, 2007 until July, 2013, Rick was also the Ford Account Manager for the automotive supplier TWB Company, LLC and worked with Ford Body Engineering groups around the world to develop and implement cost and weight reduction designs using Tailor Welded Blanks for Body Structure and Closure panels on all car and truck programs.
+======
+面向绿色化工分子热力学及系统集成
+主讲人 : 张香平 中科院过程工程研究所研究员
+主持或主持完成国家自然基金重点、国家863、973计划课题、北京市重点基金等多项项目。在化工及能源环境领域国际主要期刊AIChE J., Chem. Eng. Sci., Ind. Eng. Chem. Res., Fluid Phase Equilib., Energy Environ. Sci., Environ. Sci. Technol., Green Chem., Fuel等发表SCI论文120余篇；授权发明专利15项，其中国际专利2项；应邀在国际会议作大会及主题报告10余次。2008年获中国石油和化学工业协会技术发明二等奖； 2009年获中国石油和化学工业协会科技进步一等奖；2010年获国家自然科学二等奖1项，其他省部级科技奖3项。
+主讲人简介：
+张香平，中国科学院过程工程研究所研究员、博士生导师，2014年获国家杰出青年科学基金。研究方向为绿色化工、化工热力学及过程集成优化、离子液体新型介质/材料设计、气体分离净化提质等清洁工艺技术开发。现任离子液体清洁过程北京市重点实验室副主任、中国化工学会离子液体专业委员秘书长、《化工进展》编委及25个国际SCI期刊审稿人，包括IECR,CEJ, EES, EST, JPC等。1994年获郑州工学院硕士学位，2002年获大连理工大学博士学位，曾于挪威科技大学从事温室气体减排及新能源方面研究。
+======
+Clean Energy Systems
+主讲人 : Prof. Jim Yang Lee
+This lecture discusses the key concepts in “clean energy” from source to end-use and emphasizes the importance of a systems approach to solving this complex problem for sustainable developments. Some common options such as solar energy and biofuels will be analysed in terms of these principles to understand the technological and socioeconomic challenges within. If time permits we will also discuss an even more complex sustainability issue – the waste-water-energy nexus.
+主讲人简介：
+Prof. Jim Yang Lee是新加坡国立大学的Full Professor，该校化学与生物分子工程系主任、能源技术研究所所长。1979获得新加坡大学化学工程理学学士学位；1985年获得美国密歇根大学（安娜堡校区）化学工程专业博士学位；1985-1987：德克萨斯大学奥斯汀分校博士后研究员；1987-今：新加坡国立大学化学和生物分子工程系教授。现在同时兼职于能源研究所和材料研究与工程研究所。  Prof. Jim Yang Lee的研究重点是纳米材料的合成和应用。他目前研究的项目包括锂离子电池、锂-硫电池、电化学催化剂、金属-空气电池等。他还致力于形状和尺寸控制合成纳米粒子和“绿色合成与简单的微生物和生物小分子的金属纳米粒子”。近年来，他在有影响力的国际期刊上发表文章300余篇、论文被引用次数超过17000次、H因子达72。
+
+Prof. Lee是美国化学会期刊《Industrial & Engineering Chemistry Research》的副主编、Wiely期刊Energy Technology编委会的成员；他还是美国汤森路透集团（Thomson Reuters）公布的2014年和2015年全球高被引科学家之一。
+======

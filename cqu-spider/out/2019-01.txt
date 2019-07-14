@@ -1,0 +1,38 @@
+耐蚀低合金结构钢组织结构调控关键基础问题研究
+主讲人 : 李晓刚 教授
+本研究对低合金结构钢在微纳米尺度上的腐蚀组织结构起源进行了探讨，指出夹杂物、显微组织、晶粒大小取向与畸变、析出相等四个方面及其彼此的协同作用是腐蚀的主要组织结构起源；提出了在不影响低合金结构钢强韧性、焊接性和其它性能前提下，提高其耐蚀性能的微合金化和组织调控的基本原则是：提高整体自腐蚀电位，单一组织或减小微观组织间电位差；保持阴极相面积比较小，阴极相弥散均匀分布的“小阴极大阳极”的组织设计，避免“大阴极小阳极”的微观组织设计；形成致密稳定的表面结构，提高α-FeOOH在致密表面锈层中的含量。
+主讲人简介：
+李晓刚，北京科技大学教授，中国腐蚀与防护学会常务副理事长，“海洋工程装备材料腐蚀与防护关键技术基础”973项目首席科学家、国家材料环境腐蚀平台主任。长期从事腐蚀与耐蚀钢冶金工程研究，系统获得了合金成分和冶金工艺参数对低合金钢环境腐蚀起源与演化机理的影响规律；提出了符合我国典型服役环境的全生命周期的低合金耐蚀钢成分设计与调控新思想；建立了低合金钢耐蚀性能冶金全流程调控的新理论；发明了低合金耐蚀钢系列新钢种并实现产业化生产；研制了高品质低合金耐蚀钢标准新体系；解决了国家重大工程多项钢铁材料腐蚀难题。发表包括《Nature》在内SCI论文476篇，专著13部（主编10部），他引6491次；获授权专利65件（国际专利2项）。以第一完成人获得国家科技进步二等奖2项、省部级科技进步一等奖5项和二等奖3项、行业科技一等奖5项。担任国际冶金专业类顶级期刊《Corrosion Science》顾问编委、国际腐蚀理事会理事；获美国国际腐蚀工程师协会（NACE）2015年度优秀团队奖、2016年度杰出技术奖和2019年杰出研究奖。
+======
+Computational Methods for Nonlinear Vibration of High-Speed Gears
+主讲人 : Prof. Robert Parker
+The use of gears in aircraft engines is an emerging technology being actively pursued by all the major engine manufacturers to improve fuel economy and thrust. The primary technical barrier is the structural integrity of the gears from vibration-induced fatigue. Aerospace gears experience unique vibration phenomena because they operate at high speeds and, in order to reduce weight, are thin-walled and elastically deformable. As a result, resonance, nonlinearity, and high-speed gyroscopic effects are important. Conventional finite element methods are unsuitable for dynamic analyses in these conditions. This talk describes two computational methods to allow fast, accurate dynamic analysis of aerospace gears. One method is a hybrid analytical-computational approach that draws on static finite element analyses in the numerical integration of an analytical model. The second approach is a harmonic finite element formulation that takes advantage of gear axisymmetry. Both methods are orders of magnitude faster than existing tools that are too slow to be realistically used. The two methods offer complementary advantages that, taken together, provide accurate calculation of natural frequencies, vibration modes, dynamic response, and dynamic stresses even in the presence of strong nonlinearity from the tooth contact and contact loss.
+主讲人简介：
+Prof. Parker is the L. S. Randolph Professor in the Department of Mechanical Engineering at Virginia Tech and Professor at Chongqing University. Previously he was a University Distinguished Professor and the Executive Dean at the University of Michigan-Shanghai Jiao Tong University Joint Institute. He received M.S. and Ph.D. degrees from the University of California, Berkeley.
+Prof. Parker is a Fellow of ASME and the American Association for the Advancement of Science. He received the 2015 ASME N. O. Myklestad Award for “major innovation in vibration research and engineering.” He has received the US Presidential Early Career Award for Scientists and Engineers, the National Science Foundation CAREER, and the US Army Young Investigator Awards, as well as the ASME Gustus Larson Award, Ford Chief Engineer Award, French government Poste Rouge Award, SAE Ralph Teetor Educational Award, and ASEE’s Global Engineering Educator and Outstanding Faculty Awards.
+Prof. Parker’s research examines the vibration and stability of high-speed mechanical systems. One focus has been gear vibration. He has also investigated the vibration of axially moving materials, cyclically symmetric systems, centrifugal pendulum vibration absorbers,  materials, disk-spindle systems, and the hydrodynamics of ocean wave energy harvesting devices. He has consulted for several companies internationally where analyses  d on his research have solved problems in the automotive, helicopter, wind turbine, and aircraft engine industries.
+======
+中国自主可控自主CAE软件研发
+主讲人 : 冯志强 教授
+计算辅助工程（CAE）软件是求解复杂工程问题强有力的工具。科学计算软件的一大需求在于复杂及可变数据结构的存储、提取和处理能力。对于用户而言，不仅需要强大的求解器，还需要良好的图形交互界面。此外，随着模型规模的不断增加和问题的日趋复杂（多尺度/多物理场），要求计算软件在流程控制和数据存取等方面有更大的灵活性和高效性。这就对系统设计、编程策略、程序维护和代码移植等方面提出了更高要求。我国过去在计算程序开发方面做了很多工作，但国内高校和企业仍然主要采用国外的商业软件（ANSYS，ABAQUS，NASTRAN， COMSOL，…），国外商业软件在中国的市场占有率高达97%，然而国外尖端领域的核心技术没有放入这些商业软件中，而是集成于其内部CAE平台中。因此，开发自主可控,通用性和开放性强的CAE软件平台和友好的用户界面势在必行。经过多年不懈努力和长期积累，我们攻克了一个又一个的技术难关，成功开发出面向对象跨系统CAE软件平台，包含CAD接口，前处理，求解器，后处理。我们通过固体力学有限元计算程序的集成展示如何降低专用软件开发难度及方便整体系统功能的扩展和维护。
+
+
+主讲人简介：
+冯志强，重庆大学工程力学硕士（1987），法国贡比涅科技大学(UTC)计算力学博士（1991），法国 Zetra System 软件公司高级工程师 (1992-1994)，法国贝尔福-蒙贝利亚科技大学(UTBM)副教授(1994-2000)，巴黎-萨克雷（Paris-Saclay）大学终身教授(2000-)，力学与热能实验室主任(2007-2018)，法国教学科研骑士勋章获得者。
+任职于西南交通大学，迈海材料基因组国际研究院院长(2017-)，重庆励颐拓软件有限公司创始人、首席科学家，中国数字仿真联盟副理事长，大连交通大学，石家庄铁道大学，西北工业大学客座教授，中国工程物理研究院客座研究员，中国力学学会产学研委员会委员，国际华人计算力学协会理事，《应用数学和力学》杂志编委。
+研究领域主要涉及材料本构，结构动力学，结构优化，各向同性与正交摩擦的接触问题建模，大变形建模 (超弹性、弹塑性、刚性-粘性-塑性、土体)，裂纹开裂与闭合模拟，结构的冲击模拟，金属变形过程模拟，生物力学模拟，微纳尺度模拟，虚拟现实及实时计算，多物理场模拟, 自主可控CAE软件开发。迄今为止，发表学术论文200 余篇，培养研究生40余名，主持多项科研项目。
+======
+可降解金属
+主讲人 : 郑玉峰
+可降解金属（Biodegradable  ls） 是21 世纪生物医用金属材料领域最热、最活跃的研究方向，自2012年首次被世界生物材料大会列为专题，2013年起先后有可降解镁合金骨釘、血管支架等三类植入器械产品获准上市销售。本报告基于报告人的相关研究工作，从可降解金属的定义与分类入手，进一步阐述可降解金属的生物降解性和生物相容性判据及其相关技术参数，以及依次双判据对元素周期表中的金属元素是否适合作为可降解金属的材料组分的筛选结果，最后结合可降解金属体外和体内生物学评价的相关研究结果，对生物安全性与有效性、降解调控、力学性能随时间的衰退等关键科学问题进行剖析，以期对未来可将劫匪金属的材料设计提供指导思路。
+主讲人简介：
+郑玉峰，北京大学工学院材料科学与工程系教授、博士生导师，科技部中青年科技创新领军人才（2017）。学术研究方向为新型生物医用金属材料与器械。作为项目负责人主持十三五国家重点研发计划、国家杰出青年科学基金（2012）、国家自然科学基金重点项目等40 余项，出版英文专著2本，中文专著6本，发表英文SCI论文400余篇，被引用12000余次，H-index为59，获授权发明专利30余项。社会兼职包括Bioactive Materials主编、Materials Letters编辑、Journal of Materials Science & Technology副主编、中国生物医学工程学会介入医学工程分会主任委员、中国生物材料学会医用金属分会副主任委员及候任主委、中国生物材料学会青年委员会副主任委员及候任主委等。
+======
+Surface Phenomena in Interdisciplinary Engineering Science
+主讲人 : Zuo Yi
+The research goal of our Laboratory of Biocolloids and Biointerfaces is to explore the fundamental nature of colloid and surface science, and to apply this knowledge to biomedical applications through an interdisciplinary and translational approach. This seminar will introduce our recent research in studying surface phenomena in interdisciplinary engineering science. I will discuss our latest invention in drop shape analysis and droplet manipulation, and multidisciplinary applications, including self-assembly mono s, interfacial rheology, two-dimensional phase transitions, pulmonary surfactants, and nano-bio interactions for understanding the environmental, health, and safety issues of nanotechnology.
+
+
+主讲人简介：
+Prof. Zuo earned his PhD in Mechanical Engineering from the University of Toronto in 2006. He is currently the Graduate Chair and Professor in the Department of Mechanical Engineering at the University of Hawaii at Manoa, and Adjunct Professor in the Department of Pediatrics in John A. Burns School of Medicine. Prof. Zuo's research interests are focused on general areas of colloid and surface science and their applications to areas of biomedical and biotechnological interest, such as applied surface thermodynamics, surface engineering, thin-film materials, pulmonary surfactants, particles, and environmental, health and safety impacts of nanotechnology. Prof. Zuo received the NSF CAREER Award in 2013 and the Faulty Research Award in 2016.
+======

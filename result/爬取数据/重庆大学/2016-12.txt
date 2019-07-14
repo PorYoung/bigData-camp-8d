@@ -1,0 +1,137 @@
+“门禁社区的业委会发展与社区治理——以中国广州为例”
+主讲人 : 何深静副教授，香港大学
+•    系列学术活动之一 ：香港大学—重庆大学“城市转型与治理”博士论坛
+论坛时间：12月23日（周五）14:00-18:10
+论坛地点：重庆大学建筑城规学院国际报告厅(5223)
+讨论嘉宾：（香港大学）何深静副教授
+（重庆大学）褚冬竹教授、徐苗副教授、毛华松副教授
+主持人：  （重庆大学）肖竞博士
+
+
+•    系列学术活动之二：专题讲座“门禁社区的业委会发展与社区治理——以中国广州为例”（何深静副教授，香港大学）
+讲座时间：12月23日（周五）19:30
+讲座地点：重庆大学建筑城规学院国际报告厅5223
+讨论嘉宾：（重庆市规划院城乡发展战略研究所）孟庆 副所长
+（重庆市渝中区发改委）高琳 副主任
+（重庆大学）黄瓴 教授
+（重庆大学）徐苗 副教授
+主持人：（重庆大学）杨震 副教授
+主讲人简介：
+何深静博士现任香港大学城市规划及设计系副教授，是国家优秀青年基金以及中国青年地理科技奖获得者；曾先后担任中山大学地理科学与规划学院副教授、教授、院长助理（2008-2014），哈佛大学设计研究院（Harvard GSD）访问学者（2014）, 英国卡迪夫大学规划与地理学院研究员（2006-2008）等职位。何博士目前担任Urban Studies的编辑、Journal of Urban Affairs, Geography Compass, International Planning Studies，Area Development and Policy，《热带地理》等期刊国际编委；还担任国际地理联合会（IGU）城市地理委员会指导委员、中国城市研究网络（UCRN）指导委员、亚太住房研究网络（APNHR）指导委员、中国地理学会城市地理专业委员会秘书长、人文地理专业委员会委员、中国城市规划学会城乡治理与政策研究学术委员会委员。
+======
+主讲人 : 王涌天
+======
+主讲人 : 朱亦鸣
+======
+A Foraging-Theoretic Approach to Software Engineering
+主讲人 : Nan Niu Ph.D
+Software development is a human-centric activity. Developers often spend valuable time carrying out information-intensive tasks, such as debugging, refactoring, and reuse. In this talk, I present an evolutionary-ecological understanding about how developers seek and collect relevant information in software engineering. The basic idea is to model developers as predators in pursuit of prey (the relevant information), and to leverage the optimal food-foraging principles to characterize a rational decision-making process. In this way, the optimal developer’s behavior can be mathematically formalized in light of the “built-in” mechanisms that evolved to help our animal ancestors to find food. I then describe two empirical studies on software traceability to apply the foraging-theoretic  work. I conclude the talk by sharing my vision for new research directions aimed at enabling developers to best shape themselves to their information and task environments, as well as enabling the environments to be best shaped to software developers.
+主讲人简介：
+Nan Niu, Ph.D. Assistant Professor, Department of EECS, University of Cincinnati, USA
+Nan Niu is an assistant professor with the Department of Electrical Engineering and Computing Systems, University of Cincinnati, USA. He received the B.Eng. degree from the Beijing Institute of Technology, the M.Sc. degree from the University of Alberta, and the Ph.D. degree from the University of Toronto, all in computer science. His current research interests include software requirements engineering, information seeking in software engineering, and human-centered computing. Dr. Niu is a recipient of the U.S. National Science Foundation Faculty Early Career Development (CAREER) Award and the best research paper award at this year’s IEEE International Requirements Engineering Conference (RE 2016).
+======
+Sustainable biomass for energy storage devices
+主讲人 : 张山青 教授
+纳米技术的开发和应用的研究，在半导体纳米材料、电化学分析、水质监控、有机污染物降解，能源转换和储存等方面。
+主讲人简介：
+张山青博士，现任职于格里菲斯大学环境学院，澳大利亚研究基金会（ARC） Future Fellow，澳大利亚昆士兰华人科学家与工程师协会副主席；中国科学院广州能源所客座教授，中国科学院王宽城优秀海外青年科学家（2010），Aqua Diagnostics Pty Ltd. 首席科学家。主要从事纳米技术的开发和应用的研究，在半导体纳米材料、电化学分析、水质监控、有机污染物降解，能源转换和储存等方面作出了出色的成果，在JACS, Nano. Lett.，Advanced Energy Materials，Analytical Chemistry, Journal of Catalysis, Environmental Science and Technology, Langmuir, Chemical Communications等国际著名期刊发表论文100余篇， 授权国际专利6项并商品化。
+======
+Unity3D专题培训
+主讲人 : 况山
+Unity3D专题培训预告
+培训简介：
+由重庆大学研究生创新实践基地举办，并由况山老师主讲的“Unity3D专题培训”将于12月13日——12月22日在研究生院708举行，上课时间为19:00-21:00，况老师将会教大家如何使用Unity3D。在这里，你可以学到3D建模的技巧，了解游戏开发的过程，体验VR设计的乐趣！欢迎同学积极报名参加。
+注意： 1、专题培训免费为广大师生开放，为保证课堂质量，名额仅限160人，先报先得。
+报名方式：关注重庆大学研究生创新实践基地微信二维码→进入基地微信点击我要报名（右下角）→进入Unity3D专题培训→填写信息后提交即报名成功。若报名成功后有广告信息，与本基地无关，请各位同学注意。
+2、本次培训不设置座位序号，先到自行选座；我们会在2016年12月11日以微信的方式给大家回复报名相关信息，报名成功后，请大家坚持完成全部课程内容。
+3、欢迎加入系列专题QQ交流群：383612269（请标明年级-学院-姓名，严禁广告）
+4、建议同学培训前自带电脑并安装Unity3D软件，以便更好得进行学习。
+课程内容介绍：
+Unity3D专题培训，热忱欢迎你的参与！
+欢迎关注“重大研究生创新实践基地”！
+重庆大学研究生创新实践基地
+重庆大学研究生科学技术协会
+2016年11月28日
+
+
+
+
+
+
+
+
+
+
+主讲人简介：
+讲师简介：
+况山，毕业于西南大学计算机专业，精通OpenGL、LWJGL、unity3D相关开发，2013年受聘汇众益智集团旗下汇众教育人才孵化基地担任项目经理兼总部技术研究院课程研发组成员，所带学员成就有《诛仙》、《完美世界3D》、《Planet Explorers》等知名游戏开发。
+汇众教育简介：汇众教育隶属于汇众益智集团，是专注于中国数字娱乐互联网领域职业教育及数字娱乐互联网产品研发制作的人才孵化及技术研发公司。
+======
+Understanding Mg Corrosion
+主讲人 : Professor Andrej Atrens
+This talk reviews the important factors that control Mg corrosion. The starting point is that although much service experience of Mg could be described as “atmospheric corrosion” our understanding of atmospheric corrosion is not as good as we would like. Nevertheless, it is well established that “high purity” AZ91 has corrosion rates substantially lower than that of Al alloy 380 and steel. There is much research that has elucidated the factors controlling Mg corrosion in aggressive solutions like 3.5%NaCl, which have been used to simulate auto service. The factors are (i) Fe impurity concentration, (ii) second phases, (iii) single phase alloys, (iv) crystallographic orientation, and (v) surface films. If time permits, the talk will also address solution factors of importance to the understanding of in-vivo corrosion, and the mechanism & thermodynamics of Mg corrosion.
+主讲人简介：
+Professor Andrej Atrens, School of Mechanical and Mining Engineering, Faculty of Engineering, Architecture and Information Technology, the University of Queensland. Prof Andrej Atrens's research interests are in: the service performance of engineering materials and alloy development. He lectures in Materials Engineering and is the Head of the Materials Division within the School of Mechanical and Mining Engineering. He received his PhD from the University of Adelaide in 1976 and his D.Eng. from the University of Queensland in 1997. His current research projects are mainly in the fields of: (1) Galvanic corrosion of Mg, (2) SCC of Mg alloys, (3) Corrosion in gas plants.
+======
+主讲人 : 张山青教授
+纳米技术的开发和应用的研究，在半导体纳米材料、电化学分析、水质监控、有机污染物降解，能源转换和储存等方面
+主讲人简介：
+张山青博士，现任职于格里菲斯大学环境学院，澳大利亚研究基金会（ARC） Future Fellow，澳大利亚昆士兰华人科学家与工程师协会副主席；中国科学院广州能源所客座教授，中国科学院王宽城优秀海外青年科学家（2010），Aqua Diagnostics Pty Ltd. 首席科学家。主要从事纳米技术的开发和应用的研究，在半导体纳米材料、电化学分析、水质监控、有机污染物降解，能源转换和储存等方面作出了出色的成果，在JACS, Nano. Lett.，Advanced Energy Materials，Analytical Chemistry, Journal of Catalysis, Environmental Science and Technology, Langmuir, Chemical Communications等国际著名期刊发表论文100余篇， 授权国际专利6项并商品化。
+======
+社会科学中的计算思维
+主讲人 : 李晓明 教授（北京大学）
+社会过程和经济过程有可能体现出某种计算的特征，计算机科学的思想方法有可能帮助我们更好的理解社会过程和经济过程。随着大数据的兴起，这种学科之间的互动变得频繁起来，近年来出现了一批交叉学科的成果。本讲座通过几个具体的例子来展现这种互动，分享讲者近年来在相关领域教学科研的体会。
+主讲人简介：
+李晓明，北京大学教授，中国计算机学会会士。曾任北京大学计算机系系主任，中国计算机学会副理事长，北京大学校长助理。近年来关注计算机学科与社会科学交叉的教学与研究问题，并积极推动慕课在教学改革中的应用。曾获国家教学成果二等奖，国家科技进步二等奖， 2013中国计算机学会王选奖，2014中国计算机学会杰出教育奖。
+======
+《考研英语阅读与写作解析》
+主讲人 : 刘博
+
+
+• 单词怎么背？
+• 长句怎么破？
+—— 四项基本功
+• 文章怎么读？
+—— 四层阅读渐进法
+• 文章怎么写？
+—— 优化语言输出路径
+主讲人简介：
+刘博：毕业于四川外国语大学英语专业，获硕士学位，主修英语教学法。美国哥伦比亚大学访问学者，四川外国语大学特聘讲师。重庆新东方教学管理部总监，主讲考研阅读和考研翻译，对教学教研有独特见解，做过关于《认知科学下的圈层教学模型》等报告。
+======
+主讲人 : 薛毅
+路遥的生平体现了新中国农村知识者的独特性，他们在历史进程中有着独特的意义和作用。《平凡的世界》不同于《人生》，在文坛受到冷落，但在民众中拥有极大的阅读量，最终获得文学史上的经典位置，如何解释这部作品，关乎如何认识新中国以来农村新文化，关乎如何想象未来。
+
+
+主讲人简介：
+薛毅，上海师范大学中文系教授，上海高校都市文化E-研究院特聘研究员。著有《无词的言语》、《当代文化现象与历史精神传统》。主编有《现代语文读本》、《西方都市文化研究读本》（四卷本）、《乡土中国与文化研究》、《鲁迅与竹内好》、《陈映真文选》；论文有《反抗者的文学》、《论鲁迅的文化论战》、《文学教育的悲哀》、《反思新语文运动》、《张承志论》、《荒凉的祈盼》等。曾获上海文学奖、上海哲学社会科学论文奖、霍英东优秀教学奖等。主要从事现当代文学研究、都市文化理论研究、鲁迅研究。
+======
+选调生考情分析与真题解析
+主讲人 : 迟鹏程
+2016年中央国家公务员、各省市公务员、选调生、村官、银行等选拔考试已经陆续启动，为了帮助重庆大学2017届、2018届毕业生同学更好的备考，提高求职能力，学生就业指导与服务中心将于2016年12月1日举办职通讲坛第53期《选调生考情分析与真题解析》活动，免费为公职类毕业考生提供政策指导服务。具体事宜安排如下：
+一、活动内容
+A、选调生考试考情分析   B、选调生考试重、难点解析
+C、选调生历年真题解读   D、选调生考试解题技巧指导
+二、面向对象
+2017届及2018届毕业生（仅限重庆大学学生）有意向报考国考、选调生、公职类考试的同学。求职过程需通过行政能力测试、申论、综合基础知识等选拔的毕业生。
+三、报名程序
+1、本次讲座实行预约制，总名额限250人，欲报从速，先到先得。报名截止时间为11月30日晚上23点。
+2、唯一报名通道：报名同学请关注就业中心官方微信公众号：重庆大学学生就业（cquxsjy），点击下方“预约咨询—选调生考情分析”栏目填写报名信息。
+3、请报名同学注意保持邮箱、手机通畅，密切关注公众号信息推送。报名成功学生务必按照指定时间、地点准时参与,14点45分开始签到入场。因名额有限，一旦报名成功不得随意缺席，请假需提前发邮件至3245199776@qq.com报备。
+4、联系人： 丰同学 15330344772
+王老师 023-65106715
+参与同学可加入基层就业QQ群 299239849。
+四、往期回顾
+就业中心举办第七期基层就业训练营
+重庆大学第六期基层就业训练营正式开营
+重庆大学第五期公职类基层就业训练营成功举办
+重庆大学第四届基层就业训练营成功举办
+重庆大学基层就业训练营第三期成功举办
+重庆大学成“公”之路基层就业训练营第二期成功开营
+重庆大学成“公”之路基层就业训练营第一期成功开营
+学生就业指导与服务中心
+2016年11月22日
+
+
+主讲人简介：
+中公教育重庆分校研究院院长，申论资深讲师。汉语言专业，对于申论学科具备扎实的理论功底，曾多次参与公务员考试，熟悉国家公务员与地方公务员、选调生考情及应对规律。曾多次在国考与市考中获得高分，夺得一类文写作佳分。其授课风格幽默诙谐，深入浅出。始终坚持：没有不好做的题目，只有不恰当的方法。深受广大中公学员喜爱。
+======

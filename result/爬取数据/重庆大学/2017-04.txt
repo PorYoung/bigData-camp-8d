@@ -1,0 +1,174 @@
+Testing Multithreaded Programs as if They were Sequential
+主讲人 : 杨子江（西密西根大学计算机科学系教授）
+Developing multithreaded software is challenging because the basic assumption underlies sequential software testing -- the program behavior is deterministic under fixed inputs -- is no longer valid due to the nondeterminism brought by thread scheduling. In this talk, we present a proactive testing approach to restore this basic assumption so that programmers can test multithreaded programs as if they were sequential. Our approach is  d on a synergistic integration of symbolic analysis and dynamic analysis techniques. In particular, symbolic analysis is used to predict program behavior under multiple thread interleavings and drive automated executions further. Dynamic analysis is used to explore executions with new instructions and guide symbolic analysis further. The net effect is a systematic and complete coverage of the program behaviors under a fixed input vector. We haven implemented the proposed method in a software tool. Our experiments show that the new method outperforms both ESBMC and Maple, two state-of-the-art testing tools for multithreaded programs, in terms of efficiency.
+欢迎广大老师、同学届时参加，并针对有关问题做现场交流！
+主讲人简介：
+杨子江博士现任西密西根大学计算机科学系教授。他1996年于中国科技大学计算机系获得学士学位，1999年于美国赖斯大学计算机科学系获得硕士学位，2003年于美国宾夕法尼亚大学计算机与信息科学系获得博士学位。杨博士目前主要从事软件测试及验证领域的研究。迄今为止发表了70余篇论文(包括CCF推荐A类论文16篇和B类论文22篇)及十项美国专利。他获得2008年度ACM TODAES 最佳期刊论文奖, 2008年西密西根大学工学院青年学者奖，2010 PADTAD最佳会议论文奖，2015年谷歌计算机 Engagement奖，和2015年西密西根大学工学院研究成就奖。杨子江博士是国际电子电气工程师协会（IEEE）资深会员，并担任过密西根大学电子与计算机科学系访问教授，NEC 公司美国研发中心科研顾问，美国自然科学基金评委，美国宇航局博士后评委，美国能源部科技企业基金评委等职。杨博士将担任2019年IEEE国际软件测试大会ICST共同主席。
+======
+Innovative Abiotic Technologies Amenable for Environmental Remediation of Halogenated Chemicals
+主讲人 : Linda S.Lee 教授
+环境中卤代化合物的原位修复新技术
+主讲人简介：
+Linda S.LEE，美国普渡大学农学系教授，博士生导师，现任普度大学农学系副系主任、环境与生态工程部名誉教授、ESE研究中心主任、环境研究中心副主任，美国化学学会（ACS）、美国土壤学会（ASA）、美国土壤科学学会（SSSA）、美国环境毒理学与化学学会、美国科学进步协会、科学进步联盟（(TASSC)）等科学组织理事，美国科学和环境委员会委员、印第安纳州水资源研究中心教授和外部咨询委员、EPA同行咨询专家。Vadose Zone J. 和J. Environ. Qual.期刊副主编、美国人类和环境健康等委员会委员。
+主要从事环境中有机污染物痕量分析、归趋及先进修复技术等研究工作，以第一作者或通讯作者身份发表SCI论文92篇，其中30余篇发表在环境领域top期刊Environ. Sci. Technol.，29篇报告、>175篇学术摘要，著作8部。获COA杰出研究生导师奖、γσδ最有价值研究奖两次、γσδ最优教学科研奖、普渡大学最佳研究生导师奖、SSAJ卓越评审奖、ES&T最佳审稿人。
+======
+核安全发展史及其启示
+主讲人 : 郭建兵研究员
+从核安全发展历史出发，介绍了确定论安全管理的重要事件、基本概念、由来，和基本框架，结合确定论方法的困境和缺点，讲述了概率论方法的发展和壮大的历程，并对未来的发展趋势进行展望。
+主讲人简介：
+郭建兵，男，研究员级高级工程师。现为苏州热工研究院运行技术部总工程师，中国核能行业协会核风险管理专题工作组副组长兼专家组组长。
+长期从事核电厂概率安全评价（PSA）模型开发和风险指引应用技术的研究工作，全面掌握PSA的理论和分析方法，在国内PSA领域具有很高的声望和权威性。
+近几年来，作为项目负责人，主持完成了多个核电厂PSA模型开发和应用的重大项目。2012年参与ACPR1000型号研发工作，担任副总设计师和PSA专项技术负责人，承担PSA专业的技术决策。
+多年来积极参与国家核安全监管有关技术文件和国家能源行业技术标准的编制工作。参与国家核安全局PSA应用技术政策的审查和PSA应用导则技术译文的编写与审查，作为第一完成人主持编写了国内第1份PSA技术标准，并作为主要完成人之一，参与了多份PSA有关的技术标准。
+是国内在PSA开发和应用领域最具有工程实践经验的专家之一，具有很强的解决本专业全局性复杂问题的能力，并取得了丰硕的成果。2003年以来，作为主要成员省部级和中广核集团科技进步奖。
+======
+高分子材料的可持续发展
+主讲人 : 王玉忠
+报告内容：
+1、高分子材料发展现状；
+2、生物基与生物降解高分子
+3、高分子(材料)的功能化与高性能化
+主讲人简介：
+王玉忠，1961年生，中国工程院院士，有机高分子材料专家，四川大学教授。创建环保型高分子材料国家地方联合工程实验室、环境友好高分子材料教育部工程研究中心等研究基地，并任主任。主要从事高分子材料的功能化与高性能化研究，特别是在阻燃和生物降解材料等领域取得了系统的理论和应用成果。发表SCI论文430余篇，SCI引用9200余次，出版专著、教材和手册5部；获授权发明专利110余项，大量专利实施应用，取得显著经济与社会效益；作为第一完成人，获得11项国务院、教育部和四川省的技术发明奖、科技进步奖和自然科学奖。近年在境外国际会议做大会邀请报告（Plenary）和主题邀请报告（Keynote）22次，担任国际会议大会主席6次。荣获四川大学首届“最受学生欢迎教师奖”、四川大首届产学研合作年度杰出贡献奖最高奖。
+======
+绿能产业发展、国际环境公约与WTO自由贸易精神之调和
+主讲人 : 许耀明
+1、国际环境法概论
+2、国际间重要环境公约
+3、绿色能源发展与自由贸易之调和
+
+
+主讲人简介：
+许耀明，男，1970年生，台湾大学政治系与法律系本科（法学学士、政治学双学士）、台湾大学法律研究所专业硕士（法学硕士）、法国爱克斯马赛大学欧盟法、法律理论专业硕士（双法学硕士），法国爱克斯马赛大学国际法与欧盟法专业博士（法学博士），台湾政治大学法学院副教授、博士生导师。曾任月旦法学杂志副总编辑。
+======
+个人化、人民性与历史观 兼谈“新社会主义文学”
+主讲人 : 刘继明
+长期以来，文坛流行一种书写个人琐事和欲望，陶醉于“身边小小的悲欢，而且就看这小悲欢为全世界”的所谓“个人化写作”，日益呈现出将个人与人民、个人叙事和宏大叙事对立起来的征候。“人民”概念，既蕴涵着无数的具体的个人，又意指人的“集合”，体现着一个民族和时代的集体意志，是社会发展的主体和原动力，孕藏着生生不息的凝聚力和创造力，也是文学“人民性”的源泉和旨归。
+
+
+主讲人简介：
+在中国文坛，刘继明被视为“少有的具有思想能力和知识分子气质”、“能够对思想文化乃至社会问题发言”的当代作家之一。曾获屈原文艺奖、湖北文学奖、徐迟报告文学奖、中国文联文艺评论奖一等奖及《上海文学》、《小说选刊》优秀作品奖。近著《人境》入选2016《收获》长篇小说排行榜，入围第三届路遥文学奖。部分小说和随笔被译介到国外。
+从上世纪80年代中期开始文学创作，主要作品有中短篇小说《前往黄村》、《海底村庄》、《启蒙》，长篇小说《仿生人》、《一诺千金》、《江河湖》、《人境》，随笔和文论《我们怎样叙述底层》、《用作品构筑我们的道德》，长篇报告文学《梦之坝》以及《刘继明诗选》等。
+======
+主讲人 : 刘小红
+报告将分析我国儿童亲子阅读发展现状，介绍国内外儿童亲子阅读的不同方法，并择优推荐常用的亲子阅读技巧。指导家长了解亲子阅读的延伸范畴，以及如何更好的通过亲子阅读，提升儿童阅读能力以及家庭幸福感。
+主讲人简介：
+刘小红，博士，重庆第二师范学院副教授，中国童蒙文化委员会理事，重庆市南岸区学前教育发展与指导中心特聘专家，重庆第二师范学院0-6岁儿童家庭教育研究中心执行负责人。
+======
+人群中的人：黑色电影和现代侦探
+主讲人 : 毛尖
+作为好莱坞侦探电影中的一种特殊类型，黑色电影往往以善恶不明的道德观和来自性动机的题材而著称。在黑色电影的世界里，法律和秩序是人们挂在嘴上而疏于实践的；文明人和野蛮人说着同一种语言，住在同一屋檐下，大街小巷随时会飞出子弹，而现代侦探，就是试图使一切回复到人性的尺度。本次讲座通过解读黑色电影的几部始祖片，描述同时作为“人群中的人”的罪犯和侦探，这些奔波在穷街陋巷里的人，让黑色电影成为一种特效电影，一种感官电影，一种矛盾电影。低廉感是黑色电影的灵魂，低俗则是它的方法论。
+
+
+主讲人简介：
+著名作家，影评人，华东师范大学对外汉语学院教授，上海作家协会理事，上海电影评论协会副会长，曾获2015年华语文学传媒大奖散文家奖。她的研究涉及20世纪中国文学和电影、世界电影、英美文学，著有《非常罪，非常美：毛尖电影笔记》、《当世界向右的时候》、《慢慢微笑》、《没有你不行，有你也不行》、《乱来》、《这些年》、《例外》、《有一只老虎在浴室》、《一直不松手》、《永远和三秒半》、《我们不懂电影》等。
+======
+主讲人 : 李春
+主讲人简介：
+李春，教授/博士生导师、国家杰出青年科学基金获得者。北京理工大学理学与材料学部副主任，生物化工学科责任教授。1995年在石河子大学获得微生物学硕士学位，2001年获天津大学生物化工博士学位，2003年清华大学化工系博士后出站，2011-2012年在美国伊利诺伊大学香槟分校（UIUC）从事合成生物学研究。已发表学术论文243篇，其中SCI收录94篇、EI收录101篇，其中，单篇引用超过100次的论文2篇，超过60次的8篇，ESI高被引论文1篇。编著英文教材和著作3部章。申请国家发明专利36项，获授权专利21项，获省部级科技成果奖4项。2004年入选教育部“新优人才计划”，2005年获“霍英东青年基金奖”，2006年享受国务院政府特殊津贴。现担任中国工业生化与分子生物学分会副理事长、中国生物工程学会工业与环境生物技术专业委员会副主任、中国化工学会生物化工青年工作委员会副主任、中国微生物学会分子微生物与生物工程分会委员；《Frontiers in Bioengineering and Biotechnology》副主编、《Synthetic and Systems Biotechnology》、《化工进展》、《过程工程学报》、《农业工程学报》、《生物加工过程》编委。
+主要研究内容：
+1、生物催化与酶工程
+2、代谢工程与合成生物学
+3、微生物解盐促生与植物互作
+4、空间生物技术
+代表性论文
+1、Zhang Genlin, Cao Qian, Liu Jingzhu, Liu Baiyang, Li Jun, and Li Chun*. Refactoring ß-amyrin synthesis in Saccharomyces cerevisiae.  AIChE Journal. 2015, 61: 3172–3179
+2、Li Zhe, GuoXiaoxiao, Feng Xudong, Li Chun*. An environment friendly and efficient process for xylitol bioconversion from enzymatic corncob hydrolysate by adapted Candida tropicalis. Chemical Engineering Journal. 263 (2015) 249–256
+3、Zhao Fei, Li Zhe, Wang Lixia, Hu Chuangang, Zhang Zhipan, Li Chun* and Qu Liangti*.Supramolecular quantum dots as biodegradable nano-probes for upconversion-enabled near-infrared luminescent bioimaging. Chemical Communications, 2015, 51, 13201 - 13204
+======
+全球危机与中国道路
+主讲人 : 温铁军
+在全球危机与中国的去工业化背景下，生态文明作为国家战略的一项重大调整而提出。中国作为一个有数千年国家史的原住民人口大国和城乡二元结构矛盾的超大型国家，在现代化进程中，经济上遭遇产业资本，金融资本、商业资本的三大过剩。与此同时还伴随着国情约束与安全压力趋紧之下的工业化、信息化、城镇化与农业现代化的进程，对此，中央政府与时俱进，提出重大战略调整及生态文明理念与民生新政。
+
+
+主讲人简介：
+著名经济学家、“三农”问题专家。中国人民大学学术委员会副主任、中国人民大学可持续发展高等研究院执行院长、农业与农村发展学院创院院长；兼任西南大学中国乡村建设学院执行院长。
+2005年以来先后被聘为国家环境咨询委员会委员、国家环保部战略环评专家，农业部、国家林业总局、卫生部等部委特聘专家；2006年当选“中国环境大使”，2007年当选中国农业经济学会副会长，2008年受国务院学位委员会聘任为第六届学科评议组农林经济管理组成员。2000年获长江读书奖，2003年获 “CCTV年度经济人物奖”，2009年获北京市教育教学成果一等奖、“绿色中国年度人物奖”等。
+======
+跨国主义与美国移民史学
+主讲人 : 王心扬
+近年来兴起的“跨国主义”思潮给美国移民史学，特别是亚裔美国史学，带来了巨大的冲击。曾经被视为禁忌的观点，包括“双重民族主义”和“散居论”，正得到越来越多学者的认同。在“跨国主义”思潮影响下，一些已成定论的观点正得到大幅修正。不过，虽然“跨国主义”理论为美国移民史的研究开了风气，但如果我们过分强调跨国因素，进而轻视甚至否定民族国家的作用，也会令移民史的研究走上歧途。
+
+
+主讲人简介：
+王心扬教授，祖籍浙江海宁。1977年考入南开大学外语系英文专业，1979年为历史所美国史专业研究生，毕业后赴耶鲁大学攻读美国史方向博士学位。1988年至今，先后任职、任教于新加坡东亚哲学研究所、美国华盛顿州立大学比较美国文化系及历史系、香港科技大学人文学部。现兼任上海交通大学人文学部讲席教授、山东大学人文社科一级教授、《文史哲》英文版常务副主编。
+主要研究方向为美国社会史，著有Surviving the City: The Chinese (and Italian) Immigrant Experience in New York, 1890-1970 (Roman & Littlefield Publishers, 2001) 等专著3部，在 The American Historical Review, New York History, Studi Emigrazione, Labor History, Amerasia Journal,《世界历史》、《新史学》、《台大历史学报》、《南开学报》、《史学集刊》等国内外重要期刊发表论文和评论数十篇。
+======
+界面和表面催化
+主讲人 : 傅强
+主讲人简介：
+个人简介：
+1996年和2000年在北京理工大学分别获得学士和博士学位；2000年到2006年先后在德国马普学会金属研究所(Max Planck Institute for  l Research)和Fritz Haber研究所(Fritz Haber Institute of the Max Planck Society)做博士后研究；2006年受聘到中国科学院大连化学物理研究所工作，2008年获中国科学院"百人计划"择优支持。现为催化基础国家重点实验室副主任、研究员、博士生导师，大连洁净能源国家实验室能源基础与战略研究部研究组组长。
+1999年获首届中国科学院奖学金；2000年获德国马普奖学金； 2008年获首届中科院沈阳分院优秀青年学者奖；2011年获辽宁青年科技奖；2013年国家自然科学基金优秀青年基金；2015年辽宁省“百千万人才工程”百人层次人选。
+主要研究方向为表面和界面催化，利用先进的表面与界面研究方法在原子和分子层次上理解多相催化过程，探讨多相催化中的微观反应机制以及对催化反应的调控，实现定向合成新型高效纳米催化体系，应用于重要的能源和反应过程。
+具体研究方向：
+1． 两维材料限域界面催化：构建石墨烯、h-BN等两维材料与金属的纳米复合催化剂，研究两维结构对金属表面催化的限域催化效应；
+2． 氧化物表界面催化：构建氧化物/金属界面催化体系，研究活性组分间的界面效应及氧化物-金属相互作用；
+3． 发展原位动态表面催化研究新技术：发展近常压表面表征新技术，实现在反应条件下进行气-固界面甚至液-固界面原位研究，开展多相催化和电池过程的Operando研究。
+主要研究手段：
+1）分子束外延(MBE)/X射线光电子能谱仪(XPS)/紫外光电子能谱仪(UPS)/高分辨电子能量损失谱仪(HREELS)/变温扫描隧穿显微镜(VT-STM)联合系统一套；2）分子束外延(MBE)/光发射电子显微镜(PEEM)/低能电子显微镜(LEEM)联合系统一套；3）X射线光电子能谱仪(XPS)/近常压PEEM/高压反应器联合系统一套；4）环境原子力显微镜一套；4）针对实际催化剂开展催化反应性能评价的微反应器多套。
+代表性文章  REPRESENTATIVE PUBLICATIONS
+1.Qiang Fu*, Xinhe Bao, “Surface chemistry and catalysis under two-dimensional materials”, Chemical Society Review, 2016, DOI: 10.1039/c6cs00424e;
+2.Dehui Deng, Kostya Novoselov*, Qiang Fu, Nanfeng Zheng, Zhongqun Tian*, Xinhe Bao*, “Catalysis with two-dimensional materials and their heterostructures”, Nature Nanotechnology, 2016, 11, 218-230;
+3.Feng Jiao, Jinjing Li, Xiulian Pan*, Jianping Xiao, Haobo Li, Hao Ma, Mingming Wei, Yang Pan, Zhongyue Zhou, Mingrun Li, Shu Miao, Jian Li, Yifeng Zhu, Dong Xiao, Ting He, Junhao Yang, Fei Qi, Qiang Fu, Xinhe Bao*, “Selective conversion of syngas to light olefins”, Science, 2016, 351, 1065-1068;
+4.Qiang Fu*, Fan Yang, Xinhe Bao*, “Interface-confined oxide nanostructures for catalytic oxidation reactions”, Accounts of Chemical Research, 2013, DOI: 10.1021/ar300249b
+5.Qiang Fu, Weixue Li, Yunxi Yao, Hongyang Liu, Haiyan Su, Ding Ma, Xiangkui Gu, Limin Chen, Zhen Wang, Hui Zhang, Bing Wang, Xinhe Bao*, “Interface confined ferrous sites for catalytic oxidation”, Science 2010, 328, 1141-1144
+======
+航天航空催化剂技术
+主讲人 : 黄延强
+主讲人简介：
+个人简介：
+大连化物所航天催化与新材料研究室副主任(主任为张涛院士)，特种能源催化过程研究组组长，研究员。2002年毕业于大连理工大学化工外贸专业获双学士学位；2008年毕业于中国科学院大连化学物理研究所工业催化专业获博士学位；2010年10月以访问学者身份赴西班牙卡迪斯大学学习高分辨电镜表征技术；2013年12月以访问学者身份赴美国哥伦比亚大学进修。目前，主要从事负载型高分散金属催化剂的制备、应用以及结合高分辨电镜等技术的表征工作，在Nature Commun., Angew Chem., EES等国内外刊物上发表论文80余篇，申请发明专利30余件。承担国家安全重大基础研究、装备发展部预先研究项目、国家重点研发计划、国家自然科学基金委以及国家电网等多个项目。先后入选中国科学院青年创新促进会会员、辽宁省百千万人才工程、大连市杰出青年科技人才等荣誉称号,获得大连化物所青年优秀奖、辽宁省自然学术成果一等奖等奖励。
+主要研究方向：
+1. CO2催化转化
+高活性CO2化学转化催化剂的探索与开发；
+CO2催化转化的反应机理研究；
+基于CO2高效转化的反应系统设计。
+2. 液体储氢材料催化分解释氢
+高选择性水合肼分解制氢催化剂的设计合成及反应系统的开发；
+甲酸、甲醇等液体储氢材料的高效分解释氢；
+基于原位表征技术的催化释氢机理研究；
+3. 面向高分散金属催化剂的高分辨电镜表征技术
+高分辨透射电镜表征；
+高分辨扫描电镜表征；
+原位透射电镜表征；
+代表性文章  REPRESENTATIVE PUBLICATIONS
+1. Pd@C3N4 Nanocatalyst for Highly Efficient Hydrogen Storage System  d on Potassium Bicarbonate/Formate. AIChE J, 62 (2016) 2410. 通讯作者
+2. The Influence of Pretreatment Temperature on the Catalytic Performance of Rutile TiO2-supported Ruthenium Catalyst in CO2 Methanation. J. Catal., 333 (2016) 227. 通讯作者
+3. A Schiff-  Modified Gold Catalyst for Green and Efficient H2 Production from Formic Acid. Energy Environmental Science, 8 (2015) 3204. 通讯作者
+4. Promotion Effect of Oxide for Ni Catalyst in H2 Production via Selective Hydrous Hydrazine Decomposition. ACS Catalysis, 5 (2015) 1623. 通讯作者
+5. Structural and Catalytic Properties of Supported Ni-Ir Alloy Catalysts for H2 Generation via Hydrous Hydrazine Decomposition. App Catal B, 147 (2014) 779. 通讯作者
+======
+主讲人 : 童庆生
+二十世纪伟大的语文学家爱瑞赫·奥尔巴赫（Erich Auerbach，1892 － 1957）被认为是“比较文学的奠基者”，“流亡知识分子的榜样”和“世界文学研究的预言家”。在其著名的“语文学和世界文学“（1952）一文中，奥尔巴赫有感于二次世界大战对人文科学和人文精神的破坏，通过梳理语文学和人文主义的历史渊源，试图重建文学研究的人文主义的传统和精神。在半个多世纪后的今天，我们面临着同样或相似的问题。本文以奥尔巴赫为切入点，回顾世界文学深厚的语文学（philology）传统，讨论在新的历史条件下重新认识和推动世界文学研究的意义和价值。本文的关注点包括：1）世界文学的语文学（philology）传统及其人文主义精神；2）世界文学和全球化、世界文学和民族文学之间的关系。
+
+
+主讲人简介：
+童庆生，英国伦敦大学英国文学博士，英国科学院­国王学院（伦敦）博士后，哈佛­燕京研究员，1992年至2014年任职香港大学英文学院，获终身合同，其间曾任英文学院院长，担任多份国际学术杂志和丛书的编委或名誉编委，包括重要的文艺批评理论杂志boundary 2: an international journal of literature and culture 和《现代世界里的中国和西方丛书》(悉尼大学出版社)，策划并主编英文丛书《批评域：中西批评知识论坛》（Critical Zone, 3卷），应邀参加获第一届中国政府图书奖的《二十世纪外国文学史》的编、写工作。现任中山大学博雅学院、外国语学院教授，博士生导师，中山大学“百人计划”（二期）“学科带头人”，香港大学英文学院名誉教授。近几年的学术工作重点是中英文化关系史的研究，加深理解西方（尤其是英国）的中国观念的形成和发展及其对当代中国形象的影响；研究领域包括世界文学，英国知识分子和中国，英国十九世纪文学，文学理论的实践和应用。曾于2015年11月26日在中山大学做题为《燕卜荪的‘圣山’：诗歌、批评和爱》的讲座。
+======
+RFID and Its Potential in Manufacturing and Supply Chain Management
+主讲人 : 林明锦（Ming K. Lim）教授
+主讲人简介：
+林明锦（Ming K. Lim），英国考文垂大学教授，主要研究方向包括：供应链与运作管理，可持续供应链，RFID等相关内容。其研究成果发表在Journal of Cleaner Production, International Journal of Production Economics, International Journal of Logistics: Research and Applications, International Journal of Production Research, Industrial Management & Data System, Production Planning and Control, European Journal of Operational Research, Journal of the Operational Research Society, Expert Systems with Applications等多份国际期刊上。林教授目前担任SSCI期刊International Journal of Logistics Research and Applications联合主编，同时是RFID Advanced Research Alliance的创始人。
+======
+Introduction of Modern Gleason Bevel Gear Technology
+主讲人 : 樊奇
+Dr. Fan will first brief the profile of Gleason Corporation including its location, branch offices and plants, and product scope as well. Dr. Fan will also review historic scholars and scientists who have made significant impact and contributions in the field of gearing. Then, Dr. Fan will introduce modern Gleason bevel gear technology in general, which includes theoretical basis of bevel gear design, software programs, machines, and manufacturing processes. Dr. Fan welcomes questions from the audience after the presentation.
+主讲人简介：
+樊奇博士现任美国格里森公司（Gleason Corporation）资深齿轮理论家及中国区齿轮技术总监，美国机械工程师协会ASME 会士 (Fellow)。任美国机械工程师协会动力及齿轮传动专业委员会学术主席（Technical Chair），同时也是美国机械工程师协会《机械设计期刊》(Journal of Mechanical Design)的连任副主编，专门负责齿轮及传动方向论文的审阅。
+樊奇博士是世界著名齿轮啮合原理鼻祖李特文( Faydor L. Litvin)教授的博士生，早期他曾在武汉理工大学任副教授从事机械原理和机械零件等相关课程的教学和科研工作十多年。樊奇博士长期从事齿轮啮合原理的研究，在齿轮接触分析，模拟，修形，数字化制造，以及新型齿形研究等方面具有突出的学术贡献， 发表了诸多SCI高引用率的文章并获美国专利。曾获美国航空航天局NASA颁发的科技成果奖及英国机械工程师协会颁发的托马斯科技成果奖。
+======
+主讲人 : 张盼 杨娜
+经管学院博士生分享如何写好一篇论文，主要从如何选题、如何进行学术创新以及如何选择投稿单位等方面讲述。
+主讲人简介：
+杨娜   重庆大学经管学院应用经济学在读博士研究生，发表过多篇论文，参与多项科研项目及国际会议，并曾作为访问学者到英国伦敦大学伯贝克学院等学校游学。
+张盼  重庆大学经管学院管理科学与工程专业物流与供应链管理方向硕博连读博士研究生，在SSCI、SCI、EI上发表过多篇重要论文，参与多项国家自然科学基金项目，多次获得国家奖学金。
+======
+某新型防弹衣的研发
+主讲人 : 庄茁
+结合防弹衣的研究历史及现状，从材料设计、仿真实验、现场检测、动物实验等方面介绍第二代防弹衣的开发研制全过程。
+主讲人简介：
+庄茁，男，辽宁省沈阳市人，博士，清华大学航天航空学院教授和博士生导师、先进力学与材料中心主任，国家973首席科学家。主要从事固体力学、飞行器结构力学、断裂力学和非线性有限元的研究。
+发表学术论文260多篇，其中被SCI收录110余篇、EI收录50余篇；出版17部学术书籍，其中专著3部（含英文1部），编著9部，译著5部。论文和专著他引3000多次。获3项计算机软件著作权。
+教育部高等学校力学类专业教学指导委员会副主任委员；国际计算力学学会理事（iacm General Council Member）；中国力学学会常务理事，计算力学专业委员会主任委员；中国宇航学会航天运载系统专业委员会委员；北京力学会理事长；国内外7种期刊副主编或编委。
+======
