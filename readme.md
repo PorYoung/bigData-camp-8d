@@ -18,3 +18,7 @@
 ## 项目
 
 重庆大学学术看板爬虫及数据处理、数据可视化分析，在`cqu-spider`目录，数据在`cqu-spider/out`目录
+
+![总词云](https://i.loli.net/2019/07/14/5d2b1c4d4033d84582.png)
+
+![2017年词频](https://i.loli.net/2019/07/14/5d2b1cea9c64198711.png)
