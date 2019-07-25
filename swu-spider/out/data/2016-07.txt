@@ -1,0 +1,128 @@
+西南大学计信院前沿学术报告
+Southwest University IT Faculty Seminar
+
+ 
+
+报告题目：An Activity Report of CNES - the Centre of New Energy Systems at the University of Pretoria
+报  告  人：夏小华教授 南非工程院院士、科学院院士、IEEE fellow
+时        间：2016年7月11日（星期一）上午9：30 - 11：00
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+ 
+
+报告人简介:
+        Prof. Xiaohua Xia obtained his PhD degree at Beijing University of Aeronautics and Astronautics, Beijing, China, in 1989. He stayed at the University of Stuttgart, Germany, as an Alexander von Humboldt fellow in May 1994 and for two years, followed by  two short visits  to Ecole Centrale de Nantes, France and National University of Singapore during 1996  and 1997, respectively, both as a post-doctoral fellow. He joined the University of Pretoria, South Africa, since 1998, and became a full professor in 2000. He also held a number of visiting positions, as an invited professor at IRCCYN, Nantes, France, in 2001, 2004 and 2005, as a guest professor at Huazhong University of Science and Technology, China, and as a Cheung Kong chair professor at Wuhan University, China. He is an IEEE fellow, served as the South African IEEE Section/Control Chapter Chair, as the chair of the Technical Committee of Non-linear Systems, as a member of the Technical Board (both of IFAC). He is an A-rated scientist by the National Research Foundation of South Africa, an elected fellow of the South African Academy of Engineering, and an elected member of the Academy of Science of South Africa. He has been an Associate Editor of Automatica, IEEE Transactions on Automatic Control, IEEE Transactions on Circuits and Systems II, and the Specialist Editor (Control) of the SAIEE Africa Research Journal. His research interests include: non-linear feedback control, observer design, time-delay systems, hybrid systems, modelling and control of HIV/AIDS, control and handling of heavy-haul trains and energy modelling and optimisation. He is a registered professional engineering by the Engineering Council of South Africa, and a certified measurement and verification professional by the American Association of Energy Engineers. He is the director of both the Centre of New Energy Systems at the University of Pretoria and the National Hub for the Postgraduate Programme in Energy Efficiency and Demand Side Management. He is an elected board member of measurement and verification council of South Africa (MVCSA) since 2014. He is the founding director of Onga Energy Efficiency and Management Pty Ltd - the first SANAS accredited M&V Company against ISO 17020 and he is invited as a technical assessor for the South African National Accreditation Systems (SANAS) for M&V inspection bodies in South Africa. He has been a judge for the prestigious national eta award in South Africa since 2009.
+        现任南非比勒陀利亚大学工程、建筑环境和信息技术学院，电气、电子和计算机系终身教授，新能源系统中心主任，国家节能减排研究基地主任。所在的学院是南非最大的工学院，全球工程排名前1%，每年毕业的工程师数超过全南非毕业工程师总数的1/4。多年来，一直从事控制系统中非线性观测器的理论和设计、非线性和复杂控制理论方面的研究，并成功地将所研究的理论成果应用于生物医学、工业过程应用与优化，能源系统优化与节能减排技术等方面。先后在IEEE Transactions on Automatic Control, Automatica, Energy, Applied Energy等国际知名刊物上发表学术期刊论文151篇，国际会议论文159篇，著书2部。截至2016年6月Google Scholar引用近4000次，H指数33。夏小华建立和领导的南非国家节能减排研究基地是一个跨学科、跨专业的研究中心，每年所发表的论文数超过全南非在能源领域发表论文总数的1/2。凭借雄厚的研究实力以及在控制和能源领域所取得的显著研究成果，夏小华先后荣获南非科技部(DST)，南非国家能源发展研究所(SANEDI)，南非国家研究基金会(NRF)，南非工业、矿业和电力总公司(Eskom)，南非与中国、法国、英国、瑞典合作基金项目30余项，总研究经费逾2.3亿兰特(Rand)。近5年来，夏小华在南非电力总公司和Exxaro等矿业公司从事重大能源系统优化和节能减排以及能效评估方面理论与多项专题研究工作，积累了丰富的工程和实践经验，取得了突出的节能效果，并将节能减排与能效评估推向市场。领导的团队所承担的能效评估项目占全南非节能减排能效评估市场的1/3份额强。
+        上世纪90年代，夏小华曾荣获中国航空部“突出贡献博士”，第一届霍英东基金会研究一等奖并入选中国教育部首批“跨世纪人才”。曾为德国斯图加特大学洪堡学者(Alexander von Humboldt Fellow)，并分别在法国南特中央理工学院和新加坡南洋理工大学做过访问学者。出国任教以来，以其在控制领域的杰出成就于2005当选南非工程院院士(Fellow)，2010年当选IEEE Fellow和南非科学院院士(Member)，随后又被南非国家研究基金会遴选为全南非50位、工程类仅有的几位A级科学家之一。在2004-2013期间，连续四次获得三年一度的大学杰出科研成就奖(Exceptional Academic Achiever Award)。两次与比勒陀利亚大学签署顶级人才的保留协议。还获得过IEEE Control System Society的“Distinguished Lecturer”等多项殊荣。曾于2006-2009年间当选为中国教育部控制领域“长江学者”讲座教授。现任Exxaro煤矿集团在比勒陀利亚大学设立的节能讲座教授(Exxaro Chair in Energy Efficiency)。在专业领域，现任Applied Energy和Acta Automatic Sinica杂志编委(Editorial Board Member)，并曾是国际著名杂志Automatica, IEEE Transactions on Automatic Control和IEEE Transactions on Circuits and Systems II 的副主编(Associate Editor)，SAIEE Africa Research Journal 的编辑（控制论）。曾任2003年首届非洲控制会议国际程序委员会主席，国际自动控制联合会IFAC第七届非线性控制系统会议的国际程序委员会主席，2008年被任命IFAC非线性系统技术委员会 (Technical Committee) 的主席，又于2014年担任第19届IFAC国际大会国际程序委员会联合主席。此外, 还担任过IEEE和IFAC重要系列性国际会议大会如vice-Chair, co-Chair, Publicity Chair, Regional Chair等多项职务。先后应邀成为中国国务院侨务办公室专家顾问，南非能源部部长顾问以及全球卓越能效(GSEP)工作组清洁能源部部长顾问。
+
+ 
+
+内容摘要：
+        This is a general report about the activities happened over the past 10 years at the Centre of New Energy Systems (CNES), University of Pretoria. CNES is a centre of excellence with a focus of energy efficiency research, service and development. It is the host of the South African National Hub for the Postgraduate Programme in Energy Efficiency and Demand Side Management. This talk starts with a review of the organisational structure of CNES, and a brief introduction of the fundamental approach of CNES to energy efficiency in terms of performance, operation, equipment and technology (POET), and a high level demonstration of how the three pillars of activities in research, business and development are organised around POET. The talk then goes into some details in each of the three pillars. On research, the talk will take it through the basic concepts, the tools and techniques, and the research topics of energy systems and optimisation as well as its alignment with a control system approach, with a particular thrust of activities on model predictive control (MPC) applications to operational energy efficiency. On the business front, the talk will introduce the market, policies, stardards, regulations, training and professional developments surrounding an emerging commercial opportunity in measurement and verification (M&V) of energy efficency improvement. Experiences and lessens in the South African context are shared in creating the correct business model and cultivating a sound technical profession agaist ISO 17020. The talk then moves on to some snapshots on the on-going and future product development platforms based on data capturing, communication, cloud computing and end users' gadgets in service to our industrial and building energy sectors.
+
+ 
+
+
+ 
+
+======
+主        题：研究生跨学科学术沙龙：大数据时代的生物信息学
+时        间：2016年7月19日下午14:30
+地        点：25教1320室
+主办单位：研究生院
+承办单位：计算机与信息科学学院
+联  系  人：余国先 副教授(023-68254396)
+沙龙简介：
+        本次沙龙由研究生院主办、计算机与信息科学学院承办，跨计算机科学、生命科学和统计学三个一级学科，旨在从多学科角度探讨大数据时代生物信息学研究的机遇与挑战，激发学生创新思维、启迪智慧、拓展学术视野。本次沙龙将为生物信息学领域研究生搭建对话平台，促进不同学术思想间的相互交流和融合，使得不同的研究方法相互借鉴，为培养创新型人才营造良好的环境和机遇。欢迎相关专业教师和研究生参加。
+
+ 
+报  告  一：Knowledge-Guided Fuzzy Logic Modeling to Infer Cancer Signaling Networks from Proteomics Data
+报  告  人：周水庚，复旦大学计算机科学技术学院教授、博士生导师，上海市智能信息处理重点实验室副主任。主要研究领域包括数据库、数据挖掘与机器学习、生物信息学以及金融信息处理。近年来致力于将数据库、数据挖掘和机器学习方法解决生物计算和金融计算等问题。主要研究成果发表于相关国际学术期刊（包括Nature Communications, Nucleic Acids Research, Bioinformatics, IEEE/ACM TCCB, VLDB Journal, IEEE TKDE, IEEE TGRS和IEEE TPDS等）和国际学术会议（包括ISMB, RECOMB, SIGMOD, SIGKDD, SIGIR, VLDB, ICDE, AAAI, IJCAI，SODA, CIDR、EDBT、ICDT、ICDCS和SPAA等）；获教育部自然科学二等奖1项、教育部科技进步二等奖2项。中国计算机学会杰出会员、中国计算机学会生物信息学专业组主任委员、数据库专委会委员、大数据专家委员会委员，中国人工智能学会机器学习专委会和生物信息与人工生命专委会委员。担任Genomics, Proteomics and Bioinformatics编委，IEEE/ACM Transactions on Computational Biology and Bioinformatics和Computational Biology and Chemistry等客座编辑；曾任2013年第11届国际生物信息学研讨会（IBW 2013）组委会主席，2014年第12届亚太生物信息学会议（APBC 2014）PC Chair和Organization Chair，并担任第27届国际基因组信息学会议（GIW 2016）PC Chair和Organization Chair。具体信息，可访问其个人主页http://admis.fudan.edu.cn/~sgzhou。
+
+
+报  告  二：Network Based Methods for Pattern Discovery in Complex Disease
+报  告  人：高琳，西安电子科技大学教授，博士生导师，首届陕西省三秦学者教授,省级重点学科学术带头人。中国计算机学会生物信息学专委会副主任，中国人工智能学会生物信息学与人工生命专业委员会副主任委员,中国运筹学会计算生物信息学分会常务理事，中国细胞生物学学会生物信息学与系统生物学分会理事。陕西省学位委员会学科评议组第三届成员,校第八界学术委员会委员。国家科学技术奖评审专家，国家重大专向评审专家，第十三届、十四届国家自然基金委员会信息学部评审组专家。先后主持2项国家自然科学基金重点项目，作为参与单位主持自然基金重点项目1项，重大研究计划培育项目一项及延续资助项目等，长期从事计算机、数学与生物医学学科的交叉研究，主要方向包括计算生物信息学，数据挖掘，图论与组合优化等，发表论文100余篇。
+
+
+报  告  三：RNA结构与进化分析的信息处理方法
+报  告  人：郭茂祖，哈尔滨工业大学计算机科学与技术学院教授、博士生导师，计算机基础系系主任、自然计算研究室主任，省杰出青年科学基金获得者，曾留学瑞典、英国。1997年博士毕业于哈工大计算机应用专业；2002年破格评为教授，2003 年评为“计算机科学与技术”、“生物医学工程”学科博士生导师。主要研究方向：生物信息学与计算生物学、机器学习与数据挖掘等。现为国家自然基金委重大研究计划指导专家组成员、中国计算机学会（CCF）生物信息学专业组副主任、中国运筹学会计算系统生物学分会理事、CCF人工智能和模式识别专委会常委，《计算机科学与探索》、《哈尔滨工业大学学报》等期刊编委。国家科学技术奖会评专家，第十二届、十三届国家自然基金委员会信息学部评审组专家，中国机器学习会议（CCML2015）大会主席。主持完成自然基金重点项目等20多项，发表论文200余篇。有关郭茂祖教授的详细信息，可访问其个人主页http://homepage.hit.edu.cn/guomaozu。
+
+
+报  告  四：天河超级计算机上的生物医药大数据研究
+报  告  人：彭绍亮，国防科技大学计算机学院研究员，从事高性能计算、大数据、生物医学工程、移动计算等技术研究工作，并担任天河生命科学计算方向负责人，华大基因研究院“特聘教授”。出版学术专著多部（一部为“十一五”国家重点图书）。已发表学术论文数十篇，其中包括Nature Communications, Cell AJHG, Genome Biology, Cancer Research, BMCBioinformatics, PLOS ONE, ACM/IEEE Transactions, ISC, 《中国科学》等。曾参与天河系列超级计算机应用软件研发工作，参与国家973项目、863项目、军队重大型号项目等13项，获军队科技进步一等奖1项。是国际交叉科学协会（IASIA）副理事长、中央军委科技委立项专家组委员、国家科技专家库专家、中国交叉科学学会副理事长、中国计算机学会理事(2016-2019)，CCF计算机应用专委会副主任/生物信息专业组副主任，YOCSEF长沙2016-2017主席, CCF高性能计算、大数据专委委员、CCF高级会员和杰出讲者、中国医药生物技术协会生物医学信息技术分会委员、中国生物医学工程学会健康分会委员、上海市数据科学重点实验室“执行委员会委员”和“数据科学家”、广东省超算学会理事、广东省计算机学会超算专委会副主任、担任Interdisciplinary Sciences: Computational Life Sciences（计算生命科学-SCI期刊）国际期刊执行主编(Executive Editor)、计算机科学与工程国际期刊(IJCSE)执行主编(Executive Editor)，高性能计算与网络国际期刊(IJHPCN)副主编(Associate Editor)，嵌入式系统国际期刊(IJES)副主编(AssociateEditor)。2014,2015年连续两次率队获得全国并行应用挑战赛金奖(人类基因组重测序软件流水线深度并行优化,天河2号上一种大规模虚拟药物筛选平台)，和IEEE InternationalScalable Computing Challenge 2015、iGEM 2015等国际竞赛奖，目前申请软件著作权15项，专利15项。
+
+
+报  告  五：生物大分子冷冻电镜电子断层三维重构
+报  告  人: 张法,博士，中国科学院计算技术研究所副研究员，博士生导师。2002-2005年，作为国际交换学生在美国俄亥俄州立大学（Ohio State University）客座访问，2009-2010年，在西班牙胡安卡洛斯国王大学（Universidad Rey Juan Carlos）进行客座访问。长期从事生物信息学和高性能计算方面的研究，目前主要从事生物大分子冷冻电镜三维重构方面的研究。作为项目负责人和主要参与人主持和参与了多项国家自然科学基金重点项目、国际合作重大项目、中科院知识创新重大项目、中科院战略性先导项目（B类）等多项国家项目，作为第一作者或通信作者在国内外著名期刊和国际会议上发表论文60余篇。开发完成了国内首款冷冻电镜三维重构系统AuTOM，其中电子断层数据对位软件Markerauto 和三维重构软件ICON已成为本领域的首选软件，帮助生物学家取得了重要的生物学发现。课题组的主页是：http://ear.ict.ac.cn。
+
+ 
+
+======
+报告题目1：Pervasive Isoform-specific Translational Regulation via Alternative Transcription Start Sites in Mammals
+
+主讲嘉宾：王曦 博士
+报告时间：2016年7月3日（星期日）09:00-10:15
+
+报告地点：蚕学宫1楼报告厅
+
+报告摘要:
+        Transcription initiated at alternative sites can produce mRNA isoforms with different 5ʹUTRs, which are potentially subjected to differential translational regulation. However, the prevalence of such isoform-specific translational control across mammalian genomes is currently unknown. In this talk, I will present our recent study elucidating the coordinated regulation between transcription and translation via the usage of alternative transcription start sites (TSSs) based on a newly developed approach termed CAPTRE (CAp Profiling for TRanslational Efficiency). CAPTRE enables the direct measurement of translational status of mRNA isoforms with distinct start sites. Among 9,951 protein-coding genes expressed in mouse fibroblasts, we identified 4,153 showed significant initiation at multiple sites, of which 745 genes exhibited significant isoform-divergent translation. Systematic analyses of the isoform-specific translation revealed that isoforms with longer 5ʹUTRs tended to translate less efficiently. Further investigation of cis-elements within 5ʹUTRs not only provided novel insights into the regulation by known sequence features, but also led to the discovery of novel regulatory sequence motifs. Quantitative models integrating all these features explained over half of the variance in the observed isoform-divergent translation. Collectively, our study demonstrated the extensive translational regulation by usage of alternative transcription start sites and offered comprehensive understanding of translational regulation by diverse sequence features embedded in 5ʹUTRs.
+
+嘉宾简介:
+        王曦，2005年7月毕业于哈尔滨工业大学航天学院，2011年6月于清华大学自动化系生物信息学部获得博士学位，并于2011年8月和2013年8月先后加入澳大利亚纽卡斯尔大学生物医学和药学学院、德国柏林马克思德尔布鲁克分子医学中心/柏林医学系统生物学研究所进行博士后研究工作。第一作者发表论文11篇，累计影响因子45以上；总共发表论文20余篇，总被引用次数为1163，H指数为12 （截至2016年6月28日，基于Google Scholar）。一作论文入选“2014年精品期刊顶尖论文平台——领跑者5000（ F5000）论文”，曾获“2013年纽卡斯尔大学学术会议旅行基金”、“2011年清华国家实验室生物信息学部实验室建设贡献奖”、“2010年清华大学东芝一等奖学金”等。主要从事生物信息学和系统生物学研究，研究兴趣包括基于大规模生物组学和生物医学数据的方法学研究，基于系统生物学的基因表达调控研究等。
+
+
+ 
+
+学术报告2：精准分子诊断：个体基因与蛋白质变异分析
+
+主讲嘉宾：聂蓓，研究员，生物分析，默沙东化学制药厂
+报告时间：2016年7月3日（星期日）10:30-11:45
+
+报告地点：蚕学宫1楼报告厅
+
+摘         要：
+        个性化制药和医疗的前提是精准分子诊断技术的发展，及对个体基因和蛋白质的解析，特别是与疾病相关变异序列的精准分析。因而目前生物分析技术首要集中在两个方向，高精度即在单细胞单分子层面测序和高通量，在系统范围理解和诠释病理及药理。我们研究课题组致力于发展高灵敏高通量的生物分子诊断技术，适用于癌症及病毒性疾病早期诊断，临床确诊，药效检验和患者疗后监测。具体研究课题包括：
+        1）基因组层面单碱基变异分析和单分子基因片段测序。
+        2）”bottom-up”和”top-down”质谱技术解析蛋白质变异。
+        3）多维色谱光谱仪设计和生物制药中的应用。
+
+嘉宾简介：
+        聂蓓，博士, 研究员，博士生导师，曾任职于中国科学院重庆绿色智能研究院研究员，美国圣母大学（University of Notre Dame）助理教授。2006年毕业于美国威斯康辛大学-麦迪逊分校（UNIVERSITY OF WISCONSIN-MADISON），获得博士学位，导师Lloyd Smith是DNA自动测序的发明人。工作期间，美国自然基金（NSF）一项, ND translational medicine启动基金一项，中科院高端人才启动基金一项。以一作和通讯作者发表文章10篇，IF ~40，最高影响文章为Anal. Chem. （5.8）和 ACS Appl. Mat. & Interf. (5.9). 主要研究方向：定量蛋白质组学，基因组分析，多维光谱质谱仪器和医用纳米微孔材料。
+ 
+
+======
+报告题目一：复杂网络系统协同分析、控制与优化的进展和挑战
+报  告  人：虞文武教授
+报告地点：电子信息工程学院三楼学术报告厅
+报告时间：2016年7月5日（星期四）14:00
+主办单位：校科协、电子信息工程学院
+报告人简介：
+        虞文武，东南大学教授、博士生导师、复杂系统与网络科学研究中心副主任、复杂系统协同控制实验室主任；国家优秀青年科学基金获得者，入选国家“万人计划”青年拔尖人才、江苏省“六大人才高峰”高层次人才；东南大学青年特聘教授、东南大学“青年五四奖章”获得者；2014和2015两次入选 Thomson Reuters全球高引科学家；主要从事复杂网络系统协同分析、控制与优化等相关研究，合编书和专著各1部，发表SCI文章90余篇，引用6700余次，SCI H指数34；21篇ESI高被引论文(学科前1%)；主持参与基金项目10多项。曾获2010年江苏省科学技术奖一等奖、2015年北京市科学技术奖二等奖、江苏省数学成就奖、Scopus“青年科学之星”信息科学领域金奖、国内外学术会议和机构论文奖6篇等。
+
+ 
+
+ 
+
+报告题目二：大型舰船传统系统用高合金钢特种热处理的组织和性能评级方法研究
+报  告  人：陈鹭滨研究员
+报告时间：2016年7月9日14:00-15:30时
+报告地点：25教219室
+主办单位：校科协、材料与能源学部
+报告人简介：
+        陈鹭滨，山东大学研究员，中国热处理协会理事及教育培训委员会委员，中国体视与显微学会常务理事，中国机械工程行业“失效分析专家”。主要从事金属材料类热处理和失效分析研究工作、混杂纤维增强复合材料的开发及应用等领域卓有成效。发表多篇论文，承担了数十项纵向和横向科研项目，申请并受理多项专利，获省部级科技进步奖多项，公开出版了《化学热处理技术》、《材料表面强化技术》等专著和大学本科教材。
+
+ 
+
+ 
+
+报告题目三：植物DNA甲基化和去甲基化的动态调控
+报  告  人：黄朝锋教授
+报告时间：2016年7月10日
+报告地点：37教409室15:30-17:30时
+主办单位：校科协、农学与生物科技学院
+报告人简介：
+        黄朝锋，南京农业大学生环学部，国家三级教授，江苏省杰出青年。先后在华南农业大学、日本香川大学（Kagawa University）、日本爱媛大学（Ehime University）、日本冈山大学（Okayama University)、美国加州大学河滨分校（University of California,Riverside)、美国普渡大学（Purdue University）攻读硕士、博士学位及从事研究工作（含博士后）。在Plant Cell，Plos Genetics，PNAS， Nucleic Acids Research, Plant Journal, Plant physiology 等国际顶尖杂志上发表论文10余篇。现主要从事植物抗铝毒表观遗传方面的研究。
+
+ 
+
+======

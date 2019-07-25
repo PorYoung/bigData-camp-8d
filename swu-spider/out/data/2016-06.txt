@@ -1,0 +1,587 @@
+题       目：数量遗传分析方法与分子设计育种
+报  告  人：章元明教授（华中农业大学）
+报告时间：2016年6月12日9:00-11:00
+报告地点：37教409室学术报告厅
+主办单位：校科协、农学与生物科技学院
+
+
+内容概要：
+       主要讲述：1）偏分离群体连锁图构建；2）纯合品种群体关联分析与分子设计育种；3）杂合育种群体关联分析、全基因组选择与分子设计育种；4）基因组变异与复杂性状形成的分子进化机制。
+ 
+
+报告人简介：
+       章元明，华中农业大学二级教授，博士生导师，教育部新世纪人才，楚天学者特聘教授，加拿大农学会荣誉会员，《生物统计与田间试验》国家精品课程负责人，全国数量遗传研究会（筹）副秘书长，江苏省现场统计学会理事。1986、1992和2001分别获得农学学士（西南农大）、硕士和博士（南京农大）学位。2003至2005在加州大学Riverside分校从事统计遗传与基因组学博士后研究。1986、1999和2014年起分别在西南大学荣昌校区、南京农业大学作物遗传与种质创新国家重点实验室和华中农业大学植物科技学院工作。
+       主要研究方向为统计遗传、生物统计和基因分子进化。主持国家、江苏省和重庆市自然科学基金课题7项，教育部新世纪人才、博士点基金和出国留学回国人员启动基金课题5项，参加科技部国家“973”和“863”项目3项。主要工作包括“1）建立和发展了关联分析的混合线性模型方法（Genetics 2005; BMC Biology 2014; Sci Rep 2016）；2）研究基因组变异与豆科植物生物固氮和禾本科植物高淀粉含量形成的分子进化机制（MBE 2012, 2013）；3）提出了超饱和线性模型参数估计的惩罚最大似然（Heredity 2005）和Bayesian压缩估计（Genetics 2005）方法；4）提出了偏分离群体连锁图矫正方法（TAG 2007；Heredity 2014）；5）系统拓展了植物数量性状主基因+多基因混合遗传分离分析方法。获教育部自然科学二等奖1项（第2完成人）。在MBE、BMC Biology、Sci Rep和Genetics等刊物发表SCI论文57篇，其中第1和通讯作者44篇。担任BMC Genetics、Canadian Journal of Plant Science、作物学报、Austin Biometrics and Biostatistics和南京农业大学学报编委。合著《植物数量性状遗传体系》专著。已培养博士后2人、博士13人和硕士31人。主编《生物统计学》教材3部。在第三届国际数量遗传学大会上作特邀大会报告。
+
+
+
+======
+报告题目：中国汽车自主研发从结构开发到性能开发的转变
+报  告  人：吴礼军(长安汽车研究总院副院长/北京研究院院长)
+时        间：2016年6月20日（星期一）晚上19：00
+地        点：西南大学工程技术学院学术报告厅（36教四楼401）
+ 
+
+主讲人简介：
+        吴礼军，现任长安汽车工程研究总院副院长兼北京研究院院长，研究院级高级工程师。分别于1986年和1989年在西南大学农业工程系获得农业机械化专业工学学士及工学硕士学位。毕业后在重庆长安汽车股份有限公司及其集团合资企业工作，20多年来一直致力于汽车整车、发动机的产品策划、整车及零部件开发设计、整车系统集成等工作。曾获中国汽车工业科技进步奖一等奖、二等奖，重庆市科学技术奖、江西省科学技术奖和中国兵器工业装备集团公司科技奖等多项奖励。著有《现代汽车制造技术》、《汽车整车性能主观评价》、《微型汽车空调原理结构检测与维修》等多本专著。主持或参加过长安汽车重大整车研发项目十余项(长安SC6336/SC1016X，CM8/CM9，CV9/CV11，D101，CS85等车型，陆风X8，E31等等车型)，多项关键技术攻关项目，陆风X8自主研发项目开发达到了国际水平，填补了国内汽车行业的技术空白。
+ 
+
+内容摘要：
+        根据长安汽车集团的汽车研发经验，对世界主流汽车产品的开发流程，国内自主品牌汽车的结构开发、性能品质开发进行详细的介绍并给出开发实例，同时，对未来自主品牌汽车开发模式的家族化、平台化、模块化、通用化进行分析。
+
+ 
+
+======
+报告题目1：ABC of biodegradation -for better use of biodegradative bactera
+时        间：2016年7月1日上午9:00-10:30
+地        点：35教201
+报  告  人： Hideaki Nojiri 教授，日本东京大学教授，主要致力于为有机污染物的微生物修复机制研究，在质粒与基因组相互作用、降解酶电子传递机制等方向做出了诸多杰出的贡献，发表SCI论文130余篇，曾获得日本学士院学术奖，目前为AEM等杂志编委。
+主要研究领域：
+        1. Behavior of Xenobiotic-Degrader in Natural Ecosystem
+        2. Structure and Function of Xenobiotic-Degrading Enzymes
+
+ 
+
+报告题目2：Electricity generation and consumption by microorganisms
+时        间：2016年7月1日上午10:30-12:00
+地        点：35教201
+报  告  人： Soichirou Katou 研究员，博士毕业于东京大学，主要从事微生物电化学及其在产能中的应用研究，现任日本产业综合技术研究所（AIST）研究员、东京大学和北海道大学特任讲师，在PNAS、EM等杂志以第一作者发表论文20余篇。
+主要研究领域：
+        1.  Microbial extracellular electron transfer to solid materials
+        2.　Microbial methanogenesis in subsurface environments
+        3.  Development of new method for isolation of diverse microorganisms
+
+ 
+
+======
+题        目：马铃薯低温糖化及抗寒机制研究进展
+报  告  人：宋波涛 教授
+报告时间：2016年6月5日15:00-17:00
+报告地点：37教409室
+主办单位：校科协、农学与生物科技学院
+ 
+
+报告人简介：
+        宋波涛，华中农业大学教授，博士生导师，中国作物学会马铃薯专业委员会委员，国家现代农业产业体系马铃薯育种岗位科学家。  2005年获蔬菜学博士学位，并留校继续相关研究工作。2007年赴加拿大农业与农业食品部马铃薯研究中心(AAFC-PRC)从事马铃薯加工品质改良资源分析与育种研究，2008年赴新西兰进行安全遗传转化体系建立合作研究，2012年赴德国纽伦堡大学和马普分子植物生理研究所进行植物抗寒与代谢组学相关合作研究。现为国家蔬菜改良中心华中分中心、园艺植物生物学教育部重点实验室固定研究人员，湖北省优秀创新团队“马铃薯重要性状功能基因组与遗传改良”团队核心成员。
+        主要研究方向马铃薯品质改良与抗寒机制与遗传育种等相关研究。主持国家自然科学基金、农业部“948”项目、国家“863”项目、教育部美大地区高层次人才培养项目、教育部新教师基金、湖北省自然科学基金、湖北省重大攻关、武汉市晨光计划等项目10余项；获湖北省重大科技成果奖1项、湖北省技术发明一等奖1项，育成了马铃薯新品种4个，获国家发明专利2项，作为通讯作者在Plant Physiology、Plant Biotechnology Journal等期刊发表相关研究论文50余篇。
+ 
+
+======
+学术报告（一）： 创业误区和挑战
+学术报告人：吴思斌教授
+时        间：2016年6月22日晚上7:00
+地        点：经济管理学院B401
+ 
+
+学术报告（二）：英文投稿审稿经验淡
+学术报告人：吴思斌教授
+时        间：2016年6月23日下午3:00
+地        点：经济管理学院B401
+
+
+报告人简介：
+        吴思斌教授，威斯康星大学（University of Wisconsin-Milwaukee）管理科学博士，现为德克萨斯大学大河谷校园（University of Texas-Rio Grande Valley）管理学系主任，终身教授，博士生导师。现为美国管理学会（Academy  of Management）及国际业务学院 (Academy of International Business)的会员。2008年至2010年吴博士曾任World Review of Entrepreneurship, Management and Sustainable Development的副编辑。吴博士还曾为十几种英文期刊，其中包括Journal of Business Venturing, Entrepreneurship Theory and Practice, Human Relations 和Journal of Business Research等著名期刊做过审稿人。
+        吴思斌教授的主要研究领域是创业学和战略管理学，多篇学术论文被收录在世界顶级管理学杂志美国管理学刊Academy of Management Journal，Journal of Business Research。他在美国管理学刊提出的技术动力概念被称为管理学50年重大新发现之一。他和他博士生合作的论文在2015年美国小型企业及创业学会的年会上获得John Jack最佳论文奖。自2010年吴教授一直担任清华大学主办的“创新与创业国际学术会议”科学委员会及组委会成员。曾三次获得北美中国经济家学会（Chinese Economists Society）授予的教学奖学金。2011年吴教授赢得海外青年华人论坛教学奖学金，他的学生曾获商业仿真大赛（Glo-Bus）的冠军，他也因此被列入名人堂荣誉榜， 2011年获得了University of Texas-Pan American管理学院的教学优秀奖， 2015年被提名为德州大学系统教学奖候选人。
+
+ 
+
+======
+主        题：知识产权与民法典
+报  告  人：刘春田教授
+主  持  人：张步文教授（法学院副院长）
+时        间：2016年6月24日（周五）15 :00
+地        点：中心图书馆九楼
+ 
+
+报告人简介：
+
+        刘春田，中国人民大学法学院二级教授，博士生导师。现任中国人民大学知识产权学院院长，中国人民大学知识产权教学与研究中心主任，中国知识产权法学研究会会长，教育部人文社会科学研究基地——中国人民大学民商事法律科学研究中心执行主任。1986年，在世界知识产权组织的倡导和推动下，受原国家教委委托，创立了新中国第一个知识产权学术机构——中国人民大学知识产权教学与研究中心。中心是中国知识产权法律制度的重要创建者，也是中国知识产权法学学科的主要开拓者。中心于1986年出版了我国最早的知识产权高等法学教育教材，并在全国第一个开设系统的《知识产权法》课程，1987年正式创办知识产权法专业。
+        刘春田教授长期致力于知识产权法的教学、基础理论研究和学科基础建设，在《中国社会科学》、《中国法学》等重要刊物发表论文60余篇。 从上世纪80年代起，刘教授便参加了中国《专利法》、《商标法》、《著作权法》和《反不正当竞争法》等的起草或修订工作，其不少学术观点被立法采纳。他还参与了《国家知识产权战略纲要》的制定工作。
+        刘春田教授现兼任中国知识产权法学研究会会长、国家知识产权专家委员会委员，最高人民检察院专家委员会委员，最高人民法院案件指导委员会委员，中国知识产权研究会副会长，中国版权协会副会长，中华商标协会副会长，中国文字著作权协会副主席，跨国公司促进会知识产权委员会副主席，中国音乐著作权协会常务理事，国际保护知识产权协会中国分会理事，中南财经政法大学知识产权研究中心学术委员会主席，中国国际经济贸易仲裁委员会仲裁员，北京、西安、厦门、深圳等地仲裁委员会仲裁员。
+        2010年，刘春田教授被国家知识产权局、国家工商管理总局、新闻出版总署评为全国知识产权最具影响力人物。2013年、2014年，连续两年被英国《知识产权管理》杂志评为全球知识产权最具影响力50人之一，是我国入选的唯一一位学者。《知识产权管理》杂志对他的评价是：“刘春田教授是中国知识产权法发展过程中最有影响力的人物之一，是该国在知识产权问题上最有影响力的思想者之一，他从一开始就对中国知识产权法的发展功不可没。”
+
+ 
+
+======
+国家外国专家局“文教类”高端外国专家学术报告
+Inclusive Education: Rights and Responsibilities, a reality?
+
+
+报告题目：Inclusive Education: Rights and Responsibilities, a reality?
+报  告  人：Dr. Jose Maria Sanahuja（巴塞罗那自治大学教授，国家外国专家局“文教类”高端外国专家）
+报告时间：6月23日（星期四）下午3:00 - 4:30
+报告地点：西南民族教育与心理研究中心説乎斋（北区幼儿园下行50米）
+
+主办单位：国际合作与交流处  西南民族教育与心理研究中心
+
+ 
+
+ 
+
+======
+讲座题目：基于文献数据的学科发展态势分析
+主  讲  人：王雪梅 博士
+讲座时间：2016年6月20日（周一） 晚19:00
+讲座地点：中心图书馆九楼
+主要内容：
+        如何从海量文献中挖掘有价值的信息，为研究选题、开题论证、综述撰写提供支持？此次讲座基于Web of Science数据库分析功能，结合人文社会科学和自然科学研究领域的具体实例，开启一扇从文献数据角度眺望学科发展态势的窗口。
+
+主讲人简介:
+        王雪梅，理学博士，研究兴趣包括文献计量、学科情报、知识图谱和科学评价等。近年，发表SSCI论文两篇，中文核心期刊论文十余篇。熟练使用WoS、CNKI、ESI、InCites、Thomson Data Analyzer等文献数据库和分析平台。
+
+
+报告题目：How to get best published in IOP journals
+报  告  人：吕铭方 首席代表、IOP中国区总编/教授,博士
+报告时间：2016年6月21日（周二）下午15:00
+报告地点：中心图书馆九楼
+举办单位：图书馆、物理科学与技术学院
+
+内容提要：
+        研究成果需要撰写成高水平论文才能得到顺利发表并与同行交流和获得认可。英国物理学会出版社（IOP）是世界领先的物理学相关出版平台，包括75种国际著名期刊、会议文集、杂志和电子书等，涵盖物理学各学科、材料科学、纳米技术和新能源科学、测量科学、生物医学物理与环境等，尤其是旗舰期刊《Journal of Physics》系列。本报告将介绍如何充分利用IOP期刊从事研究并发表高水平论文，如何撰写论文、投稿以及答复审稿意见和修改论文才能确保快速审稿处理并被顺利接受发表。报告还将介绍IOP的开放获取(OA)和版权政策。
+报告人简介：
+        吕铭方,自2002年1月起任英国物理学会北京代表处首席代表及编辑总监，2003年1月当选IOP Fellow (FInstP)。从2007年1月起，并任英国物理学会出版社IOP中国区总编。主要负责IOP与中国物理学和科技界的合作与交流，IOP与中国相关部门和研究机构的联络工作，中国作者向IOP投稿发表高水平研究论文及其编审工作，帮助中国物理学期刊通过与IOP合作走向国际，以及促进IOP期刊业务在中国的发展等。
+        此前，吕铭方于1995年获清华大学工学博士学位；1995-1997年在中国科学院物理研究所做博士后，1999-2001年分别在以色列魏兹曼科学研究院和瑞典空间物理研究院做博士后。其研究领域包括高温高密度等离子体物理与受控核聚变研究，低温等离子体应用，空间物理研究以及欧洲空间局“火星快车”飞船项目中性原子探测器研究等。1998年9月任日本大学原子能研究所等离子体实验室客员教授。2002年之前发表主要研究论文30余篇，包括J Phys D, Phys Rev E,等。
+
+ 
+
+======
+西南大学计信院前沿学术报告
+Southwest University IT Faculty Seminar
+
+
+时        间：2016年6月14日（星期二）下午2：30 - 5：00
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+
+ 
+
+报告题目1：Network control and its application to nervous systems
+报  告  人：严钢博士
+报告人简介：
+
+        严钢博士，2010年于中国科学技术大学获得博士学位（师从付忠谦教授和香港城市大学陈关荣教授），随后获聘新加坡国立大学淡马锡实验室研究科学家职位，后在网络科学创始人之一Albert-Laszlo Barabasi教授领衔的美国东北大学复杂网络研究中心进行博士后研究。2016年入选中组部青年千人计划(同济大学)。严钢博士长期从事复杂网络科学的研究，致力于从结构、动力学和控制的视角探寻真实复杂系统的底层原理和基本规律。在国际权威期刊上发表论文25篇，其中1篇Nature Physics（第一作者），2篇Physical Review Letters（第一作者1篇），获得了国际同行的广泛关注，总引用超过2000次，其中有5篇论文引用超过100次(单篇最高引用413次)，h-index 14。
+内容摘要：
+
+        Recent years have witnessed an explosion of studies pertaining to control issues in complex networks. In this talk we will present two progresses - spectrum of network control, and experimental confirmation of the control principles in C. elegans nervous system.
+        For the spectrum of network control we will show that the variability of control energy for different directions of the state space depend strongly on the number of driver nodes. In particular, if all nodes are directly driven, control is energetically feasible, as the maximum energy increases sub-linearly with the system size. If, however, we aim to control a system through a single node, control in some directions is energetically prohibitive, increasing exponentially with the system size. For the cases in between, the maximum energy decays exponentially when the number of driver nodes increases.
+        To analyze the C. elegans nervous system we map its responsive behaviors into a network control problem with specific sensory inputs and muscular outputs, predicting the previously unknown role of several neurons in worm locomotion. We validate these novel predictions through cell-specific laser ablation and worm tracking experiments. We also show that our predictions are robust to missing and rewired connections in the existing data, indicating the applicability of these techniques to larger and less well-characterized nervous systems. Our results offer the first direct experimental confirmation of the predictive power of network control principles in living systems.
+
+ 
+
+报告题目2：垂体瘤生物标志物稳定识别与多靶点抗抑郁药物设计：基于生物信息学和分子动力学研究
+报  告  人：朱峰教授
+报告人简介：
+
+        朱峰博士，国家“青年千人计划”入选者，2011年博士毕业于新加坡国立大学药学系，现任重庆大学药学院教授、博导、院长助理。主要从事生物信息学和计算机辅助药物设计方向的研究，包括:（1）建立药物靶点蛋白的生物信息学预测模型；（2）开展肿瘤代谢组生物标志物的稳定识别研究；（3）多靶点抗抑郁活性先导化合物的设计。近年来，朱教授已经在PNAS、Nature Biotechnology、Nature Reviews Drug Discovery、Clinical Pharmacology & Therapeutics、Nucleic Acids Research等刊物上发表学术论文30余篇。
+内容摘要：
+
+        报告将从脑科学研究的时代背景出发，讲述如何通过构建能够提高生物标志物识别稳定性的生物信息学算法来发现调控垂体瘤发生发展的关键生物信号通路和转录因子。同时，报告还将介绍由朱峰教授课题组开发的第一个可以开展代谢组学在线meta分析的服务器MMEASE。最后，报告将介绍如何采用分子动力学研究识别 5-羟色胺转运蛋白选择性抑制剂和去甲肾上腺素转运蛋白选择性抑制剂的作用模式，尽而发现双靶与选择性抑制剂的区别，为双靶点抗抑郁药物设计指明了方向。
+
+ 
+
+报告题目3：Leveraging a multi-omics strategy for prioritizing personalized candidate mutation-driver genes
+报  告  人：丁克越研究员
+报告人简介：
+
+        丁克越，博士，研究员，博士生导师。2004年7月毕业于中国协和医科大学基础医学院；2012年从美国Mayo Clinic引进回国。已发表英文文章共29篇，第一作者14篇，包括Circulation, Molecular Biology and Evolution, American Journal of Human Genetics等杂志；是Bioinformatics, BMC Bioinformatics, The Pharmacogenomics Journal, Disease Markers等杂志的审稿人。2012年2月入选中央组织部第七批千人计划(青年项目)，同年入选重庆市第四批百名海外高层次人才集聚计划。主要研究方向是复杂性疾病的分子群体遗传学，目前依托感染性疾病分子生物学教育部重点实验室，利用下一代测序技术研究原发性肝细胞肝癌的分子遗传学。
+内容摘要：
+
+        The expression of mutant forms of proteins (e.g., oncogenes and tumor suppressors) has implications in cancer biology and clinical practice. We characterized the transcriptional and translational patterns of tumor-mutated alleles. We performed whole-exome sequencing, RNA-seq, and proteome profiling in a hyper-mutated patient of hepatocellular carcinoma. Using the patient as a model, we showed that only a small proportion of tumor-mutated alleles were expressed. In this case, 42% and 3.5% of the tumor-mutated alleles were identified to be transcribed and translated, respectively. Using the expressional patterns of tumor-mutated alleles, we prioritized five personalized driver genes that may lead to hepatocarcinogenesis in the patient, which were validated in vitro. Leveraging multiple ‘omics’ datasets provides a new avenue for understanding patient-specific mutations that underlie carcinogenesis.
+
+ 
+
+======
+时        间：2016年6月18日下午3点到7点地        点：西南大学法学院116室海国图志书院
+主  持  人：林国基教授 
+        第  九  讲：博丹论法学家的史学素养        主  讲  人：朱琦副教授（四川外国语大学）        讲题要旨：16世纪是西欧各民族国家脱离罗马教会大一统局面、成为真正的独立王权国家的时代，各国的法学政治学研究者无不为各自的国家权力辩护和论证。著名法学家让•博丹在早期著作《易于认识历史的方法》中呼吁法学研究者们研读历史。从此书出发，我们可以一窥法学研究者博丹早期的政治哲学思想。16世纪，在法学研究和实践领域，罗马法的传统权威逐渐下降，以各个民族国家的普遍历史为基础重新构建法律体系的需求越来越紧迫。在博丹看来，普遍法权最优秀的部分隐藏在历史之中，立法的依据也蕴藏于历史之中，因而法学家必须要研读历史。由于法学在彼时彼国的特殊地位，法学家就是国家的统治者，为国立法、行统治之实。因此，历史教育的实质是过去的统治者对未来统治者的教诲，是培养未来统治者审慎德性的过程，审慎是统治者必备的实践德性。这样的思维方式同时凸显出博丹作为立法者之师——政治哲人的地位。在历史中最重要、最主要的部分是各个国家统治形式变迁的史实，而国家统治形式的确立是依据主权的归属，由此才有了博丹最为世人所铭记的主权理论。        主要参考书目：        [1] John L. Brown, The Methodus ad facilem Historiarum Cognitionem of J. Bodin. A Critical Study[M], Washington DC, 1939.        [2] J.H. Franklin, Jean Bodin and the Sixteenth-Century Revolution in the Methodology of Law and History[M], Columbia University Press, 1963        [3] 沃格林著, 霍伟岸译. 宗教与现代性的兴起[M]. 上海: 华东师范大学出版社,2009年        [4] 施特劳斯著, 李世祥等译.什么是政治哲学[M].北京: 华夏出版社,2011年
+        第  十  讲：中央欧亚游牧民民间传说在古典希腊和中国历史书写中的再现：阿卡美尼帝国和秦帝国起源的再思考        主  讲  人：何彦宵（曾就读于西南大学和印第安纳大学，现芝加哥大学近东语言与文明系博士候选人）        讲题主旨：
+        该沙龙以大家耳熟而未必能详的两个古代故事---希罗多德记载下古代波斯帝国建立者居鲁士的童年故事和司马迁记载下的赵氏孤儿---为中心，探讨古典时期的族群交流和文化互动以及中央欧亚草原游牧民在其中扮演的关键性作用，进而指出，公元前7到4世纪的整个欧亚大陆都处于斯泰基人主导的中央欧亚草原游牧民的巨大影响下，进而整个欧亚大陆各地联系开始比以前任何时期都紧密，欧亚大陆各主要文明也不同程度发生重构，形成所谓轴心时代(the Axial Age)。在近东，米底是接受这一影响的窗口；而在东亚，赵国是受到这一冲击的门户。正是在这一文化和族群交流日益加剧的时代，弃婴故事作为反复出现在中央欧亚游牧民传说中的母题在欧亚大陆不同地区以不同形式呈现，从而进入不同传统的历史书写中。另外，演讲者还将分享未能在毕业论文中涉及的对伊朗大流失贝西顿铭文(Behistun inscription)、印度阿育王坎大哈铭文(Gandhara inscription)和中国秦始皇铭文进行比较的部分，并进而思考古典时期在中央欧亚游牧民影响下欧亚大陆帝国的起源问题。        主要参考文献：        1 《史记》中《秦本纪》，《赵世家》，中华书局，2013年。        2 希罗多德，《历史》，徐松岩译注，中信出版社，2013年。        3 Christopher I. Beckwith, The Empires of Silk Road, Princeton University Press, 2011.        4 Christopher I. Beckwith, Greek Buddha:Pyrrho’s Encounter with Early Buddhism in Central Asia, Princeton University Press,2015.
+======
+药学院建院十周年系列学术报告（39）
+
+
+题        目：核酸高级结构特异性探针的发展
+报  告  人：黄志纾教授 中山大学药学院药物化学研究所所长
+时        间：2016年6月21日15：00
+地        点：38一309
+报告人简介：
+        黄志纾教授, 中山大学药学院药物化学研究所所长。2015年度广东特支计划百千万工程领军人才，2005年入选教育部新世纪优秀人才支持计划。现为全国化学生物学专业委员会委员，全国药物化学专业委员会委员，全国药学专业学位工作委员会委员，广东省药学会药物化学专业委员会主任委员。主要从事药物化学、化学生物学科领域的教学和科研工作。1998-1999年应邀在香港科技大学化学系进行中药化学的合作研究工作。2001-2003年在美国得克萨斯大学奥斯汀分校药学院药物化学系（The Division of Medicinal Chemistry, the College of Pharmacy, the University of Texas at Austin）进行博士后研究工作。先后主持国家自然科学基金重点项目、重大研究计划项目、面上项目以及省部级科研项目多项。在国内外重要学术刊物，包括Nucleic Acids Res., J. Med. Chem., Org. Lett., ACS Chem. Biol., Chem. Commun., Anal. Chem., Oncogene, ChemMedChem, Bioorg. Med. Chem., Tetrahedron和Eur. J. Med. Chem.等发表论文200余篇，通讯或第一论文90余篇。多项中国发明专利获得授权。2010年广东省科学技术一等奖第二完成人。 Annual Reports in Medicinal Chemistry编委，《Current Topics in Medicinal Chemistry》特刊客座主编，《中国药物化学杂志》、《中国药学》英文版编委。参与编写的教材和专著包括《有机化学》、《生物化学》、《Medicinal Chemistry of Nucleic Acids》等。
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+======
+讲座主题：乡村的坐标
+主  讲  人：戴锦华教授  北京大学电影与文化研究中心主任
+时        间：2016年6月18日19:00
+地        点: 中心图书馆十五楼报告厅
+主办单位：党委研究生工作部
+                  中国中国乡村建设学院
+                  西南大学图书馆
+                  新闻与传媒学院
+ 
+
+主讲人简介：
+        戴锦华，北京人。毕业于北京大学中文系。曾任教于北京电影学院电影文学系11年。自1993年任教于北京大学比较文学与比较文化研究所教授。北京大学电影与文化研究中心主任。从事大众传媒、电影与性别研究。曾在亚洲、欧洲、北美洲十余个国家和地区讲学和访问。长年参与新乡村建设与环保实践。专著10余部。专著与论文，被译为英文、法文、德文、意大利文、西班牙文、日文和韩文出版。
+
+
+ 
+
+======
+西南大学计信院前沿学术报告
+Southwest University IT Faculty Seminar
+
+
+时        间：2016年6月22日（星期三）下午2：30 - 4：00
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+
+ 
+
+报告题目：Exploring Execution Patterns in High Performance Applications
+报  告  人：François Trahay博士
+ 
+
+ 
+
+报告人简介:
+
+         François Trahay is an associate professor at Telecom SudParis. He received his Ph.D. degree in computer science from the University of Bordeaux in 2009. He has been working multithreaded MPI implementations and runtime systems for high performance computing since 2006. His research interests also include performance analysis tools and he is the project leader of the EZTrace framework for performance analysis. Till now, he has published many academic papers in highly competitive conferences and journals such as IPDPS, TPDS, TCC, and TACO.
+
+ 
+
+内容摘要：
+
+        Exploiting efficiently a computer is difficult. Because of the complex　hardware (multicore processors, hierarchical caches, GPUs, etc.) and software stack, debugging the performance of multi-threaded applications is difficult. The threads interfere to access different hardware resources, but the current profiling tools only focus on the interference on a single hardware resource.  As a result, the developer cannot know which part of the hardware is the most contended, and thus which part of the code is the most interesting to optimize.
+
+In this talk, we will present our research on automatic performance analysis for parallel applications. We will present a pattern matching algorithm for detecting repetitive sequences in execution traces, as well as a holistic profiling tool able to classify simultaneously the interference on different hardware resources.
+
+ 
+
+======
+2016年度美国唐德刚教授优秀历史论文奖颁奖仪式暨
+
+口述历史调查与中国近代史研究学术沙龙通告
+
+ 
+
+主        题：2016年度唐德刚教授优秀历史论文奖颁奖仪式
+                  暨口述历史调查与中国近代史研究学术沙龙
+主  持  人：黄贤全教授（颁奖仪式）      刘志英教授（学术沙龙）
+主  讲  人：美国费尔费尔德大学历史系    李丹柯教授
+                  美国中国近代口述史学会会长  于仁秋教授
+举办时间：2016年6月13日上午9:00（星期一）
+举办地点：中国抗战大后方研究中心会议室（文化村6舍302）
+举办单位：西南大学历史文化学院
+                  重庆中国抗战大后方研究中心
+ 
+
+活动简介：
+        唐德刚（1920.8.23－2009.10.26），著名美籍华裔历史学家，中国近代口述史的开拓者和推动者，其口述史著作《李宗仁回忆录》、《顾维钧回忆录》、《胡适口述自传》等在学界享有盛誉。20世纪90年代，唐德刚教授在美国创立了中国近代口述史学会，该学会是学术性非牟利团体，以提倡、鼓励、推动、进行中国近代口述史研究、资料保存、编辑、出版为宗旨。唐德刚教授生前极为重视口述历史的研究，为纪念唐德刚教授，并表彰其对近代史及口述史的重大贡献，该会设立唐德刚教授奖学基金，奖励从事口述史与中国近现代史成绩优秀的学生。2015年正值中国人民抗日战争暨世界反法西斯战争胜利70周年之际，故“唐德刚教授优秀历史论文奖”组委会特向西南大学征集优秀抗战口述史论文，经评审委员会评选，学校研究生杨东晓、候智林、向倩合著的论文《重庆大轰炸幸存者采访记录——陈桂芳》、本科生王伟的论文《日军无差别轰炸暴行铁证——重庆黑石子“万人坑”搬尸亲历者袁绍清口述调查》荣获美国中国口述史学会颁发的“唐德刚教授优秀历史论文奖”，以鼓励青年学者坚持、发扬口述历史的研究。
+
+
+                     
+
+======
+西南大学计信院前沿学术报告
+Southwest University IT Faculty Seminar
+ 
+
+报告题目：Dependence Guided Symbolic Execution
+时        间：2016年6月21日（星期二）上午9：30
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+报  告  人：杨子江 教授
+ 
+
+报告人简介：
+        杨子江博士现任西密西根大学计算机科学系教授。他1996年于中国科技大学计算机系获得学士学位，1999年于美国赖斯大学计算机科学系获得硕士学位，2003年于美国宾夕法尼亚大学计算机与信息科学系获得博士学位。杨博士目前主要从事软件测试及验证领域的研究。迄今为止发表了六十余篇论文(包括CCF推荐A类论文十篇)及十项美国专利。他获得2008年度ACM TODAES 最佳期刊论文奖, 2008年西密西根大学工学院青年学者奖，2010 PADTAD最佳会议论文奖，2015年谷歌计算机 Engagement奖，和2015年西密西根大学工学院研究成就奖。杨子江博士是国际电子电气工程师协会（IEEE）资深会员，并担任过密西根大学电子与计算机科学系访问教授，NEC公司美国研发中心科研顾问，美国自然科学基金评委，美国宇航局博士后评委，美国能源部科技企业基金评委等职。
+ 
+
+内容摘要：
+        Symbolic execution is a powerful technique for systematically exploring the paths of a program and generating the corresponding test inputs. However, its practical usage is often limited by the path explosion problem, that is, the number of explored paths usually grows exponentially with the increase of program size. In this talk, we argue that for the purpose of fault detection it is not necessary to systematically explore the paths. We propose a new symbolic execution approach to mitigate the path explosion problem by predicting and eliminating the redundant paths based on symbolic values. Our approach can achieve the equivalent fault detection capability as traditional symbolic execution without exhaustive path exploration. In addition, we develop a practical implementation called Dependence Guided Symbolic Execution (DGSE) to soundly approximate our approach. Through exploiting program dependence, DGSE can predict and eliminate the redundant paths at a reasonable computational cost. Our empirical study shows that the redundant paths are abundant and widespread in a program. Compared with traditional symbolic execution, DGSE only explores 6.96% to 96.57% of the paths and achieves a speedup of 1.02X to 49.56X.
+
+======
+报告题目：可控纳米药物输运及癌症治疗研究（Controlled drug delivery with polymeric nanoparticles: synthesis, modeling and application in vitro and in vivo to pancreatic cancer）
+报  告  人：Roberto Guzman 教授
+报告时间：2016年6月7日 下午2:30
+报告地点： 材料与能源学部21教学楼1楼报告厅
+主  持  人：李长明 教授
+主办单位：校科协、材料与能源学部
+
+ 
+
+报告人简介：
+        Roberto Guzman教授简历如下：
+        1989 - 1996  助理教授. 化学环境工程学院, 亚利桑那州立大学.
+        1995 - 1995 访问学者. 法国贡比涅技术大学, 分子实验室, 交互和分离技术研究中心.
+        1999 - 1999 访问学者. 瑞典乌普萨拉大学, 表面生物科技与分离科学中心, 乌普萨拉.
+        1996 – 2005  副教授. 化学环境工程学院, 亚利桑那州立大学.
+        2001-至今 研究员, 毒理学中心, 药学院, 亚利桑那州立大学.
+        2005-至今 教授. 化学环境工程学院, 亚利桑那州立大学.
+        2014-至今 客座教授. 法国贡比涅技术大学, 细胞与酶技术实验室.
+ 
+报告内容：
+        In this research, a variety of drug delivery systems have been synthesized and characterized. For the most part, these consist of a matrix of poly(lactic-co-glycolic acid) (PLGA), polyethylene glycol (PEG), and polyvinyl alcohol (PVA) containing encapsulated anticancer drugs as chemotherapy agents. The drug release from biodegradable nanoparticles has been analyzed mathematically using new approaches that include three major mechanisms of release: initial burst, nanoparticle degradation-relaxation, and diffusion. A mathematical model that simultaneously incorporates these mechanisms was developed to describe the release of the hydrophobic, kinase-inhibitor drug PHT-427. This model considers that the three drug release mechanisms, occur simultaneously, and provide a more accurately description of the release behavior of a real system. The theoretical release studies were corroborated experimentally by evaluating the cytotoxicity effectiveness of PHT-427-loaded nanoparticles over BxPC-3 and MiaPaCa-2 pancreatic cancer cells in vitro. These studies showed that the encapsulated PHT-427 drug in the nanoparticles is more accessible and thus more effective when compared with the drug alone, indicating their potential use in treatment applications. In addition, the PHT-427-loaded nanoparticles cytotoxicity was evaluated in vivo studies with MiaPaCa-2 pancreatic tumors. The results show that the kinase inhibitor is more effective when is loaded into polymeric nanoparticles compared to drug alone, by reducing MiaPaCa-2 orthotopic pancreatic tumor growth. Also, metastases to the liver are also inhibited by the PHT-427-loaded nanoparticles compared to the polymeric nanoparticle controls (without drug encapsulated) and with the drug alone. The experimental formulation parameters in the synthesis of drug-free PLGA nanoparticles were investigated, in order to find the best conditions of nanoparticle preparation. In addition, a selection of hydrophobic to hydrophilic drugs, such as doxorubicin, PH-427, gemcitabine, and pemetrexed, were encapsulated into polymeric nanoparticles to find optimal drug loadings by using single or double emulsification techniques. The effects of theoretical drug loadings over the nanoparticle characteristics were examined. The release of these drugs from PLGA nanoparticles was evaluated to determine the overall release profile characteristics.
+
+
+ 
+
+======
+报告题目： A survey of alternating permutations
+报  告  人： Richard P. Stanley (美国麻省理工学院教授)
+报告时间： 2016 年6 月7 号上午10：00
+报告地点： 25 教14 楼学术报告厅
+参加人员： 本科生、研究生、教师
+主办单位： 校科协、数学与统计学院
+
+
+报告人简介：
+
+        Richard P. Stanley 是美国麻省理工学院教授，美国艺术与科学院院士，美国国家科学院院士，2006 年国际数学家大会一小时报告人，是国际组合学界的领军人物之一。他1971 年获得哈佛大学博士学位，1971 年到1973 年在加州大学Berkeley 分校做研究，1973 年起在美国麻省理工学院任教。1975 年，Stanley 教授获美国工业与应用数学学会授予的应用组合学的Pólya 奖，2001 年，因撰写权威著作《计数组合》（共2 卷）而获得美国数学学会Steele 数学论述奖，此书是组合数学界公认的的经典著作。由于Stanley 教授在组合数学与代数几何方面作出的突出贡献，2003 年他获得瑞典皇家科学院颁发的极具声望的“RolfSchock”奖，在Stanley 教授之前只有5 位数学家获得过该奖项。Stanley 教授在组合数学与其它数学领域（尤其是代数学）的联系上做了很多原创性的工作，目前已在很多高级别杂志上发表论文逾170 篇，其中包括国际顶级数学杂志Inventiones Math. （1 篇），J. Amer. Math. Soc（2 篇）， Memoirs of Amer. Math. Soc.（1 篇）， Duke Math. J.（2 篇），Adv. Math.（6 篇），Bull. Amer. Math. Soc. （6篇）， Trans. Amer. Math. Soc.（3 篇），Proc. Amer. Math. Soc.（2 篇），等等。
+
+ 
+
+
+
+======
+讲座题目：统计分析与测量入门：基础概念及实践
+主  讲  人：韩潮博士
+讲座时间：2016年6月13日（周一） 晚19:00
+讲座地点：中心图书馆九楼
+ 
+
+主要内容：
+        此次讲座将采用互动的形式，利用模拟数据和相关软件，介绍统计和测量的入门知识。讲座中，将介绍基础的实验设计，基本统计检测t-test (独立样本及配对样本)。同时，还会讲到在测量过程中常常涉及到的inter-rater reliability这一基本概念，以及该概念包含的两层含义: rater consensus 和 rater consistency。最后，简单提及更多的线性统计方法，如 one-way/factorial/repeated measures ANOVA和MANOVA，以及展示较复杂的心理测量模型， 如 multivariate generalizability theory和multifaceted Rasch measurement.
+ 
+
+主讲人简介:
+        韩潮，澳大利亚麦考瑞大学(Macquarie)哲学博士(2011-2016)，研究兴趣包括语言测试与评估，英汉口译研究。近四年，在SSCI及A&HCI期刊发表三篇文章，已接受任待刊的文章三篇。熟练使用IBM SPSS 21, Winstep, FACETS 13, mGENOVA, EduG 6.0e, QSR NVivo 10, SigmaPlot 12.3等定量及定性科研软件。
+
+======
+题        目1：青蒿素代谢调控与代谢工程
+报  告  人：唐克轩教授（上海交通大学）
+报告时间：2016年6月10日下午14:30-15:30
+报告地点：生命科学学院（14教学楼）二楼多功能学术报告厅
+主办单位：校科协、生命科学学院
+报告人简介：
+        唐克轩，国际著名青蒿素生物合成与代谢工程研究专家。曾任上海交通大学农业与生物学院院长(2003-2012),现任上海交通大学植物生物技术研发中心主任、复旦-交大-诺丁汉植物生物技术研发中心主任。教育部 “长江学者”特聘教授、上海市优秀学科带头人、上海市领军人才、瑞典林奈大学名誉博士。担任多家SCI期刊副主编或编委，曾任国家863计划农业与生物领域生物技术主题专家和重大专项专家（2001-2005）。主要开展植物代谢工程研究，在国际上首次利用多基因共转化技术使莨菪发根中东莨菪碱含量提高了9倍，开创了植物次生代谢基因工程新领域，该研究发表在美国国家科学院院报 PNAS（2004年）上。在抗疟药物青蒿素的青蒿代谢工程和抗癌药物长春碱的长春花代谢工程方面拥有50余项国内外发明专利，培育出了青蒿素含量大幅提高的转基因青蒿和长春碱含量大幅提高的转基因长春花，为在国际上率先实现植物代谢工程产品产业化打下了基础。近年发表SCI论文300余篇，总引用超过3000次,H指数达到28；申请或授权发明专利100余项。
+ 
+
+题        目2：基于药效物质基础的中药品质调控研究
+报  告  人：陈万生教授（第二军医大学）
+报告时间：2016年6月10日下午15:30-16:30
+报告地点：生命科学学院（14教学楼）二楼多功能学术报告厅
+主办单位：校科协、生命科学学院
+报告人简介：
+        陈万生，男，汉族，博士、教授、主任药师，博士生导师；国家杰出青年基金获得者；现任第二军医大学第二附属医院药学部主任、第二军医大学临床药学教研室主任；兼任国家药典委员会委员、全军药学专业委员会委员、全军中药专业委员会副主任委员、上海市植物生理学会副理事长、世界中医药联合会中药分析专业委员会常务理事兼秘书长等，担任《中草药》、《中国天然药物》、《中国医院药学杂志》等编委。近年来，主要从事中药药效物质基础及品质评价、重要天然产物的生物合成与代谢调控、药物相互作用研究。先后主持国家科技部重大专项、国家支撑计划、国家自然科学基金、上海市科技发展基金重大专项等26项基金课题的研究；出版专著5部，发表论文160余篇，其中SCI收录80余篇；申请国家发明专利29项，其中17项已获得专利证书；获得中药5 类新药临床批文5个。获得国家科技进步二等奖1项（第2完成人）、上海市科技进步二等奖及上海药学科技二等奖各1项。先后被评为上海市优秀学科带头人、上海市曙光学者、上海市科技启明星、上海市优秀青年教师等。
+
+
+ 
+
+======
+西南大学计信院前沿学术报告（十、十一）
+
+Southwest University IT Faculty Seminar
+
+ 
+
+题        目：A Case Study on Sustainable High Quality Research: Information Propagation Modelling
+演  讲  人：周万雷  教授  澳大利亚迪肯大学
+时        间：2016年6月8日（星期三）上午9:00
+地        点：西南大学计信院学术报告厅（第25教学楼一楼0114）
+ 
+
+报告人简介：
+
+        Professor Wanlei Zhou received B.Eng and M.Eng degrees from Harbin Institute of Technology, Harbin, China in 1982 and 1984, respectively, and a PhD degree from The Australian National University, Canberra, Australia, in 1991, all in Computer Science and Engineering. He also received a DSc degree (a higher Doctorate degree) from Deakin University in 2002. He is currently the Alfred Deakin Professor (the highest honour the University can bestow on a member of academic staff), Chair Professor in Information Technology and Associate Dean (International Research Engagement), Faculty of Science, Engineering and Built Environment, Deakin University. Before joining Deakin University, Professor Zhou served as a lecturer in University of Electronic Science and Technology of China, a system programmer in HP at Massachusetts, USA; a lecturer in Monash University, Melbourne, Australia; and a lecturer in National University of Singapore, Singapore. His research interests include distributed systems, network security, bioinformatics, and e-learning. Professor Zhou has published more than 400 papers in refereed international journals and refereed international conferences proceedings. He has also chaired many international conferences. Prof. Zhou is a Senior Member of the IEEE.
+ 
+
+内容摘要：
+        1. Sustainable High Quality Research
+        2. Case Study: Information Propagation Modelling - Our work in Modelling the Propagation of Worms and Rumours
+                 2.1 Modelling the Propagation of Scanning Worms
+                 2.2 Modelling the Propagation of Online Social Network Worms
+                 2.3 Modelling the Propagation of Rumours and Truths in Online Social Networks
+                 2.4 Defense Measures in Online Social Networks
+                 2.5 Future Work
+        4. Questions and Discussions
+
+ 
+
+ 
+
+题        目：如何做科技研究
+演  讲  人：张真诚  逢甲大学资讯工程学系讲座教授
+                  中正大学荣誉教授，清华大学合聘教授
+时        间：2016年6月6日（星期一）上午9:30
+地        点：西南大学计信院学术报告厅（第25教学楼一楼0114）
+报告人简介：
+        张真诚，台湾台中市人，先后就读于国立清华大学数学系、计算器管理决策研究所和国立交通大学计算器工程研究所，于1982年获得国家工学博士学位后，曾任交通大学副教授、中兴大学教授、清华大学合聘教授，中正大学资讯工程研究所教授兼所长、自动化研究中心主任、工学院院长、教务长、代理校长、讲座教授与教育部顾问室主任等职务，并曾任日本东京大学与京都大学客座研究员与客座科学家。现任逢甲大学何宜武先生学术讲座教授，中正大学荣誉教授、合聘教授与清华大学合聘教授。
+        张教授对于数据库设计、电子多媒体影像技术、计算机密码学、电子商务安全等领域有卓越的研究贡献。目前为国际电子电机工程师学会IEEE Fellow与英国电机工程师学会IET/IEE Fellow。曾获台湾第一届十大杰出信息人才奖、青年奖章、龙腾十杰奖、杰出电机工程教授奖、杰出工程教授奖、中山学术著作奖、连续五届行政院国科会杰出研究奖、东元科技奖、李远哲杰出人才发展基金会杰出人才讲座、潘文渊文教基金会研究杰出奖、国科会杰出特约研究员。此外，各地学术团体、机构授予名誉教授、讲座教授、荣誉教授、客座教授、名誉主任、名誉理事长、荣誉顾问、荣誉讲座、杰出校友、特约研究员、杰出人才讲座等荣衔，并发表信息科学著作一千一百余篇和学术专书数十册。同时也参与国际学术团体、政府机构和一些学术组织多项委员会咨询顾问工作。
+ 
+
+内容摘要：
+        俗语说「事半功倍」，指的是不论做什么事情，只要方法对了，必定可以用最少的力气完成最多的工作。举例来说，今天如果要开发一套银行的跨行连线作业系统，这套系统除了要能应付银行间业务的往来作业之外，还得拥有让众多顾客在任何地方的自动柜员机都能进行跨行提款、转账等交易的功能，这中间所牵涉的层面除计算机专业外，尚有顾客行为、业务管理、组织策略等，各环节间环环相扣，显现出「事」、「功」之间的高度复杂关系。所以，要完成这复杂庞大的任务，「事」与「功」的分析与执行是首要工作。如在起始，即单纯认为可以由一、二位程序设计高手独立完成，忽略其它环节，随后衍生的问题，恐怕不是「事倍功半」的懊恼可以一言说尽。相反的，如一开始即选对方法，有一个非常周详完善的系统分析与设计，而整个项目的管控也有一套完备的管理制度，那即便这套系统或有未见完善之处，也仍能有效率地推展完成，进而从容改进，并达到超乎预期的良好质量要求。这就是我们一开始所谈到的「事半功倍」。
+        做研究也是一样的，要有一套正确的方法，就可以达到「事半功倍」的效果。然而，也许有人会质疑说，做研究是非常困难的一件事，需要有非常广博的知识、坚实的学理根基才行。其实不然，本次演讲将介绍做科技研究的方法与技巧，希望对于有兴趣从事学术研究的朋友们能有正面的帮助。
+本次演讲中将首先介绍做研究的动机与研究类别，期望能让初学研究的人有初步的了解。接着是研究的要领及方法，其中介绍了许多做研究的技巧。最后将简单地介绍一些对于科技研究有所帮助的工具。
+
+ 
+
+======
+含弘大讲堂：哲学与我们的时代
+
+ 
+
+讲座主题：哲学与我们的时代
+主  讲  人：吴晓明教授 复旦大学哲学学院教授、博士研究生导师
+时        间：2016年6月8日14:30
+地        点: 政治与公共管理学院3326报告厅
+主办单位：党委研究生工作部
+                  政治与公共管理学院
+
+ 
+
+主讲人简介：
+        吴晓明，1957年7月出生，哲学博士，主要研究马克思主义哲学、中西哲学比较研究等；现为复旦大学复旦学院（本科生院）院长，复旦大学马克思主义研究院院长，复旦大学哲学学院教授、博士研究生导师；兼任上海市政协委员、上海市哲学学会会长、教育部教学指导委员会副主任委员、国务院学位委员会第七届学科评议组哲学组成员、国家社科基金评审委员等职；2007年教育部“长江学者”特聘教授，1995年国务院政府特殊津贴享受者，1998年教育部“跨世纪人才”，2002年教育部“第三届高校优秀青年教师奖”，2013年宝钢教育基金“优秀教师特等奖”;主持国家社会科学基金重大项目、后期资助项目、一般项目各1项，其他部省级项目多项；在《中国社会科学》发表文章10多篇，在《哲学研究》、《马克思主义与现实》、《学术月刊》等学科级知名刊物发表文章100多篇；多次荣获部省级人文社会科学优秀成果奖。
+
+======
+讲座题目（一）：新媒体环境下的舆论生态与性健康教育
+主  讲  人：李  纬
+讲座时间：2016年6月21日（周二） 16:00-17:00
+讲座地点：北区校医院五楼大会议室（501）
+主题简介：
+        主要是新媒体环境下的與情状况和应对，以及如何借助新媒体途径进行性健康知识传播。
+主讲人简介：
+        李纬，新华网重庆健康频道运营总监、重庆市性学会性健康教育专委会副主任委员。从事新闻采写工作15年，熟悉新媒体传播及舆情的监控处置。
+
+ 
+
+讲座题目（二）：艾滋病防控之重要策略——同伴教育 
+主  讲  人：贾晓瑜
+讲座时间：2016年6月21日（周二） 17:00-17:40
+讲座地点：北区校医院五楼大会议室（501）
+主题简介：
+
+        西南大学医院、红十字会防治艾滋病的工作历程以及同伴教育在艾滋病防控中的应用等。
+主讲人简介：
+        贾晓瑜，女，公共卫生主治医师，重庆医科大学流行病与统计学医学硕士，现任西南大学医院健康管理中心副主任。主要从事预防保健工作，擅长传染病、突发公共卫生事件预防与控制以及现场流行病学调查。
+
+ 
+
+======
+西南大学计信院前沿学术报告
+Southwest University IT Faculty Seminar
+
+
+报告题目：人人都谈大数据，人人都能拿到“数据科学家”的职场金钥匙吗？
+                  —— IBM教你如何提升大数据分析及数据科学的实战技能
+时        间：2016年6月17日（星期五）下午2：30
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+报告人：Leo Wu (吴仲毓)博士
+ 
+
+报告人简介：
+        Leo Wu (吴仲毓), IBM大数据大学中国区项目总监，与中国IBM大学合作部等合作，推动大数据大学项目以及IBM新一代大数据分析工具在中国的落地和成功。Leo Wu来自IBM大数据及分析全球新技术中心，负责大数据及分析领域最新技术的孵化，培育，开发以及市场推广。
+        Leo Wu曾是IBM DB2数据库的资深工程师和架构师，具备丰富的开发，设计以及客户咨询的经验，并以资深的信息产品以及行业经验，帮助众多IBM的全球企业，例如花旗银行，加拿大道明银行等进行数据仓库，信息系统的咨询。他领导设计和开发了第一代IBM Smart Analytics System (ISAS)，广泛应用于IBM全球银行，电信等行业的客户。现在，也是“数据科学家集成工作台”(Data Scientist Workbench)的主要的架构师，负责产品全线的架构设计，开发以及云端部署。
+ 
+
+内容摘要：
+        大数据时代的到来，意味着我们每个人的生活和工作，每个公司和行业的运行和发展，都被快速地数字化，即以数据的方式被存储下来。问题与机遇是并存的，当所有的一切都能被数字化之后，唯一的竞争优势就只剩一个——谁能更好地读懂数据、在数据中找到有价值的洞察。由此，“数据科学家”这一高光职业应运而生，并被公认为21世纪最性感的职业之一，目前在北美的人才供求市场中始终高居前列。那么，究竟什么是大数据分析和数据科学？是不是人人都能成为“数据科学家”呢？有最好最便捷的学习路径和开源工具吗？来听这场满是干货、价值连城的讲座，不仅有大数据分析的案例分析和演示，更要教你如何快速提升大数据分析及数据科学的实战技能。
+        （号外：“好大学在线”慕课平台上的“IBM大数据大学”专区 http://www.cnmooc.org/ibm 以及IBM大数据大学官网 http://BigDataUniversity.com.cn，目前上线的40多门课程按照数据科学家、数据分析师、数据工程师三个职业路径导向进行组合，这些高质量的免费课程以及云端实操平台将是同学们通往“数据科学家”这一职场光环的不二选择）
+ 
+
+======
+报告题目：Aminocatalytic Asymmetric Reactions of Diverse Enone Substrates
+报  告  人：陈应春 教授
+时        间：2016年6月10日 下午15:00
+地        点：化学化工学院（第二教学楼）三楼会议室
+ 
+
+报告人简介：
+        陈应春，四川大学教授，博士生导师，科技部中青年科技创新领军人才，国家杰出青年基金获得者。先后在天津南开大学化学系、华西医科大学药学院、中科院成都有机化学研究所完成本科、硕士以及博士学习。毕业后在中科院成都有机化学研究所、香港大学化学系（杨丹教授小组）进行博士后研究，2003年11月到四川大学华西药学院药物化学系工作。
+        陈应春教授主要从事新型手性有机催化剂的设计、合成及不对称催化反应研究以及生理活性物质的设计、合成等方面的工作。先后主持国家自然科学基金青年基金及多项面上项目、教育部霍英东青年教师基金、中德科学中心合作基金、四川省杰出青年基金，参与科技部973项目子课题、国家自然科学基金创新群体等项目，入选2005年教育部新世纪优秀人才支持计划，获得2007年四川省第九届青年科技奖、2007年药明康德生命化学研究奖、2011年国家杰出青年科学基金、2013年全国百篇优秀博士论文指导教师、2014年中国化学会青年手性化学奖、2014年科技部中青年科技创新领军人才、2015年四川省卫生计生领军人才。作为通讯作者在Chem. Soc. Rev.、Acc. Chem. Res.、Angew. Chem. Int. Ed.、 J. Am. Chem. Soc. 等学术期刊上发表论文110余篇，总他引超过5000次，参与三部国际专著章节的撰写工作，完成两个国家一类新药的合成研究。
+ 
+
+Recent Publications
+        1.Gu Zhan, Ming-Lin Shi, Qing He, Wei-Jia Lin, Qin Ouyang,* Wei Du, and Ying-Chun Chen,* Angew. Chem. Int. Ed. 2016, 55, 2147.
+        2.Peng-Fei Zheng, Qin Ouyang, Sheng-Li Niu, Li Shuai, Yi Yuan, Kun Jiang, Tian-Yu Liu,* and Ying-Chun Chen,* J. Am. Chem. Soc. 2015, 137, 9390.
+        3.Xiang Yin, Yi Zheng, Xin Feng, Kun Jiang, Xue-Zhen Wei, Ning Gao,* and Ying-Chun Chen,* Angew. Chem. Int. Ed. 2014, 53, 6245.
+        4.Jun-Long Li, Cai-Zhen Yue, Peng-Qiao Chen, You-Cai Xiao, and Ying-Chun Chen,* Angew. Chem. Int. Ed. 2014, 53, 5449.
+        5.Xin Feng, Zhi Zhou, Chao Ma, Xiang Yin, Rui Li,* Lin Dong, and Ying-Chun Chen,* Angew. Chem. Int. Ed. 2013, 52, 14173.
+        6.Chao Ma, Zhi-Jun Jia, Jing-Xin Liu, Qing-Qing Zhou, Lin Dong, Ying-Chun Chen,* Angew. Chem. Int. Ed. 2013, 52, 948.
+        7.Xin Feng, Zhi Zhou, Rong Zhou, Qing-Qing Zhou, Lin Dong, and Ying-Chun Chen,* J. Am. Chem. Soc. 2012, 134, 19942.
+        8.Xiao-Feng Xiong, Quan Zhou, Jing Gu, Lin Dong, Tian-Yu Liu, and Ying-Chun Chen,* Angew. Chem. Int. Ed. 2012, 51, 4401.
+        9.Jun-Long, Li, Tian-Yu, Liu, and Ying-Chun Chen,* Acc. Chem. Res. 2012, 45, 1491.
+ 
+
+======
+外国语学院博雅讲坛系列讲座
+
+
+讲座题目1：生成语法的精神与方向
+主  讲  人：蔡维天（台湾清华大学教授）
+时        间：6月2日下午2：30
+地        点：外国语学院903学术报告厅
+
+ 
+
+讲座题目2：汉语的类型特色及形式分析
+主  讲  人：蔡维天（台湾清华大学教授）
+时        间：6月3日上午9：00
+地        点：外国语学院903学术报告厅
+
+主讲人简介：
+        蔡维天，台湾清华大学语言学研究所及中文系教授，1994年获得美国麻省理工学院语言学博士学位，师从国际著名语言学家Noam Chomsky及黄正德（C.-T. James Huang）教授；同年，回到母校台湾清华大学语言学研究所及中文系任教。历任清大语言所所长、清大人文社会学系主任、清大人文社会学院副院长兼学士班主任、北京大学汉语语言学研究中心兼职研究员、日本南山大学Adjunct Professor，曾获2000年中央研究院年轻学者研究著作奖、2003年教育部原住民族语言教育文化著作奖甲等、2009年国科会杰出研究奖等。蔡维天教授著述甚丰，曾在Journal of East Asian Linguistics，Natural Language & Linguistic Theory及The Linguistic Review等国际著名语言学学刊物上发表大量学术论文，其研究领域涵盖汉语句法、南岛语句法、语法理论、句法-语义界面研究。
+
+ 
+
+讲座题目3：新历史主义视阈下的“新维多利亚小说”
+主  讲  人：金冰（对外经贸大学英语学院教授，博士生导师）
+时        间：6月3日（19：00—21：00）
+地        点：外国语学院903学术报告厅
+
+内容提要：
+
+        本次讲座将梳理近年来西方文化领域出现的维多利亚文化热及新维多利亚小说的兴起，分析这股热潮产生的历史文化背景以及后现代文化对于维多利亚时代特征及“时代精神”等观念本身的反思与评价，并在此基础上进一步探讨英国当代女作家A．S．拜厄特如何在她的新维多利亚小说及相关批评论著中与后现代历史观展开对话，揭示了她对于历史的虚构性及文本性等后现代历史观念的辩证思考。
+
+主讲人简介：
+
+        金冰，北京大学英语系博士、对外经贸大学英语学院教授、博士生导师，英美文学研究所所长，英美文学方向学科带头人，美国哥伦比亚大学富布莱特研究学者，先后赴美国威斯康星大学麦迪逊分校商学院、英国华威大学社会语言学系访学。对外经贸大学十佳教师、北京市优秀教师、北京市第十一届哲学社会科学优秀成果二等奖等奖励，“教育部新世纪优秀人才”（2011），对外经贸大学“杰出青年学者”（2013），在外语类权威核心期刊《外国文学评论》、《外国文学研究》、《外国文学》、《当代外国文学》及《国外文学》发表多篇学术论文，出版三部学术专著和译著，先后主持国家社科基金项目及教育部商务英语国家级教学团队等科研项目。
+
+ 
+
+讲座题目4：The Effect of L1-L2 Syntactic Similarity on L2 Syntactic Processing: ERP Evidence from Chinese Learner of English
+主  讲  人：张辉（南京师范大学特聘教授）
+时        间：6月8日上午9：00
+地        点：外国语学院903学术报告厅
+
+主讲人简介：
+        张辉，南京师范大学外国语学院特聘教授，博士，博士生导师，任国家社科基金学科评审专家、中国认知语言学研究会秘书长兼副会长、江苏省外国语言学学会副会长、中国语言教育研究会副会长、中国功能语言学研究会常务理事、中国语用学研究会常务理事、中国心理语言学研究会常务理事、上海外国语大学中国外语战略研究中心兼职研究员。主持国家社科基金一般项目“汉语熟语理解的神经机制研究”、国家社科基金重点项目“中国英语学习者句法加工的神经认知机制研究”，承担（第一合作人）国家自然科学基金“基于事件相关电位的汉语惯用语结构的认知研究”，承担国家社科基金重大项目的子项目“神经词汇学研究”专著或编著研究。在国内核心期刊发表论文数十篇，在国际期刊（SSCI和SCI）（Journal of Neurolinguistics）发表论文数篇。
+
+ 
+
+讲座题目5：隐喻式否定的构式特征及其语用效应
+主  讲  人：魏在江（广东外语外贸大学教授）
+时        间：6月9日下午2：30（暂定）
+地        点：外国语学院903学术报告厅
+
+主讲人简介：
+        魏在江，广东外语外贸大学教授，博士生导师，外国语言学及应用语言学学科带头人。2015年受聘广东外语外贸大学第50位“云山学者”。历任外语核心类期刊《外语教学》编辑部主任、《西安外国语大学学报》常务副主编、校学术委员会委员、中国功能语言学研究会常务理事、中国认知语言学研究会常务理事、中国英汉语比较研究会理事等。魏教授科研成果丰硕，近年来在《现代外语》、《外国语》等核心期刊上发表论文50余篇，多篇被《中国社会科学文摘》、《人大复印资料》转载、索引，被《2009年版中国期刊高被引指数》遴选为全国“语言文字”学科高被引作者；魏教授主持完成国家课题，结题为优秀，主持完成省部级项目多项，多次获科研成果奖。主要研究方向为：英汉对比与翻译、认知语言学、语用学、语篇分析等。
+
+ 
+
+讲座题目6：Metaphor and Internet Based Mental Healthcare in Hong Kong
+主  讲  人：Dennis Tay（香港理工大学Assistant Professor）
+时        间：6月9日晚上7：00
+地        点：外国语学院903学术报告厅
+
+主讲人简介：
+        Dennis Tay is Assistant Professor at the Department of English, The Hong KongPolytechnic University. He has received his BA in English language and MA in Language studies in National University of Singapore, and PhD in Linguistics in University of Otago. As a productive scholar, he has published two books (one monograph and one co-edited with B.Blount),and about twenty articles in widely acknowledged linguistic journals, such asJournal of Constructivist Psychology, Metaphor & Symbol, Text & Talk, etc. He is also an important contributor in The Routledge Handbook of Metaphor and Language, Oxford Handbook of the Word, Bloomsbury Companion to Cognitive Linguistics etc. He is interested in Cognitive Linguistics, especially theapplication of cognitivist theories of metaphor and metonymy to discourseanalysis. He has been researching the linguistic and discursive characteristicsof psychotherapeutic metaphors in different cultural contexts including USA,New Zealand and Hong Kong, with an eye on proposing enhancements to howmetaphors are used in psychotherapy.
+
+======

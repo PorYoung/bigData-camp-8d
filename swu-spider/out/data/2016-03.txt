@@ -1,0 +1,367 @@
+抗战大后方研究的新形势与新方向---中心第三十九次沙龙活动通告
+ 
+
+主        题：抗战大后方研究的新形势与新方向
+主  讲  人：周勇教授
+举办时间：2016年3月31日（星期四）晚19：00
+举办地点：中心第一会议室（文化村6舍302）
+举办单位：西南大学中国共产党革命精神与文化资源研究中心
+                  重庆中国抗战大后方研究中心
+ 
+
+主讲人简介：
+        周勇，西南大学历史文化学院教授、重庆中国抗战大后方研究中心主任、博士生导师。主要研究方向为中国近现代政治史、中国抗战大后方史。1979年以来，对中国近现代历史、中共党史、马克思主义中国化、新闻传播学的一些领域作了开创性研究，主持过一批包括国家哲学社会科学重大委托项目（《第二次国共合作及其经验研究》）在内的国家和省级研究、出版项目，取得了一批具有开拓性的成果。其代表性著作有《中国抗战大后方历史文化丛书》（100卷）《中共中央南方局研究丛书》《重庆抗战史：1931－1945》《重庆市抗战时期人口财产损失》《西南抗战史》《红岩精神研究》《第二次国共合作纪实丛书》（8卷）《近代重庆城市史》《重庆通史》《重庆开埠史》《重庆：一个内陆城市的崛起》等。                       
+ 
+         抗日战争是中华民族由衰败走向复兴的重要转折，为中华民族的重新崛起开辟了光明的前景。习近平总书记在中共中央政治局第25次集体学习中指出：“历史是过去传到将来的回声，是将来对过去的反映，研究历史，应从历史中总结有益的经验和教训，并升华为促进将来发展的源泉，但同中国人民抗日战争的历史地位和历史意义相比，同这场战争对中华民族和世界的影响相比，我们的抗战研究还远远不够，要继续进行深入系统地研究。”因此，不仅要加强抗战研究的国际学术交流，更要通过多种形式进行宣传教育和主题讨论活动，使各族人民牢记抗日战争胜利的艰苦历程和伟大功勋。基于此，中心主任周勇教授将作为中心第三十九次沙龙活动主讲人，与大家一起解读、分享抗战大后方研究的新形势与新方向。
+ 
+                               
+
+ 
+
+======
+可信软件系统工程（国际）春季学校
+Spring School on Engineering Trustworthy Software Systems
+
+ 
+
+
+
+讲座题目：Modelling and Verification in Event-B
+主 讲 人：Prof. Michael Butler
+时    间：2016年3月28日下午2:00，3月29日上午8:30
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Michael Butler is a Professor of Computer Science at Southampton. He is internationally recognised as a leading expert in refinement-based formal methods. He holds a PhD (Computation) from the University of Oxford. His research work encompasses applications, tools and methodology for formal methods, especially refinement based method such as B and Event-B. He has made key methodological contributions to the Event-B formal method, especially around model composition and decomposition. He plays a leading role in the development of several tools for B and Event-B especially the Rodin toolset. Butler has a strong track record of collaboration with industry on the deployment of formal methods.
+
+内容摘要：Formal modelling and verification lead to deeper understanding and higher consistency of specification and design than informal or semi-formal methods. A refinement approach means that models represent different abstraction levels of system design; consistency between abstraction levels is ensured by formal verification. These lectures will provide an introduction to modelling and verification using Event-B providing guidance on appropriate use of set theory for domain modelling, use of refinement to represent systems at different abstraction levels and use of mathematical proof to verify the consistency between refinement levels.
+
+ 
+
+讲座题目：Parallel Programming Today I (30th) and II (31st)
+主 讲 人：Prof. Yifeng Chen
+时    间：2016年3月30日下午2:00，3月31日上午8:30
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Yifeng Chen is a research professor of the School of Electronics Engineering and Computer Science at Peking University and Vice Head, Department of Computer Science and Technology. He is a member of the Software Institute and the theory group. His main research interests include parallel programming model for multi-core and many-core architectures and parallel computing, (imperative, parallel, object-oriented and probabilistic) programming languages, and programming theory. His research activities include serving as a PC member for conferences ICTAC’04’05’06’12, UTP’06’08’10’12, IFM’07 and UTP session chair, IPDPS’12 ’14, SC’12, PPoPP’13’15, CCGrid’14’15.
+
+内容摘要：Today's parallel computer systems are diverse. This lecture will mention several lower-level tools of parallel programming and how to lift the level of programming in algebraic structures.  The parallel programming paradigms of this lecture includes CUDA for programming General-Purpose Graphics Processor Unit that powers the Tianhe-1A supercomputer, OpenMP Offload for programming Intel's manycore MIC that powers Tianhe 2 supercomputer, and MPI for programming a cluster of servers connected with a high-speed network.
+
+ 
+
+讲座题目：Runtime Verification
+主 讲 人：Prof. Martin Leucker
+时    间：2016年3月30日上午8:30，3月31日下午2:00
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Martin Leucker is Director of the Institute for Software Engineering and Programming Languages at the University of Lübeck, Germany. He obtained his Habilitation at TU München (awarded in 2007) while being a member of Manfred Broy's group on Software and Systems Engineering. At TU Munich, he also worked as a professor of Theoretical Computer Science and Software Reliability. Martin Leucker is the author of more than a hundred reviewed conference and journal papers in software engineering, formal methods, and theoretical computer science. He frequently is a PC member of top ranked conferences, and has been the principal investigator in several research projects with industry participation, especially in the medical devices, automotive and energy domains.
+
+内容摘要：In this tutorial we give an introduction to the field of Runtime Verification. More specifically, we give a comprehensive and coherent assessment to Linear Temporal Logic-based monitor synthesis approaches. We cover both rewriting and automata-based techniques, each from apropositional as well as from a data perspective. Beyond a formal account we present applications, especially in the area of testing. To this end, we give a practical introduction to the tool JUnitRV, which combines traditional unit testing for Java with Runtime Verification techniques.
+
+ 
+
+讲座题目：Java in the Safety-Critical Domain - A Refinement Approach
+主 讲 人：Dr. Alvaro Miyazawa
+时    间：2016年4月1日下午2:00，4月2日上午8:30
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Alvaro Miyazawa is a research associate at High Integrity Systems Engineering Group in the University of York. His doctoral work formalised the semantics of Stateflow charts and defined a refinement strategy for the verification of sequential and parallel implementations. Since then, he has worked on the COMPASS project developing a comprehensive and integrated formal semantics for SysML with particular emphasis on state machine, block definition and internal block diagrams, and on the hiJaC project, extending the formal semantics of Safety Critical Java and refinement strategies for verification and generation of SCJ programs. Currently, he is working on the RoboCalc project, developing a formal state machine notation tailored for the design and analysis of robotic applications.
+
+内容摘要：Safety-Critical Java (SCJ) is a version of Java designed for programming real-time and safety-critical systems that require certification. In York, we are working with members of Open Group committee that is defining a standard for SCJ to define techniques for verification of programs. In this course, we will present SCJ, the challenges involved in verifying SCJ programs, and our approach. We have new modelling languages, and techniques for automatic generation and verification of model.
+
+ 
+
+讲座题目：Semantics of Reactive Systems
+主 讲 人：Prof. Jim Woodcock
+时    间：2016年4月1日上午8:30，4月2日下午2:00
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Jim Woodcock is Professor of Software Engineering and Head of the Department of Computer Science at the University of York in England. His main research interests are in the industrial applications of software engineering, formal verification, programming language semantics, and cyber-physical systems. The research team he led in Oxford won the Queen's Award for Technological Achievement for its work on the formal development of smart cards. He is a fellow of the UK Royal Academy of Engineering.
+
+内容摘要：Unifying Theories of Programming provides a foundation for compositional semantics for a variety of different language paradigms. We show how to give semantics to imperative programs, pointer-rich programs, reactive programs with concurrency and communication, and reactive programs with mobile channels. We show how these different paradigms can be composed to create a powerful programming language with stateful, reactive, reconfigurable processes.
+
+ 
+
+讲座题目：Parameterized Unit Testing: Theory and Practice
+主 讲 人：Prof. Tao Xie
+时    间：2016年3月28日上午8:45，3月29日下午2:00
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Tao Xie is an Associate Professor and Willett Faculty Scholar in the Department of Computer Science at the University of Illinois at Urbana-Champaign, USA. His research interests are in software engineering and software security, with focus on software testing, software analytics, and educational software engineering. He was an ACM Distinguished Speaker and is an IEEE Computer Society Distinguished Visitor. He received an NSF CAREER Award in 2009. He received a 2014 Google Faculty Research Award, a 2011 Microsoft Research Software Engineering Innovation Foundation (SEIF) Award, 2008, 2009, and 2010 IBM Faculty Awards, and a 2008 IBM Jazz Innovation Award. He was the Program Chair of ISSTA 2015.
+
+内容摘要：This course presents the latest research and practice on principles, techniques, and applications of parameterized unit testing in practice, highlighting success stories, research and education achievements, and future research directions in developer testing. The course will help improve developer skills and knowledge for writing PUTs and give overview of tool automation in supporting PUTs. Attendees will acquire the skills and knowledge needed to perform research or conduct practice in the field of developer testing and to integrate developer testing techniques in their own research, practice, and education.
+
+ 
+
+沙龙主题：Alan Turing: Founder of Computer Science
+主 讲 人：Prof. Jonathan Bowen
+时    间：2016年3月29日晚上7:30
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Jonathan Bowen, FBCS FRSA, is Chairman of Museophile Limited (founded in 2002) and Emeritus Professor of Computing at London South Bank University, where he established and headed the Centre for Applied Formal Methods in 2000. During 2013-15, he was Professor of Computer Science at Birmingham City University. His interests have ranged from formal methods, safety-critical systems, the Z notation, provably correct systems, rapid prototyping using logic programming, decompilation, hardware compilation, software/hardware co-design, linking semantics, and software testing, to the history of computing, museum informatics, and virtual communities.
+
+内容摘要：Alan Turing (1912–1954) has been increasingly recognised as an important mathematician and philosopher who despite his short life developed ideas that have led to foundational aspects of computer science and related fields. This talk provides an overview of the diverse aspects related to Turing’s remarkable achievements, with respect to the production of a book, The Turing Guide, a collected volume of 42 chapters. Although the story of Turing can be seen as one of tragedy, with his life cut short while still at the height of his intellectual powers, still short of his 42nd birthday, from a historical viewpoint Turing’s contribution to humankind has been triumphant.
+
+ 
+
+沙龙主题：Formal reasoning about infinite data values: An ongoing quest
+主 讲 人：Dr. Zhilin Wu
+时    间：2016年3月31日晚上7:30
+地    点：西南大学计信院学术报告厅（25教一楼0114）
+主办单位：西南大学计算机与信息科学学院 软件学院
+
+主讲人简介：Zhilin Wu is currently an associate research professor in State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences. His main research interests include program analysis and verification, computational logic, automata theory, and database theory. More information can be found at http://lcs.ios.ac.cn/~wuzl.
+
+内容摘要：Infinite data values are pervasive in computer systems, e.g. process identifiers, file names, integer or floating variables in programs, data parameters in network messages, records in databases, etc. Nevertheless, reasoning about them formally is notoriously difficult, since the infinity of data domains easily induces the undecidability of the reasoning tasks. The usual practice in most of the current approaches or tools is to ignore or abstract away the data infinity. Our long-term goal is to show that in many scenarios, proper formalisms can be found, so that on the one hand the infinite data values, instead of being abstracted away, can be dealt with directly and explicitly, and on the other hand, the reasoning process can still be largely automated and made efficient. In this talk, I will briefly summarise our efforts towards this goal in the last five years.
+
+======
+重庆国学大讲堂第47讲
+
+
+主讲题目：字里乾坤
+主讲嘉宾：鹏  宇
+时        间：2016年3月26日19:00
+地        点：西南大学十教501室
+主办单位：重庆国学院
+友情支持：重庆市华岩文教基金会
+ 
+
+主讲嘉宾简介：
+        鹏宇，男，汉族，博士，西南大学历史文化学院民族学院讲师。华东师范大学中文系文学学士、中国文字研究与应用中心硕士，复旦大学博士出土文献与古文字研究中心博士，清华大学出土文献研究与保护中心博士后，合作导师李学勤教授。读书期间，先后获得教育部博士研究生学术新人奖、上海市优秀毕业生、复旦大学博士国家奖学金、复旦大学2011年度研究生“学术之星”、华东师大大学研究生智慧奖学金。先后承担参与国家社科基金重大项目3项，独立主持国家社科基金项目1项，主持省部级项目2项，并完成中国博士后科学基金项目1项。在《文物》、《考古与文物》、《中华文史论丛》、《江汉考古》、《华夏考古》、《中国国家博物馆馆刊》、《南方文物》、《出土文献》、《中国文字研究》、《中国文字》等刊物及学术会议上发表论文35篇，计约30万字。现任中国文物学会青铜器专业委员会名誉理事，中国古文字学会会员，中国文字学会会员。主要研究方向为：出土文献、古文字、青铜器与先秦史。
+
+
+微信报名：微信中报名的前200名学生预留座位至18:55。
+        （1）关注“尚士国学”微信公众号；（2）点进第一篇文章即可进入报名系统。
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+======
+报告题目：非1：1型生物分子检测
+报  告  人：夏  帆  教授
+报告时间：2016年3月29日星期二 上午 10:00
+报告地点：化学化工学院 三楼会议室
+主办单位：校科协、化学化工学院
+
+
+报告人简介：
+        夏帆，华中科技大学教授、博士生导师、院长助理。目前主要从事的研究领域为生命分析化学。迄今为止，已在国际核心期刊上发表SCI论文60余篇（影响因子大于10的21篇）。SCI他引3000余次，H因子27。其中，他引次数超过100的论文10篇。研究成果受到国内外同行高度关注，多次被Nature，Nature China，Nano Today，NPG，Global Medical Discovery等期刊或网站选为研究亮点。2012年至今获得的人才计划及荣誉(省部级以上)如下：
+        (1) 2012年 中共中央组织部  青年千人计划
+        (2)2012年 湖北省委组织部  百人计划
+        (3)2013年 湖北省委组织部  特聘专家
+        (4)2014年 中华人民共和国科学技术部  青年973首席科学家
+        (5)2015年 国家自然科学基金委员会   杰出青年基金
+
+======
+
+西南大学计信院2016年前沿学术报告（三）
+Southwest University IT Faculty Seminar
+
+
+题        目：Database meets Deep Learning: Issues and Challenges
+报  告  人：Beng Chin教授  新加坡国立大学
+时        间：2016年3月25日（星期五）下午3:00
+地        点：西南大学计信院学术报告厅（第25教学楼一楼0114）
+
+
+报告人简介：
+
+        Beng Chin is a Distinguished Professor of Computer Science at the National University of Singapore (NUS), and an adjunct Chang Jiang Professor at Zhejiang University. He obtained his BSc (1st Class Honors) and PhD from Monash University, Australia, in 1985 and 1989 respectively. His research interests include database, distributed processing, and large scale analytics, in the aspects of system architectures, performance issues, security, accuracy and correctness.
+        Beng Chin has served as Vice PC Chair for ICDE'00,04,06, PC Chair for ACM SIGMOD'07, Core DB PC chair for VLDB'08, and PC co-Chair for IEEE ICDE'12 and IEEE Big Data'15. He was the Editor-in-Chief of IEEE Transactions on Knowledge and Data Engineering (TKDE)(2009-2012), and co-Editor-in-Chief of Journal of Big Data Research (2013-2015). He is serving as a Trustee Board Member and President of VLDB Endowment, and an Advisory Board Member of ACM SIGMOD.
+        Beng Chin was the recipient of ACM SIGMOD 2009 Contributions award, a co-winner of the 2011 Singapore President's Science Award, the recipient of 2012 IEEE Computer Society Kanai award, 2013 NUS Outstanding Researcher Award, and 2014 IEEE TCDE CSEE Impact Award. He was a recipient of VLDB'14 Best Paper award. He is a fellow of the ACM, IEEE, and Singapore National Academy of Science (SNAS).
+
+ 
+
+内容摘要：
+        Deep learning is one of the most popular topics in computer science in recent years. It has improved many complex data-driven applications such as image classification and speech recognition. Database community has worked on data-driven applications for many years. However, databases and deep learning are quite different in terms of techniques and applications. In this talk, we will discuss research problems in the intersection of deep learning and databases. Particularly, we shall analyze possible improvements for deep learning systems from database and dataflow perspectives, and discuss the implementation of our distributed deep learning platform called SINGA.
+
+======
+题        目：大数据与数据科学
+报  告  人：徐宗本 院士
+时        间：2016年3月24日（星期四）下午3:00
+地        点：第25教学楼一楼0114
+主办单位：校科协、数学与统计学院
+
+
+摘        要：
+        用大数据是大智慧，用好大数据则需要大智慧。本报告从分析大数据与大数据的时代特征出发，阐述大数据的科学价值及大数据技术的组成要素，说明“数据是基础、平台是支撑、分析是关键、效益是根本”以及“理论、技术、产业”伴生发展的性态特征。报告也详尽解释大数据分析与处理所面的核心挑战：分析基础被破坏、处理模式需革新、决策应用无基础等，同时提出解决这些挑战问题的可能途径。
+
+
+报告人简介：
+        徐宗本 中国科学院院士，数学家、信号与信息处理专家、西安交通大学教授。主要从事智能信息处理、机器学习、数据建模基础理论研究。曾提出稀疏信息处理的L(1/2)正则化理论,为稀疏微波成像提供了重要基础；发现并证明机器学习的“徐-罗奇”定理, 解决了神经网络与模拟演化计算中的一些困难问题,为非欧氏框架下机器学习与非线性分析提供了普遍的数量推演准则; 提出基于视觉认知的数据建模新原理与新方法，形成了聚类分析、判别分析、隐变量分析等系列数据挖掘核心算法, 并广泛应用于科学与工程领域。曾获国家自然科学二等奖、国家科技进步二等奖、中国CSIAM苏步青应用数学奖, 并在世界数学家大会(2010, 印度)上作45分钟特邀报告。
+
+======
+西南大学计信院2016年前沿学术报告（四）
+Southwest University IT Faculty Seminar
+
+ 
+
+题        目：Deep Action Parsing – A Multi-task Learning Framework
+报  告  人：邵岭  教授  英国诺森比亚大学
+时        间：2016年3月25日（星期五）下午4:00
+地        点：西南大学计信院学术报告厅（第25教学楼一楼0114）
+
+ 
+
+报告人简介：
+        Ling Shao is Professor of Computer Vision and Machine Intelligence and Head of the Computer Vision and Artificial Intelligence Group with the Department of Computer Science and Digital Technologies at Northumbria University, Newcastle upon Tyne and an Advanced Visiting Fellow with the Department of Electronic and Electrical Engineering at the University of Sheffield. He received the B.Eng. degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC), the M.Sc. degree in Medical Image Analysis and the Ph.D. (D.Phil.) degree in Computer Vision at the Robotics Research Group from the University of Oxford. Previously, he was a Senior Lecturer (2009-2014) with the Department of Electronic and Electrical Engineering at the University of Sheffield and a Senior Scientist (2005-2009) with Philips Research, The Netherlands. His research interests include Computer Vision, Image/Video Processing, Pattern Recognition and Machine Learning. He has authored/co-authored over 200 papers in refereed journals/conferences such as IEEE TPAMI, TIP, TNNLS, IJCV, ICCV, CVPR, IJCAI and ACM MM, and holds over 10 EU/US patents. Ling Shao is an Associate Editor of IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, and several other journals. He has edited three books and several special issues for journals such as TNNLS and PR. He has organized a number of international workshops with top conferences including ICCV, ECCV and ACM Multimedia. He is/was an Area Chair for WACV'14, BMVC'14/15/16, ICPR’16 and ICME'15 and has been serving as a Program Committee member for many international conferences, including ICCV, CVPR, ECCV, BMVC, and ACM MM, and as a reviewer for many leading journals. He is a Fellow of the British Computer Society, a Fellow of the IET, a Senior Member of the IEEE, and a Life Member of the ACM.
+
+ 
+
+内容摘要：
+        In this talk, I will cover two of my main research areas – human action recognition and deep learning. Action recognition has been an active research topic in computer vision due to its various applications in human-machine interaction, robotics, video surveillance and visual big data search. I will first review some related work on handcrafted features, feature/deep learning and attributes learning. Then I will introduce our recent multi-task system that canjointly solve three main problems: 1) Where in the video do the actions occur? (2) What categories do the actions belong to? and (3) Howare these actions performed?This multi-task learning framework is designed based on a state-of-the-art 3D deep convolutional neural network (3D-CNN). Specifically, in the training phase, action localization, classification and attributes learning can be jointly optimized via the proposed deep architecture. Once model training is completed, given an upcoming test video, we can describe each individual action in the video simultaneously as: where the action occurs, what the action is and how the action is performed.To train the deep network, we also introduce a new large-scale aligned action dataset, NASA, with 200K well labeled video clips. Finally, I will present the results of detailed action parsing on challenging, realistic datasets that are collected by us or publicly available. Some initial results on zero-shot learning via the obtained action attributes will be discussed too.
+
+======
+讲座题目：青春最是创业时——供给侧改革视域下的大学生创业之道
+主讲嘉宾：李家华
+讲座时间：2016年4月7日19:00
+讲座地点：西南大学光大礼堂
+主办单位：教务处
+
+
+主讲嘉宾简介：
+        李家华，教授，博导，著名生涯教育与创业学专家、全国青年就业创业教育优秀导师，被誉为“中国创业教育第一人”。
+        国际劳工组织KAB创业教育中国研究所所长、全国大学生创新创业联盟副理事长、教育部高等学校创业教育指导委员会副主任委员、教育部《高等学校创业教育教学基本要求》专家组组长、教育部组编全国首部《创业基础》示范教材主编、北京高校毕业生就业促进会专家委员会主席。全国青少年井冈山革命传统教育基地原党组书记、中央团校、中国青年政治学院原副校长。
+        大学毕业后留校任教，后赴美国斯坦福大学及哈佛大学留学。研究专长为：生涯教育、创业学。
+
+======
+题        目：Financial Innovations in Internet Economics
+报  告  人：邓小铁教授
+时        间：2016年3月18日（星期五）下午14:30-15:30
+地        点：电子信息工程学院三楼学术报告厅（南区学生二食堂后前行100米）
+主办单位：校科协、电子信息工程学院
+
+
+报告人简介：
+        邓小铁教授分别于清华大学、中国科学院和斯坦福大学取得学士学位，硕士学位以及博士学位。邓教授现在是上海交通大学的致远学院讲席教授，曾任教于英国利物浦大学，香港城市大学，加拿大纽约大学。在此之前，邓教授是西蒙弗雷泽大学（位于加拿大温哥华）加拿大国家科学与工程研究委员会（NSERC）的国际学者（international fellow）。邓教授的主要研究方向为算法博弈论在互联网经济中的应用。其研究工作涵盖了在线算法，并行算法以及联合优化等方面。邓教授因在算法和博弈论结合方面的突出贡献被ACM授予ACM Fellow（资深会员）称号。
+
+ 
+
+======
+主        题：青藏高原的气候变化及其影响
+主  讲  人：阳坤 研究员
+时        间：2016年 3月 18日（星期五）下午2：30—4：30
+地        点：西南大学地理科学学院101学术报告厅
+
+
+主讲人简介：
+        阳 坤，中国科学院青藏高原研究所研究员/百人计划，中科院青藏高原环境变化与地表过程重点实验室副主任，国家杰出青年科学基金获得者，Journal of Hydrology 期刊Associate Editor。多次在美国地球物理学会（AGU）年会、美国气象学会(AMS)年会、亚洲大洋洲地球物理学会（AOGS）年会以及国内学术会议作邀请报告，曾担任国际大型研究计划CEOP之水和能量平衡项目主席。并因发现高原边界层内水滴的蒸发冷却对边界层和对流云发展的影响机理获2003年北京国际气候会议青年科学家奖。
+        研究领域：陆面过程、卫星数据同化以及青藏高原水文与气候研究
+        学术成果：本人发表SCI论文100篇（第一作者31篇），被SCI期刊论文他引1400余次，研究成果被Science、Nature、PNAS、IPCC AR4等多次引用和报道。2013年获得国家杰出青年科学基金资助。
+
+ 
+
+======
+题        目：The Cognitive Neuroscience of Remembering
+
+报  告  人：Anthony Wagner
+
+时        间：3月16日上午9点
+
+地        点：心理学部415厅
+
+ 
+
+报告人简介：
+
+        Anthony Wagner教授毕业于University of California,（B.A.，1986-1992）、Stanford University （Ph.D，1992-1997），1997年曾赴Massachusetts General Hospital–Nuclear Magnetic Resonance Center攻读博士后（1997-1999），同时期也获得Harvard University的博士后学位。现任斯坦福大学心理学院教授，致力于从心理机制和神经基础两方面了解记忆是如何组织和发展的，特别关注认知控制和长时记忆之间的交互作用。曾在《Science》、《Trends in cognitive sciences》、《Brain》、《Neuron》、《The Journal of Neuroscience》、等高水平期刊上发表多篇文章，总引用次数达到21817。
+
+======
+题        目：中国地理期刊发展态势及地理论文写作注意事项
+报  告  人：何书金研究员
+时        间：2016年3月8日（星期二）下午15:00-17:00
+地        点：地理科学学院（24教学楼）101学术报告厅
+主办单位：校科协、地理科学学院
+
+
+报告人简介：
+        中国科学院地理科学与资源研究所研究员，中国地理学会副秘书长，中  国地理学会编辑出版工作委员会副主任，《地理学报》专职副主编、中英版编辑部主任。荣获国家环保总局“科技进步二等奖”、国土资源部“国土资源科学技术二等奖”、“北京市新闻出版行业领军人才”、“中国地理学会优秀编辑”等奖项。
+ 
+ 
+
+======
+主        题：2016年我国社会经济发展对岩溶研究工作的新需求
+报  告  人：袁道先 院士
+主  持  人：蒋勇军 教授            
+时        间：2016年3月15日（星期二）下午3：00
+地        点：地理科学学院301教室
+ 
+
+报告人简介：
+        袁道先 院士，国际著名地质学家、水文地质学家、岩溶学家。1991年11月当选为中国科学院院士，国务院政府特殊津贴专家。曾任中国第四纪研究会副主席，重庆市科协副主席，中国地质学会岩溶专业委员会主任等职。现任西南大学科协副主席，西南大学地理科学学院教授、博士生导师，西南大学岩溶环境与石漠化治理研究所所长。长期担任国际水文地质学家协会岩溶委员会（Karst Commission of the International Association of Hydrogeologists）和《Environmental Geology》期刊编委。
+
+        在《 Science 》、《地学前缘》、《地质论评》等国内外重要刊物发表论文50多篇，代表性专著有《岩溶环境学概论》、《Karst of China》、《中国岩溶动力系统》、《地质作用与碳循环》、《碳循环与岩溶地质环境》等。
+ 
+
+======
+题        目：畅谈我的中国飞机心脏强健梦--兼谈科技创新
+
+时        间：2016年3月11日（星期五）下午2:30
+地        点：第25教学楼一楼0114
+报  告  人：李应红院士
+主办单位：校科协
+联  系  人：张秀锦68250645
+                               
+
+报告人简介：
+        李应红院士， 1983年毕业于空军工程学院，1989年3月在南京理工大学获硕士学位。李应红先后组织完成了与我军装备发展相关的十多项重要科研课题，主要研究领域为：航空推进技术领域。先后获国家科技进步一等奖1项，三等奖1项，国家教学成果二等奖1项，军队科技进步一等奖3项、二等奖6项，发明专利13项。2003年获空军专业技术重大贡献一等奖，并提前晋升为专业技术4级。2004年7月，中央军委主席江泽民签署通令，给空军工程大学李应红记一等功。他是首批“新世纪百千万人才工程”国家级人选，国务院、中央军委军工产品定型专家咨询委员会委员，总装飞机总体技术专业组成员，两项国防973项目首席专家，曾入选教育部“新世纪优秀人才支持计划”，获中国工程院光华工程科技奖青年奖、中国科协“求是”奖、军队杰出专业技术人才奖。他曾当选中共“十六大”代表、全军英雄模范代表大会代表，被评为全军“爱军精武标兵”。2010年7月，晋升为专业技术少将军衔，同年晋升技术三级。2012年12月晋升技术二级。2013年当选为中国科学院院士。
+
+======
+西南大学计信院前沿学术报告
+Southwest University IT Faculty Seminar
+
+ 
+
+报告题目：大数据的交通分析应用---交通溯源与拥堵缓解
+报  告  人：王璞 教授
+时        间：2016年3月16日（星期三）下午2：30
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+
+ 
+
+报告人简介：
+        王璞，博士，教授，博士生导师，中南大学学术委员会委员，中南大学青年科协副主席，入选“湖湘青年英才”支持计划、“升华学者”特聘教授奖励计划。2005年7月在中国科学技术大学获得学士学位，2010年5月在美国圣母大学获得博士学位，2010-2011年在美国麻省理工学院进行博士后研究工作。
+        主要从事复杂网络、交通运输规划与管理、大数据等领域的研究，在Science、Nature Physics、Nature Communications等国际著名期刊发表论文20余篇。研究成果被NSF、BBC、NBC、MIT News、Scientific American等国际著名科研机构、媒体多次报道。
+        现任IEEE Transactions on Intelligent Transportation Systems副主编，中国人工智能学会智能交通专委会委员。
+
+
+内容摘要：
+        复杂网络科学、人类动力学、大数据分析领域的快速发展为解决交通问题提供了崭新途径。我们从大规模手机数据中提取小汽车出行信息，估计时变交通需求；基于二分网络思想，我们关联交通网络与车源小区，建立“道路使用网络”，不仅预测道路交通流，而且定位道路上的车辆来源。我们发现：不同交通小区的“拥堵贡献”存在很大差异，导致拥堵的大部分车流仅出自少量交通小区。我们研究了基于拥堵车源信息的交通需求控制方法、交通网络优化方法和出行路径诱导模型，研究结果表明利用拥堵车源信息能大幅提高交通组织优化效率。
+
+ 
+
+ 
+
+报告题目：Security in Cyberspace and Privacy in Big Data
+报  告  人：余水 博士
+时        间：2016年3月16日（星期三）下午4：00
+地        点：西南大学计信院学术报告厅（25教一楼0114）
+
+ 
+
+报告人简介：
+        Shui Yu is currently a Senior Lecturer of School of Information Technology, Deakin University. He is a member of Deakin University Academic Board (2015-2016), a Senior Member of IEEE, and a member of AAAS and ACM, the vice chair of Technical Subcommittee on Big Data Processing, Analytics, and Networking of IEEE Communication Society, and a member of IEEE Big Data Standardization Committee.
+        Dr Yu’s research interest includes Security and Privacy in Networking, Big Data, and Cyberspace, and mathematical modelling. He has published two monographs and edited two books, more than 150 technical papers, including top journals and top conferences, such as IEEE TPDS, IEEE TC, IEEE TIFS, IEEE TMC, IEEE TKDE, IEEE TETC, and IEEE INFOCOM. Dr Yu initiated the research field of networking for big data in 2013. His h-index is 21.
+        Dr Yu actively serves his research communities in various roles. He is currently serving the editorial boards of IEEE Communications Surveys and Tutorials, IEEE Access, and a number of other international journals. He has served more than 50 international conferences as a member of organizing committee, such as publication chair for IEEE Globecom 2015 and IEEE INFOCOM 2016, TPC co-chair for IEEE BigDataService 2015, IEEE ATNAC 2014 and 2015.
+        More information of Dr Yu can be found at http://www.deakin.edu.au/~syu/
+
+
+内容摘要：
+        Cybersecurity is an important topic nowadays, and privacy protection is another hot topic for the forthcoming big data era. In this talk, we will report the work we have done in cybersecurity, including attack detection, mitigation, and traceback. Moreover, we will present the critical problems that we are working in cybersecurity. We will also introduce the privacy protection issues that we are working on in big data.
+
+======
